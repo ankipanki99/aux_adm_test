@@ -174,41 +174,66 @@ Bloque II del programa oficial
 
 
 ---
+# 💻 Parte 2 – Bloque II: Ofimática e Informática General  
+*(Dentro de las 50 preguntas de la Parte 2 del examen)*
 
-## 🖥️ Grupo 2: Ofimática e Informática General
+## 🖥️ 1. Informática Básica  
+- Hardware y software  
+- Tipos de periféricos (entrada, salida, mixtos)  
+- Almacenamiento: unidades (bit, byte, KB, MB, GB, TB...)  
+- Sistemas de archivos  
+- Sistemas operativos: funciones generales
 
-7. **Informática Básica**  
-   - Hardware y software  
-   - Periféricos, almacenamiento, bits y bytes
+## 🪟 2. Sistema Operativo Windows 10  
+- Explorador de archivos y estructura de carpetas  
+- Menú Inicio, barra de tareas, configuración básica  
+- Herramientas del sistema: liberador de espacio, símbolo del sistema, PowerShell  
+- Atajos de teclado más frecuentes  
+- Propiedades, permisos, opciones de seguridad  
+- Configuración de red, usuarios y accesibilidad
 
-8. **Sistemas Operativos (Windows 10)**  
-   - Panel de control, explorador de archivos  
-   - Atajos, herramientas del sistema, configuración básica
+## 📄 3. Procesadores de Texto – Microsoft Word  
+- Cinta de opciones: pestañas principales y comandos  
+- Formato de texto y párrafo  
+- Tablas, columnas, saltos de página  
+- Encabezados, pies de página, estilos  
+- Combinación de correspondencia  
+- Inserción de elementos: imágenes, gráficos, formas  
+- Opciones de revisión, accesibilidad y navegación
 
-9. **Procesadores de Texto (Word)**  
-   - Comandos, formato, tablas, organigramas  
-   - SmartArt, combinaciones de teclas, estilos
+## 📊 4. Hojas de Cálculo – Microsoft Excel  
+- Estructura básica: celdas, filas, columnas  
+- Fórmulas y funciones frecuentes:  
+  - `SUMA`, `SI`, `SI.CONJUNTO`, `COCIENTE`, `EXTRAE`  
+- Formato de celda (número, moneda, porcentaje, fecha)  
+- Gráficos y visualización de datos  
+- Filtros, ordenación, validación de datos  
+- Protección y bloqueo de celdas  
+- Relleno automático y series
 
-10. **Hojas de Cálculo (Excel)**  
-   - Fórmulas (`SI`, `COCIENTE`, `EXTRAE`)  
-   - Formato de celdas, funciones condicionales  
-   - Gráficos, combinaciones de datos
+## 📧 5. Correo Electrónico – Microsoft Outlook  
+- Envío, recepción y organización de mensajes  
+- Archivos adjuntos  
+- Contactos, calendarios y citas  
+- Reglas, categorías y carpetas  
+- Uso básico del cliente de correo electrónico
 
-11. **Bases de Datos (Access)**  
-   - Tipos de datos, campos, consultas  
-   - Relación entre tablas, uso básico
+## 🌐 6. Internet y Navegadores  
+- Navegadores web (Edge, Chrome…)  
+- Conceptos de URL, protocolo, dominio, IP  
+- Descargas, historial, navegación segura  
+- Buenas prácticas y riesgos comunes
 
-12. **Correo Electrónico (Outlook)**  
-   - Envío, recepción, gestión de bandejas  
-   - Adjuntos, contactos, citas, firma electrónica
+## 🛡️ 7. Redes y Seguridad Informática  
+- Tipos de redes: LAN, WAN, VPN  
+- Protocolos: TCP/IP, HTTP, HTTPS, DHCP  
+- Direcciones IP y máscara de subred  
+- Seguridad informática básica:  
+  - Antivirus, firewall, certificados digitales, contraseñas  
+  - Actualizaciones del sistema (Windows Update)  
+  - Permisos y perfiles de usuario  
+  - Reconocimiento de amenazas y buenas prácticas
 
-13. **Internet y Redes**  
-   - Navegadores, IP, dominios  
-   - LAN, WAN, redes inalámbricas, uso seguro de Internet
-
-14. **Seguridad Informática**  
-   - VPN, antivirus, firewall, contraseñas  
-   - Certificados digitales, permisos, prácticas seguras
 
 ---
 
