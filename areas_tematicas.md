@@ -1,5 +1,7 @@
 # 📚 Áreas Temáticas del Examen – Cuerpo General Auxiliar de la Administración del Estado
 
+📌 *Esta guía está diseñada para ayudar a los opositores a preparar el examen con un enfoque estratégico, organizado y basado en la experiencia real de los ejercicios oficiales.*
+
 Este documento presenta una organización detallada y estructurada de las **áreas temáticas** del examen oficial para el ingreso al **Cuerpo General Auxiliar de la Administración del Estado (Ingreso Libre)**, conforme a la normativa vigente y la experiencia acumulada en las últimas convocatorias.
 
 El ejercicio único del proceso selectivo se divide en dos partes diferenciadas:
@@ -22,6 +24,8 @@ Este análisis se ha completado con una **comparativa temática por años**, que
 ---
 
 ## 🧾 Parte 1 – Bloque I: Organización Pública
+
+📘 *Esta parte corresponde a la Parte 1 del examen oficial (60 preguntas): 30 de organización pública + 30 psicotécnicos.*
 
 ### 🏛️ 1. Constitución Española
 
@@ -112,6 +116,8 @@ Este análisis se ha completado con una **comparativa temática por años**, que
 
 ## 🧠 Parte 1 – Bloque II: Psicotécnicos
 
+📘 *Esta parte corresponde a la Parte 1 del examen oficial (60 preguntas): incluye razonamiento verbal, numérico, lógico y abstracto.*
+
 Este bloque evalúa capacidades cognitivas básicas y habilidades de razonamiento que permiten al aspirante desenvolverse con eficacia en tareas administrativas. No se requiere formación previa, pero sí entrenamiento.
 
 ### 🔤 1. Razonamiento Verbal y Vocabulario
@@ -160,6 +166,8 @@ Este bloque evalúa capacidades cognitivas básicas y habilidades de razonamient
 ---
 
 ## 💼 Parte 2 – Bloque I: Actividad Administrativa y Atención al Ciudadano
+
+📘 *Esta parte corresponde a la Parte 2 del examen oficial (40 preguntas): incluye tramitación administrativa, documentación, administración electrónica, atención y protección de datos.*
 
 Este bloque agrupa los contenidos relativos a la interacción entre la ciudadanía y la Administración, los canales de acceso, el tratamiento documental y las garantías en materia de datos y accesibilidad. Se corresponde con la actividad diaria de un auxiliar administrativo en oficinas de atención, registro y soporte general.
 
@@ -211,6 +219,8 @@ Este bloque agrupa los contenidos relativos a la interacción entre la ciudadan�
 ---
 
 ## 💻 Parte 2 – Bloque II: Ofimática e Informática General
+
+📘 *Esta parte corresponde a la Parte 2 del examen oficial (40 preguntas): incluye Word, Excel, Outlook, Windows 10, redes, internet y seguridad informática.*
 
 Este bloque evalúa los conocimientos necesarios para el uso funcional de herramientas digitales y sistemas informáticos en el entorno administrativo. Se corresponde con tareas propias del puesto como el manejo de documentos, hojas de cálculo, correo electrónico y navegación por internet en entornos seguros.
 
@@ -308,6 +318,14 @@ Esta tabla recoge el rango de preguntas, la media y el peso aproximado en el exa
 |                                      
 |                                      | **Total acumulado**                               |                        |           | **100%**               |
 
+## 🧭 ¿Cómo usar esta guía?
+
+- Utiliza esta estructura para planificar tu calendario de estudio por bloques.
+- Refuerza más las áreas con mayor peso o variabilidad en los últimos años.
+- Marca los temas dominados y repasa aquellos con legislación concreta.
+- Practica psicotécnicos con tablas, lógica y operaciones numéricas usando esta estructura.
+- Revisa la tabla de estadísticas para enfocar los repasos en las materias que más caen en el examen.
+
 ## ✅ Conclusión
 
 El análisis detallado de los exámenes oficiales del periodo 2017–2024 pone de manifiesto una estructura estable del proceso selectivo, pero con **ajustes graduales en el enfoque temático** que reflejan los cambios normativos y las prioridades administrativas de la AGE.
@@ -322,5 +340,4 @@ Entre los aspectos más relevantes destacan:
 Esta guía temática, elaborada a partir de la práctica real de los exámenes, proporciona una base sólida para organizar el estudio, priorizar contenidos y entrenar de forma eficaz. Con un enfoque orientado a los bloques con mayor peso y una visión estratégica de la evolución de los contenidos, el opositor podrá afrontar el examen con mayor seguridad y preparación.
 
 ---
-
 
