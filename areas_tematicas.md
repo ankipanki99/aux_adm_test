@@ -267,6 +267,35 @@ Este bloque evalúa los conocimientos necesarios para el uso funcional de herram
 
 ---
 
+## 📊 Estadísticas por Bloque y Área Temática (2017–2024)
+
+Esta tabla recoge el rango de preguntas, la media y el peso aproximado en el examen oficial del Cuerpo General Auxiliar de la AGE, según el análisis de los exámenes de 2017 a 2024.
+
+| **Bloque**                            | **Área Temática**                                 | **Rango de Preguntas** | **Media** | **Peso Estimado (%)** |
+|--------------------------------------|---------------------------------------------------|------------------------|-----------|------------------------|
+| Bloque I - Organización Pública      | Constitución y Organización del Estado            | 18–21                 | 20.00     | 20.0%                  |
+|                                      | Leyes Administrativas                              | 7–9                   | 8.25      | 8.2%                   |
+|                                      | Función Pública                                    | 3–4                   | 3.38      | 3.4%                   |
+|                                      | Unión Europea                                      | 2–3                   | 2.38      | 2.4%                   |
+|                                      | Igualdad y Diversidad                              | 2–4                   | 3.25      | 3.2%                   |
+|                                      | Dependencia                                        | 1–1                   | 1.00      | 1.0%                   |
+|                                      | Transparencia y Gobierno Abierto                  | 2–3                   | 2.88      | 2.9%                   |
+|                                      | Hacienda Pública                                   | 2–3                   | 2.50      | 2.5%                   |
+| Bloque II - Psicotécnicos            | Razonamiento verbal y vocabulario                 | 5–6                   | 5.63      | 5.6%                   |
+|                                      | Razonamiento lógico y tablas                      | 5–7                   | 6.13      | 6.1%                   |
+|                                      | Series numéricas y cálculo                        | 5–7                   | 6.13      | 6.1%                   |
+|                                      | Razonamiento abstracto y figuras                  | 4–5                   | 4.63      | 4.6%                   |
+|                                      | Problemas de aplicación                           | 5–6                   | 5.75      | 5.8%                   |
+| Bloque III - Actividad Administrativa| Atención al ciudadano y calidad                   | 4–6                   | 5.50      | 5.5%                   |
+|                                      | Registro, archivo y documentación                 | 4–5                   | 4.88      | 4.9%                   |
+|                                      | Administración electrónica                        | 4–6                   | 5.38      | 5.4%                   |
+|                                      | Accesibilidad y protección de datos               | 3–4                   | 3.88      | 3.9%                   |
+| Bloque IV - Ofimática e Informática | Word y Outlook                                     | 5–6                   | 5.75      | 5.8%                   |
+|                                      | Excel                                              | 5–7                   | 6.00      | 6.0%                   |
+|                                      | Windows y sistemas                                 | 4–4                   | 4.00      | 4.0%                   |
+|                                      | Internet y redes                                   | 3–4                   | 3.63      | 3.6%                   |
+|                                      | Seguridad informática                              | 2–5                   | 3.50      | 3.5%                   |
+
 ## ✅ Conclusión
 
 El análisis detallado de los exámenes oficiales del periodo 2017–2024 pone de manifiesto una estructura estable del proceso selectivo, pero con **ajustes graduales en el enfoque temático** que reflejan los cambios normativos y las prioridades administrativas de la AGE.
