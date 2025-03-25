@@ -1,3 +1,16 @@
+---
+title: "Áreas Temáticas del Examen – Cuerpo General Auxiliar de la Administración del Estado"
+description: "Guía estructurada por bloques y áreas temáticas del examen oficial, basada en los exámenes reales entre 2017 y 2024. Incluye análisis por años, peso de cada área, recomendaciones de estudio y comparativa estadística."
+author: Blanca Santillana
+created: 2025-03-25
+version: 1.0
+keywords: ["oposiciones", "auxiliar administrativo", "áreas temáticas", "bloques examen", "psicotécnicos", "AGE", "Excel", "Constitución", "función pública", "ofimática"]
+document_type: Guía de estudio
+language: es
+license: CC BY-NC-SA 4.0
+---
+
+
 # 📚 Áreas Temáticas del Examen – Cuerpo General Auxiliar de la Administración del Estado
 
 📌 *Esta guía está diseñada para ayudar a los opositores a preparar el examen con un enfoque estratégico, organizado y basado en la experiencia real de los ejercicios oficiales.*
