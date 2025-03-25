@@ -267,6 +267,17 @@ Este bloque evalúa los conocimientos necesarios para el uso funcional de herram
 
 ---
 
+## 📌 Distribución global de preguntas por bloque
+
+A partir del análisis de los exámenes de 2017 a 2024, la estructura general en número de preguntas por bloque temático es la siguiente:
+
+- **Bloque I – Organización Pública**: 30 preguntas
+- **Bloque II – Psicotécnicos**: 30 preguntas
+- **Bloque III – Actividad Administrativa**: 20–25 preguntas (dentro de la Parte 2)
+- **Bloque IV – Ofimática e Informática**: 25–30 preguntas (dentro de la Parte 2)
+
+El total de preguntas del examen único es de **100 preguntas**, divididas en dos partes (Parte 1 con 60 preguntas y Parte 2 con 40, incluyendo reserva y penalización por error).
+
 ## 📊 Estadísticas por Bloque y Área Temática (2017–2024)
 
 Esta tabla recoge el rango de preguntas, la media y el peso aproximado en el examen oficial del Cuerpo General Auxiliar de la AGE, según el análisis de los exámenes de 2017 a 2024.
@@ -294,7 +305,8 @@ Esta tabla recoge el rango de preguntas, la media y el peso aproximado en el exa
 |                                      | Excel                                              | 5–7                   | 6.00      | 6.0%                   |
 |                                      | Windows y sistemas                                 | 4–4                   | 4.00      | 4.0%                   |
 |                                      | Internet y redes                                   | 3–4                   | 3.63      | 3.6%                   |
-|                                      | Seguridad informática                              | 2–5                   | 3.50      | 3.5%                   |
+|                                      
+|                                      | **Total acumulado**                               |                        |           | **100%**               |
 
 ## ✅ Conclusión
 
@@ -310,4 +322,5 @@ Entre los aspectos más relevantes destacan:
 Esta guía temática, elaborada a partir de la práctica real de los exámenes, proporciona una base sólida para organizar el estudio, priorizar contenidos y entrenar de forma eficaz. Con un enfoque orientado a los bloques con mayor peso y una visión estratégica de la evolución de los contenidos, el opositor podrá afrontar el examen con mayor seguridad y preparación.
 
 ---
+
 
