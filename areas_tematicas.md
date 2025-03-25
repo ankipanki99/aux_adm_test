@@ -146,25 +146,16 @@ Este bloque evalúa capacidades cognitivas básicas y habilidades de razonamient
 - Secuencias codificadas
 - Transformaciones simples
 
-### ### 📐 5. Problemas de Aplicación y Casos Prácticos&#xD;
+### 📐 5. Problemas de Aplicación y Casos Prácticos
 
-
-
-\- Planteamientos tipo:
-
-&#x20; \- “Si una empresa contrata X personas cada 2 días…”
-
-&#x20; \- “¿Cuántos libros caben en una estantería?”
-
-&#x20; \- “¿Qué letra sigue en la secuencia B, 3, F, 4…?”
-
-\- Cálculo con lógica aplicada
-
-\- Enunciados con condiciones múltiples
-
-\- Aplicación de reglas prácticas con interpretación de datos o estructuras
-
-\- Planteamientos combinados con datos numéricos, verbales o lógicos
+- Planteamientos tipo:
+  - “Si una empresa contrata X personas cada 2 días…”
+  - “¿Cuántos libros caben en una estantería?”
+  - “¿Qué letra sigue en la secuencia B, 3, F, 4…?”
+- Cálculo con lógica aplicada
+- Enunciados con condiciones múltiples
+- Aplicación de reglas prácticas con interpretación de datos o estructuras
+- Planteamientos combinados con datos numéricos, verbales o lógicos
 
 ---
 
@@ -290,5 +281,4 @@ Entre los aspectos más relevantes destacan:
 Esta guía temática, elaborada a partir de la práctica real de los exámenes, proporciona una base sólida para organizar el estudio, priorizar contenidos y entrenar de forma eficaz. Con un enfoque orientado a los bloques con mayor peso y una visión estratégica de la evolución de los contenidos, el opositor podrá afrontar el examen con mayor seguridad y preparación.
 
 ---
-
 
