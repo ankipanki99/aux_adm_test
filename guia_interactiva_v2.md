@@ -526,7 +526,199 @@ Esta tabla recoge el rango de preguntas, la media y el peso aproximado en el exa
 
 ---
 
+📊 Estadísticas por Bloque y Área Temática (2017–2024)
+Esta tabla recoge el rango de preguntas, la media y el peso aproximado en el examen oficial del Cuerpo General Auxiliar de la AGE, según el análisis de los exámenes de 2017 a 2024.
 
+Bloque	Área Temática	Rango de Preguntas	Media	Peso Estimado (%)
+Bloque I - Organización Pública	Constitución y Organización del Estado	18–21	20.00	20.0%
+Leyes Administrativas	7–9	8.25	8.2%
+Función Pública	3–4	3.38	3.4%
+Unión Europea	2–3	2.38	2.4%
+Igualdad y Diversidad	2–4	3.25	3.2%
+Dependencia	1–1	1.00	1.0%
+Transparencia y Gobierno Abierto	2–3	2.88	2.9%
+Hacienda Pública	2–3	2.50	2.5%
+Bloque II - Psicotécnicos	Razonamiento verbal y vocabulario	5–6	5.63	5.6%
+Razonamiento lógico y tablas	5–7	6.13	6.1%
+Series numéricas y cálculo	5–7	6.13	6.1%
+Razonamiento abstracto y figuras	4–5	4.63	4.6%
+Problemas de aplicación	5–6	5.75	5.8%
+Bloque III - Actividad Administrativa	Atención al ciudadano y calidad	4–6	5.50	5.5%
+Registro, archivo y documentación	4–5	4.88	4.9%
+Administración electrónica	4–6	5.38	5.4%
+Accesibilidad y protección de datos	3–4	3.88	3.9%
+Bloque IV - Ofimática e Informática	Word y Outlook	5–6	5.75	5.8%
+Excel	5–7	6.00	6.0%
+Windows y sistemas	4–4	4.00	4.0%
+Internet y redes	3–4	3.63	3.6%
+Total acumulado			100%
+📈 Gráfico de distribución por bloques
+Peso por bloques:
+█████████████████████████████ 30% Organización Pública
+█████████████████████████████ 30% Psicotécnicos
+████████████████████ 20% Actividad Administrativa 
+████████████████████ 20% Ofimática e Informática
+🧭 ¿Cómo usar esta guía?
+Esta guía está diseñada para maximizar la eficiencia de tu estudio y aumentar tus probabilidades de éxito. A continuación te presentamos algunas estrategias para aprovecharla al máximo:
+
+📝 Planificación estratégica
+Utiliza esta estructura para planificar tu calendario de estudio por bloques
+Comienza por las áreas de mayor peso en el examen
+Marca tu progreso en cada sección para visualizar tu avance
+Alterna entre temas teóricos y psicotécnicos para mantener la motivación
+🎯 Enfoque en áreas críticas
+Refuerza más las áreas con mayor peso o variabilidad en los últimos años
+Dedica tiempo extra a las materias que te resulten más difíciles
+Practica regularmente los psicotécnicos, que representan un 30% del examen
+Revisa la tabla de estadísticas para ajustar tus prioridades
+🔄 Sistema de repaso
+Programa repasos periódicos de lo ya estudiado
+Utiliza las preguntas tipo como test de autoevaluación
+Crea fichas de repaso con los conceptos clave de cada área
+Establece un sistema de repaso espaciado (1 día, 3 días, 1 semana, 2 semanas)
+👥 Estudio colaborativo
+Forma grupos de estudio para reforzar conocimientos
+Explica los temas a otras personas para consolidar el aprendizaje
+Intercambia recursos y técnicas de estudio con otros opositores
+Participa en foros o comunidades de preparación de oposiciones
+📆 Plan de estudio recomendado
+Plan a 6 meses (24 semanas)
+Semanas 1-3: Constitución y Organización del Estado
+Semanas 4-5: Leyes Administrativas
+Semanas 6-7: Función Pública, UE, Igualdad
+Semana 8: Transparencia, Dependencia, Hacienda
+Semanas 9-14: Psicotécnicos (dedicación constante)
+Semanas 15-17: Actividad Administrativa
+Semanas 18-20: Ofimática e Informática
+Semanas 21-24: Repaso global, simulacros y refuerzo de áreas débiles
+Plan a 3 meses (12 semanas)
+Semanas 1-2: Constitución, Organización del Estado y Leyes Administrativas
+Semana 3: Función Pública, UE, Igualdad, Transparencia, Dependencia
+Semanas 4-6: Psicotécnicos (2 horas diarias)
+Semana 7: Atención al ciudadano, Registro y Documentación
+Semana 8: Administración electrónica, Accesibilidad y Protección de datos
+Semanas 9-10: Ofimática e Informática
+Semanas 11-12: Repaso intensivo, simulacros completos y ajustes finales
+Plan a 1 mes (4 semanas) - Plan de choque
+Semana 1: Constitución, Organización del Estado y conceptos clave de todas las áreas
+Semana 2: Psicotécnicos intensivos, 50 ejercicios diarios
+Semana 3: Actividad Administrativa y Ofimática básica
+Semana 4: Simulacros, repaso de errores y memorización de conceptos clave
+🧠 Técnicas de memorización por área
+Para Legislación y Normativa
+Acrónimos: Crea palabras con las iniciales (ej. "PACLO" para Principios Administrativos: Publicidad, Acceso, Cooperación, Legalidad, Objetividad)
+Mapas mentales: Organiza visualmente artículos y conceptos relacionados
+Historias encadenadas: Conecta conceptos abstractos con situaciones cotidianas
+Fichas de repaso: Crea tarjetas con pregunta/respuesta para cada artículo clave
+Para Psicotécnicos
+Práctica cronometrada: Realiza ejercicios con tiempo limitado
+Patrones recurrentes: Identifica y memoriza los patrones más comunes en series
+Visualización: Para problemas espaciales, dibuja o visualiza mentalmente las transformaciones
+Trucos de cálculo rápido: Aprende atajos matemáticos para operaciones frecuentes
+Para Ofimática
+Aprendizaje práctico: Realiza ejercicios reales en Word, Excel y Outlook
+Fichas de atajos: Crea tarjetas con combinaciones de teclas más útiles
+Recreación de escenarios: Practica situaciones típicas de trabajo administrativo
+Memorización visual: Asocia iconos con funciones específicas
+❌ Errores frecuentes y cómo evitarlos
+En la preparación
+Error: Estudiar sin un plan estructurado
+
+Solución: Sigue el cronograma propuesto y adapta los tiempos según tu progreso
+Error: Dejar los psicotécnicos para el final
+
+Solución: Practica regularmente desde el principio, idealmente 30 minutos diarios
+Error: No realizar simulacros completos
+
+Solución: Haz al menos un simulacro completo por semana en las últimas 4 semanas
+En el examen
+Error: No leer bien el enunciado de las preguntas
+
+Solución: Subraya palabras clave como "NO", "EXCEPTO", "SIEMPRE"
+Error: Bloqueo en psicotécnicos complejos
+
+Solución: Marca la pregunta, continúa y vuelve al final con mente fresca
+Error: Gestión inadecuada del tiempo
+
+Solución: Asigna 45 seg. máximo por pregunta y deja las difíciles para el final
+Error: Cambiar respuestas marcadas por inseguridad
+
+Solución: Solo cambia si has encontrado un error objetivo en tu razonamiento
+📢 Novedades legislativas relevantes
+Estas son las actualizaciones normativas más recientes que pueden aparecer en el examen:
+
+Novedades 2023-2024
+Ley 4/2023: Igualdad real y efectiva de las personas trans y derechos LGTBI
+Ley 15/2022: Igualdad de trato y no discriminación
+Real Decreto-ley 5/2023: Conciliación de la vida familiar y laboral
+Modificaciones en teletrabajo: Nuevas regulaciones tras la experiencia COVID
+Novedades 2021-2022
+Ley 20/2021: Medidas urgentes para la reducción de la temporalidad en el empleo público
+Ley 22/2021: Presupuestos Generales actualizados
+Real Decreto 203/2021: Reglamento de actuación y funcionamiento del sector público por medios electrónicos
+📋 Autoevaluación rápida
+Test de nivel por bloques
+Para cada bloque, contesta estas 5 preguntas básicas para identificar tu nivel inicial:
+
+Organización Pública
+¿Cuántos títulos tiene la Constitución Española?
+¿Quién elige al Presidente del Gobierno?
+¿Cuál es el plazo para resolver un procedimiento administrativo?
+¿A qué institución europea pertenecen los eurodiputados?
+¿Qué contempla un Plan de Igualdad?
+Psicotécnicos
+Si A=1, B=2, C=3... ¿cuánto es la suma de las letras en EDAD?
+Continúa la serie: 3, 6, 12, 24, ...
+¿Qué palabra no encaja? Alegría, Tristeza, Inteligencia, Miedo
+Si 3 personas pintan una pared en 12 horas, ¿cuánto tardan 6 personas?
+¿Cuál es el antónimo de "conciso"?
+Actividad Administrativa
+¿Qué es el registro de entrada y salida?
+¿Qué diferencia hay entre información general y particular?
+¿Qué es una sede electrónica?
+¿Qué derechos reconoce el RGPD?
+¿Qué es una carta de servicios?
+Ofimática e Informática
+¿Qué hace la función SI en Excel?
+¿Qué diferencia hay entre CC y CCO en un correo electrónico?
+¿Qué es un archivo .docx?
+¿Qué es el phishing?
+¿Qué combinación de teclas permite copiar en Windows?
+🔗 Anexos y recursos
+📚 Bibliografía recomendada
+Manual del Auxiliar Administrativo del Estado - Editorial MAD, ADAMS o CEP
+Test psicotécnicos comentados - Editorial TEA o CEDE
+Ofimática para opositores - Editorial Anaya Multimedia
+Constitución Española comentada - Editorial Tecnos o Civitas
+🌐 Recursos online
+INAP - Instituto Nacional de Administración Pública
+BOE - Legislación consolidada
+Portal de transparencia
+Microsoft Learn - Tutoriales gratuitos
+📱 Aplicaciones útiles
+Oposapiens: Test y ejercicios para oposiciones
+Quizlet: Tarjetas de memoria para legislación
+Microsoft Office Mobile: Práctica de ofimática desde el móvil
+Lumosity: Entrenamiento cognitivo para psicotécnicos
+✅ Conclusión
+El análisis detallado de los exámenes oficiales del periodo 2017–2024 pone de manifiesto una estructura estable del proceso selectivo, pero con ajustes graduales en el enfoque temático que reflejan los cambios normativos y las prioridades administrativas de la AGE.
+
+Entre los aspectos más relevantes destacan:
+
+La consolidación de los bloques clásicos (Constitución, Administración, Función Pública) como pilares del Bloque I.
+El refuerzo de materias transversales como la igualdad, la protección de datos, la accesibilidad y la administración electrónica, cada vez más presentes en las preguntas.
+El aumento del nivel técnico en la parte ofimática, especialmente en el uso de funciones de Excel, navegación en Windows 10 y medidas de seguridad informática básicas.
+La constante presencia de razonamiento psicotécnico en la Parte 1, con un equilibrio entre lógica verbal, numérica y tabular, lo que exige entrenamiento sistemático.
+Esta guía temática, elaborada a partir de la práctica real de los exámenes, proporciona una base sólida para organizar el estudio, priorizar contenidos y entrenar de forma eficaz. Con un enfoque orientado a los bloques con mayor peso y una visión estratégica de la evolución de los contenidos, el opositor podrá afrontar el examen con mayor seguridad y preparación.
+
+💡 Recuerda: La clave del éxito está en la constancia, la práctica regular y un estudio estructurado. Utiliza esta guía como tu hoja de ruta personalizada y adapta las estrategias a tu ritmo de aprendizaje.
+
+📝 Mis notas personales
+(Espacio reservado para tus anotaciones, impresiones, dudas o recordatorios personales)
+
+Actualizado: Marzo 2025
+
+---
 # Anexo I: Ejemplos de Preguntas Reales por Bloque Temático (2017-2024)
 
 Este anexo recopila ejemplos de preguntas extraídas de exámenes oficiales de las convocatorias entre 2017 y 2024, organizadas por bloques temáticos y con diferentes niveles de dificultad. Te ayudará a familiarizarte con el tipo de preguntas reales que puedes encontrar en tu examen.
