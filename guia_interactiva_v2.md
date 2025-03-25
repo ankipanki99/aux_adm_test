@@ -1,1541 +1,787 @@
 ---
-title: "Áreas Temáticas del Examen – Cuerpo General Auxiliar de la Administración del Estado"
-description: "Guía estructurada por bloques y áreas temáticas del examen oficial, basada en los exámenes reales entre 2017 y 2024. Incluye análisis por años, peso de cada área, recomendaciones de estudio y comparativa estadística."
-author: Blanca Santillana
-created: 2025-03-25
-version: 1.1
-keywords: ["oposiciones", "auxiliar administrativo", "áreas temáticas", "bloques examen", "psicotécnicos", "AGE", "Excel", "Constitución", "función pública", "ofimática"]
-document_type: Guía de estudio interactiva
-language: es
-license: CC BY-NC-SA 4.0
+title: "Guía Completa de Preparación - Cuerpo General Auxiliar de la Administración del Estado"
+description: "Guía estructurada por bloques y áreas temáticas del examen oficial, basada en el análisis de exámenes reales entre 2017 y 2024. Incluye plan de estudio, estadísticas, técnicas de memorización y recursos."
+author: "Preparación AGE"
+created: 2025-03-26
+version: 2.0
+keywords: ["oposiciones", "auxiliar administrativo", "AGE", "temario", "psicotécnicos", "ofimática", "examen", "administración pública"]
+document_type: "Guía de estudio interactiva"
+language: "es"
+license: "CC BY-NC-SA 4.0"
 ---
 
-# 📚 Áreas Temáticas del Examen – Cuerpo General Auxiliar de la Administración del Estado
+# 📚 GUÍA COMPLETA DE PREPARACIÓN 
+# CUERPO GENERAL AUXILIAR DE LA ADMINISTRACIÓN DEL ESTADO
 
-📌 *Esta guía interactiva está diseñada para ayudar a los opositores a preparar el examen con un enfoque estratégico, organizado y basado en la experiencia real de los ejercicios oficiales.*
+> *Esta guía interactiva ha sido diseñada para maximizar tus posibilidades de éxito, basándose en el análisis exhaustivo de los exámenes oficiales celebrados entre 2017 y 2024.*
 
 ## 📋 Tabla de Contenidos
+
 - [Introducción](#introducción)
-- [Metodología](#-metodología)
-- [Parte 1 – Bloque I: Organización Pública](#-parte-1--bloque-i-organización-pública)
-- [Parte 1 – Bloque II: Psicotécnicos](#-parte-1--bloque-ii-psicotécnicos)
-- [Parte 2 – Bloque I: Actividad Administrativa](#-parte-2--bloque-i-actividad-administrativa-y-atención-al-ciudadano)
-- [Parte 2 – Bloque II: Ofimática e Informática](#-parte-2--bloque-ii-ofimática-e-informática-general)
-- [Distribución de Preguntas por Bloque](#-distribución-global-de-preguntas-por-bloque)
-- [Estadísticas por Área Temática](#-estadísticas-por-bloque-y-área-temática-20172024)
-- [Cómo Usar esta Guía](#-cómo-usar-esta-guía)
-- [Plan de Estudio Recomendado](#-plan-de-estudio-recomendado)
-- [Técnicas de Memorización](#-técnicas-de-memorización-por-área)
-- [Errores Frecuentes](#-errores-frecuentes-y-cómo-evitarlos)
-- [Novedades Legislativas](#-novedades-legislativas-relevantes)
-- [Conclusión](#-conclusión)
-- [Anexos y Recursos](#-anexos-y-recursos)
+- [Estructura del Examen](#estructura-del-examen)
+- [Metodología de Análisis](#metodología-de-análisis)
+- [PARTE 1](#parte-1)
+  - [Bloque I: Organización Pública](#bloque-i-organización-pública)
+  - [Bloque II: Psicotécnicos](#bloque-ii-psicotécnicos)
+- [PARTE 2](#parte-2)
+  - [Bloque III: Actividad Administrativa](#bloque-iii-actividad-administrativa-y-atención-al-ciudadano)
+  - [Bloque IV: Ofimática e Informática](#bloque-iv-ofimática-e-informática-general)
+- [Distribución de Preguntas](#distribución-de-preguntas-por-bloque)
+- [Estadísticas por Área Temática](#estadísticas-por-área-temática-2017-2024)
+- [Plan de Estudio Estratégico](#plan-de-estudio-estratégico)
+- [Técnicas de Estudio y Memorización](#técnicas-de-estudio-y-memorización)
+- [Errores Frecuentes y Soluciones](#errores-frecuentes-y-soluciones)
+- [Novedades Legislativas 2023-2024](#novedades-legislativas-2023-2024)
+- [Autoevaluación Inicial](#autoevaluación-inicial)
+- [Conclusiones](#conclusiones)
+- [Anexo I: Ejemplos de Preguntas Reales](#anexo-i-ejemplos-de-preguntas-reales-por-bloque-temático-2017-2024)
+- [Anexo II: Análisis de Dificultad por Año](#anexo-ii-análisis-de-la-evolución-de-dificultad-por-años)
+- [Anexo III: Recursos Recomendados](#anexo-iii-recursos-recomendados)
 
 ## Introducción
 
-Este documento presenta una organización detallada y estructurada de las **áreas temáticas** del examen oficial para el ingreso al **Cuerpo General Auxiliar de la Administración del Estado (Ingreso Libre)**, conforme a la normativa vigente y la experiencia acumulada en las últimas convocatorias.
+El Cuerpo General Auxiliar de la Administración del Estado representa una de las opciones más demandadas dentro de las oposiciones a la Administración General del Estado (AGE). Su atractivo radica en la estabilidad laboral, las condiciones profesionales y la relativamente menor dificultad de acceso en comparación con otros cuerpos superiores.
 
-El ejercicio único del proceso selectivo se divide en dos partes diferenciadas:
+Sin embargo, la alta competencia hace necesario un enfoque estratégico y sistemático en la preparación. Esta guía pretende facilitarte ese proceso, ofreciendo una estructura adaptada a la realidad del examen y basada en datos objetivos extraídos de convocatorias anteriores.
 
-- **Parte 1**: Evalúa conocimientos jurídicos, constitucionales y organizativos del Estado, así como capacidades básicas mediante pruebas psicotécnicas.
-- **Parte 2**: Se centra en aspectos prácticos de la actividad administrativa, atención al ciudadano y el uso de herramientas ofimáticas e informáticas en el entorno de trabajo público.
+A diferencia de otros materiales genéricos, este documento se ha elaborado analizando los exámenes reales de los últimos años (2017-2024), identificando patrones, tendencias y evolución en la dificultad y distribución de las preguntas. El resultado es una herramienta práctica que te permitirá:
 
----
+- **Priorizar** las áreas con mayor peso en el examen
+- **Adaptar** tu estudio a la evolución reciente de las pruebas
+- **Organizar** tu tiempo de preparación de forma eficiente
+- **Reconocer** el tipo de preguntas que aparecen en cada bloque
 
-## 📌 Metodología
+## Estructura del Examen
 
-Las áreas temáticas recogidas en este archivo han sido **elaboradas a partir del análisis sistemático del contenido real de los exámenes oficiales celebrados entre 2017 y 2024**. Se han identificado los bloques conceptuales más recurrentes y las tendencias que han ido ganando peso en las distintas convocatorias.
+El proceso selectivo para el ingreso al Cuerpo General Auxiliar de la Administración del Estado consta de un **ejercicio único** dividido en dos partes obligatorias y eliminatorias:
 
-Este análisis se ha completado con una **comparativa temática por años**, que permite visualizar:
+### PARTE 1 (60 preguntas + 5 de reserva)
+- **Bloque I**: 30 preguntas sobre Organización Pública
+- **Bloque II**: 30 preguntas de carácter psicotécnico
 
-- Cómo se distribuyen las preguntas por bloque temático
-- Qué materias mantienen un peso constante
-- Qué temas han incrementado su presencia en los últimos años (por ejemplo: igualdad, protección de datos, seguridad informática o Excel)
+### PARTE 2 (50 preguntas + 5 de reserva)
+- **Bloque III**: 20-25 preguntas sobre Actividad Administrativa y Atención al Ciudadano
+- **Bloque IV**: 25-30 preguntas sobre Ofimática e Informática General
 
-### Análisis de la evolución de dificultad por años
+**Características generales**:
+- Tiempo de realización: 90 minutos
+- Formato: Preguntas tipo test con 4 opciones de respuesta
+- Penalización: Cada respuesta errónea resta 1/3 del valor de una correcta
+- Calificación: De 0 a 100 puntos (50 puntos máximo para cada parte)
+- Mínimo para superar cada parte: 25 puntos
 
-**Tendencias identificadas (2017-2024):**
+## Metodología de Análisis
 
-| Periodo | Organización Pública | Psicotécnicos | Actividad Administrativa | Ofimática |
-|---------|----------------------|---------------|-------------------------|-----------|
-| 2017-2018 | Preguntas sobre artículos concretos de la Constitución y estructura básica | Predominio de series numéricas y verbales sencillas | Preguntas directas de normativa de atención | Funciones básicas de Office |
-| 2019-2021 | Mayor enfoque en procedimiento administrativo y relaciones entre órganos | Mayor presencia de tablas complejas con variables múltiples | Mayor peso de administración electrónica | Más preguntas de Excel y seguridad |
-| 2022-2024 | Incremento de preguntas sobre modificaciones legislativas recientes | Incremento en la complejidad de problemas de razonamiento | Preguntas con aplicación práctica de protección de datos | Funciones avanzadas y seguridad informática |
+La información presentada en esta guía se ha obtenido tras un análisis sistemático de:
+- Exámenes oficiales (2017-2024)
+- Convocatorias y temarios publicados
+- Estadísticas de aprobados
+- Tendencias en la evolución de contenidos
 
----
+Este enfoque ha permitido identificar:
+- **Bloques más relevantes** por número de preguntas
+- **Áreas con mayor estabilidad** en el tiempo
+- **Tendencias emergentes** en los últimos años
+- **Nivel de dificultad** por bloque y evolución temporal
 
-## 🧾 Parte 1 – Bloque I: Organización Pública
+## PARTE 1
 
-> 📘 *Esta parte corresponde a la Parte 1 del examen oficial (60 preguntas): 30 de organización pública + 30 psicotécnicos.*
-> 
-> **Peso en el examen: 30%**  
-> **Nivel de dificultad: ⭐⭐⭐**  
-> **Evolución: Estable, con incremento en igualdad y transparencia**
+### Bloque I: Organización Pública
 
-### 🏛️ 1. Constitución Española
+> **Peso en el examen**: 30%  
+> **Nivel de dificultad**: ⭐⭐⭐  
+> **Evolución**: Estable, con incremento en igualdad y transparencia
 
-#### Contenido clave
-- Principios generales
-- Derechos y deberes fundamentales
-- Organización territorial del Estado
+#### 1. Constitución Española
+
+**Contenido clave**:
+- Principios generales y valores superiores
+- Estructura y características
 - Reforma constitucional
+- Derechos y deberes fundamentales
+- Garantías y suspensión de derechos
 - Tribunal Constitucional
-- Control de constitucionalidad
 
-#### Recursos oficiales
-- [Constitución Española (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229)
-- [Web del Tribunal Constitucional](https://www.tribunalconstitucional.es/)
+**Artículos más preguntados**:
+- Art. 1: Estado social y democrático de derecho
+- Art. 9: Principio de legalidad
+- Art. 14: Igualdad ante la ley
+- Art. 27: Derecho a la educación
+- Art. 53: Garantías de las libertades y derechos
+- Art. 116: Estados de alarma, excepción y sitio
+- Art. 167-168: Procedimientos de reforma
 
-### 🏗️ 2. Organización del Estado
+#### 2. Organización del Estado
 
-#### Contenido clave
-- La Corona
-- Las Cortes Generales: Congreso y Senado
-- El Gobierno: composición, funciones, responsabilidad
+**Contenido clave**:
+- La Corona: funciones, sucesión, regencia
+- Las Cortes Generales: composición, funciones
+- El Gobierno: formación, composición, cese
 - Administración General del Estado
-- Poder Judicial
-- Defensor del Pueblo
-- Tribunal de Cuentas
+- Poder Judicial: principios, estructura, CGPJ
+- Defensor del Pueblo y Tribunal de Cuentas
+- Organización territorial
 
-#### Recursos oficiales
-- [Web de la Casa Real](https://www.casareal.es/)
-- [Web del Congreso](https://www.congreso.es/)
-- [Web del Senado](https://www.senado.es/)
-- [Portal de la Administración General](https://administracion.gob.es/)
+**Temas más frecuentes**:
+- Nombramiento y cese del Presidente del Gobierno
+- Estructura y funciones del Congreso y Senado
+- Principio de unidad jurisdiccional
+- Competencias del Defensor del Pueblo
 
-### 🇪🇺 3. Unión Europea
+#### 3. Unión Europea
 
-#### Contenido clave
-- Instituciones principales: Parlamento, Consejo, Comisión, Tribunal de Justicia
-- Banco Central Europeo y otras entidades
-- Normativa europea y su aplicación
+**Contenido clave**:
+- Instituciones principales y sus funciones
+- Parlamento, Consejo, Comisión y Tribunal de Justicia
+- Banco Central Europeo
 - Tratados fundamentales
-- Principios de subsidiariedad, primacía y cooperación
+- Derecho comunitario y su aplicación
 
-#### Recursos oficiales
-- [Portal de la Unión Europea](https://europa.eu/european-union/index_es)
-- [Web del Parlamento Europeo](https://www.europarl.europa.eu/portal/es)
+**Temas más frecuentes**:
+- Formaciones del Consejo de la UE
+- Composición del Parlamento Europeo
+- Funciones de las principales instituciones
+- Competencias del Tribunal de Justicia
 
-### ⚖️ 4. Leyes Administrativas Generales
+#### 4. Leyes Administrativas Generales
 
-#### Contenido clave
-- Ley 39/2015, del Procedimiento Administrativo Común
-  - Derechos de los ciudadanos
-  - Procedimiento administrativo, actos, notificaciones, recursos
-- Ley 40/2015, del Régimen Jurídico del Sector Público
-  - Estructura organizativa
-  - Competencias
+**Contenido clave**:
+- Ley 39/2015 del Procedimiento Administrativo Común
+  - Interesados, representación
+  - Plazos, términos, cómputo
+  - Actos administrativos: requisitos, eficacia
+  - Procedimiento administrativo: fases
+  - Recursos administrativos
+- Ley 40/2015 del Régimen Jurídico del Sector Público
   - Órganos administrativos
-  - Relaciones interadministrativas
+  - Competencia, delegación, avocación
+  - Funcionamiento electrónico del sector público
 
-#### Recursos oficiales
-- [Ley 39/2015 (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565)
-- [Ley 40/2015 (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566)
+**Temas más frecuentes**:
+- Plazos para recursos administrativos
+- Notificación de actos administrativos
+- Trámites esenciales del procedimiento
+- Nulidad y anulabilidad
 
-### 🧑‍💼 5. Función Pública
+#### 5. Función Pública
 
-#### Contenido clave
-- Texto Refundido del EBEP (RD Legislativo 5/2015)
-  - Clases de empleados públicos
-  - Derechos y deberes
-  - Jornada, permisos y licencias
-  - Carrera profesional, situaciones administrativas
-  - Régimen disciplinario
-  - Provisión de puestos y movilidad
+**Contenido clave**:
+- TREBEP (RD Legislativo 5/2015)
+- Clases de empleados públicos
+- Adquisición y pérdida de la condición de funcionario
+- Derechos y deberes
+- Situaciones administrativas
+- Régimen disciplinario
+- Provisión de puestos y movilidad
 
-#### Recursos oficiales
-- [EBEP (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719)
-- [Portal Funciona](https://www.funciona.es/)
+**Temas más frecuentes**:
+- Adquisición de la condición de funcionario
+- Situaciones administrativas (excedencias, servicios especiales)
+- Clasificación de puestos
+- Faltas y sanciones disciplinarias
 
-### 🌍 6. Igualdad, Diversidad y No Discriminación
+#### 6. Igualdad, Diversidad y No Discriminación
 
-#### Contenido clave
-- Ley Orgánica 3/2007: Igualdad efectiva entre mujeres y hombres
-- Ley 15/2022: Igualdad de trato y no discriminación
-- Ley 4/2023: Igualdad real y efectiva de las personas trans y derechos LGTBI
-- Políticas públicas de igualdad
-- Prevención del acoso y discriminación en el ámbito laboral
-- Principios constitucionales y normativa aplicable
-- Planes de igualdad en la AGE
+**Contenido clave**:
+- Ley 3/2007 de Igualdad efectiva
+- Ley 15/2022 de Igualdad de trato
+- Ley 4/2023 de personas trans y derechos LGTBI
+- Discriminación directa e indirecta
+- Acoso sexual y por razón de sexo
+- Planes de igualdad
 
-#### Recursos oficiales
-- [Ley 3/2007 (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115)
-- [Ley 15/2022 (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2022-11589)
-- [Ley 4/2023 (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2023-4516)
+**Temas más frecuentes**:
+- Tipos de discriminación
+- Medidas de acción positiva
+- Órganos de igualdad
+- Tutela judicial
 
-### 🧓 7. Dependencia
+#### 7. Dependencia
 
-#### Contenido clave
-- Ley 39/2006, de promoción de la autonomía personal y atención a personas en situación de dependencia
+**Contenido clave**:
+- Ley 39/2006 de Promoción de la Autonomía Personal
+- Sistema para la Autonomía y Atención a la Dependencia
 - Grados de dependencia
-- Prestaciones y servicios del sistema
-- Coordinación institucional
+- Prestaciones y servicios
+- Financiación del sistema
 
-#### Recursos oficiales
-- [Ley 39/2006 (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990)
-- [SAAD - Sistema para la Autonomía y Atención a la Dependencia](https://www.imserso.es/imserso_01/autonomia_personal_dependencia/saad/index.htm)
+**Temas más frecuentes**:
+- Grados de dependencia
+- Catálogo de servicios y prestaciones
+- Órganos de participación y coordinación
 
-### 🧭 8. Transparencia, Buen Gobierno y Gobierno Abierto 
+#### 8. Transparencia y Gobierno Abierto
 
-#### Contenido clave
-- Ley 19/2013, de Transparencia, Acceso a la Información Pública y Buen Gobierno
-- Consejo de Transparencia y Buen Gobierno 
-- Publicidad activa y derecho de acceso 
-- Participación ciudadana 
-- Planes de Gobierno Abierto 
-- Indicadores y evaluación de la gestión
+**Contenido clave**:
+- Ley 19/2013 de Transparencia
+- Publicidad activa
+- Derecho de acceso a la información
+- Consejo de Transparencia y Buen Gobierno
+- Planes de Gobierno Abierto
+- Límites al derecho de acceso
 
-#### Recursos oficiales
-- [Ley 19/2013 (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12887)
-- [Portal de Transparencia](https://transparencia.gob.es/)
-- [Consejo de Transparencia y Buen Gobierno](https://www.consejodetransparencia.es/)
+**Temas más frecuentes**:
+- Información sujeta a publicidad activa
+- Procedimiento de solicitud de información
+- Causas de inadmisión de solicitudes
+- Composición y funciones del CTBG
 
-### 💰 9. Hacienda Pública y Presupuestos Generales del Estado
+#### 9. Hacienda Pública
 
-#### Contenido clave
-- Ley 47/2003, General Presupuestaria
+**Contenido clave**:
+- Ley 47/2003 General Presupuestaria
 - Principios presupuestarios
-- Estructura del presupuesto
-- Fases del gasto público
-- Créditos presupuestarios 
-- Control del gasto
+- Estructura de los PGE
+- Clasificación de los créditos
+- Fases del procedimiento de gasto
+- Modificaciones presupuestarias
 
-#### Recursos oficiales
-- [Ley 47/2003 (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614)
-- [Portal de la Hacienda Pública](https://www.hacienda.gob.es/)
+**Temas más frecuentes**:
+- Clasificación de los créditos presupuestarios
+- Fases de ejecución del gasto público
+- Tipos de modificaciones presupuestarias
 
----
+### Bloque II: Psicotécnicos
 
-## 🧠 Parte 1 – Bloque II: Psicotécnicos
+> **Peso en el examen**: 30%  
+> **Nivel de dificultad**: ⭐⭐⭐⭐  
+> **Evolución**: Estable, con aumento en razonamiento lógico y tablas
 
-> 📘 *Esta parte corresponde a la Parte 1 del examen oficial (60 preguntas): incluye razonamiento verbal, numérico, lógico y abstracto.*
-> 
-> **Peso en el examen: 30%**  
-> **Nivel de dificultad: ⭐⭐⭐⭐**  
-> **Evolución: Estable, con tendencia al aumento en razonamiento lógico y tablas**
+#### 1. Razonamiento Verbal y Vocabulario
 
-Este bloque evalúa capacidades cognitivas básicas y habilidades de razonamiento que permiten al aspirante desenvolverse con eficacia en tareas administrativas. No se requiere formación previa, pero sí entrenamiento.
-
-### 🔤 1. Razonamiento Verbal y Vocabulario
-
-#### Contenido clave
+**Tipos de ejercicios**:
 - Sinónimos y antónimos
-- Palabras con significado similar o contrario
-- Definiciones precisas
-- Comprensión de términos y matices de lenguaje
-- Elección de la palabra que no encaja en un grupo
+- Significados de palabras
+- Definiciones
+- Palabras que no encajan en un grupo
 
-#### Técnicas de resolución
+**Estrategias de resolución**:
 - Analizar el significado específico de cada término
-- Identificar matices y connotaciones
-- Prestar atención a prefijos, sufijos y etimología
-- Practicar con diccionarios de sinónimos y antónimos
+- Identificar matices semánticos
+- Descartar opciones claramente erróneas
+- Prestar atención a prefijos y sufijos
 
-### 📊 2. Razonamiento Lógico y Tablas
+#### 2. Razonamiento Lógico y Tablas
 
-#### Contenido clave
-- Análisis de tablas con datos (empresas, ponencias, libros, flores, etc.)
-- Comparación de valores, medias, sumas y diferencias
+**Tipos de ejercicios**:
+- Tablas con múltiples variables (flores, empresas, ponencias, biblioteca)
+- Condiciones combinadas
 - Clasificación de elementos
-- Relación entre categorías (por ejemplo, productos y precios)
-- Interpretación de gráficos o cuadros de texto
+- Interpretación de datos cruzados
 
-#### Técnicas de resolución
-- Leer detenidamente todos los datos de la tabla
-- Anotar las relaciones entre columnas y filas
-- Elaborar tablas auxiliares si es necesario
-- Verificar las conclusiones obtenidas
+**Estrategias de resolución**:
+- Leer completamente toda la información
+- Organizar los datos en esquemas simples
+- Descartar opciones que incumplan alguna condición
+- Comprobar la respuesta con todos los criterios
 
-### 🔢 3. Series Numéricas y Operaciones
+#### 3. Series Numéricas y Operaciones
 
-#### Contenido clave
-- Series ascendentes/descendentes
-- Series alternadas, geométricas, combinadas
-- Cálculo mental: porcentajes, fracciones, proporciones
-- Ecuaciones simples o equivalencias entre letras y valores
-- Comparación de cocientes y proporciones
+**Tipos de ejercicios**:
+- Series ascendentes/descendentes 
+- Series con varios patrones alternos
+- Operaciones para completar igualdades
+- Ecuaciones simples
+- Porcentajes y proporciones
 
-#### Técnicas de resolución
-- Identificar el patrón de la serie (suma, resta, multiplicación, combinados)
-- Comprobar si hay secuencias alternas o con varios pasos
-- Verificar relaciones entre números consecutivos y no consecutivos
-- Aplicar operaciones básicas y comprobar resultados
+**Estrategias de resolución**:
+- Calcular diferencias entre términos consecutivos
+- Verificar si hay multiplicaciones o divisiones
+- Comprobar patrones en posiciones pares e impares
+- Probar diferentes operaciones
 
-### 🔁 4. Razonamiento Abstracto y Figuras
+#### 4. Razonamiento Abstracto y Secuencias
 
-#### Contenido clave
-- Series gráficas (en algunos años)
-- Identificación de patrones lógicos no numéricos
-- Series de letras o símbolos
-- Secuencias codificadas
-- Transformaciones simples
+**Tipos de ejercicios**:
+- Secuencias de letras o símbolos
+- Codificaciones (letras por números o símbolos)
+- Patrones a identificar
+- Transformaciones lógicas
 
-#### Técnicas de resolución
-- Identificar cambios de posición, rotación, reflexión
-- Analizar adiciones o sustracciones de elementos
-- Buscar patrones de alternancia o repetición
-- Aislar las variables que cambian en cada paso
+**Estrategias de resolución**:
+- Asignar valores numéricos a letras
+- Buscar patrones de alternancia
+- Identificar cambios de posición o inversiones
+- Probar distintas transformaciones
 
-### 📐 5. Problemas de Aplicación y Casos Prácticos
+#### 5. Problemas de Aplicación
 
-#### Contenido clave
-- Planteamientos tipo:
-  - "Si una empresa contrata X personas cada 2 días…"
-  - "¿Cuántos libros caben en una estantería?"
-  - "¿Qué letra sigue en la secuencia B, 3, F, 4…?"
-- Cálculo con lógica aplicada
-- Enunciados con condiciones múltiples
-- Aplicación de reglas prácticas con interpretación de datos o estructuras
-- Planteamientos combinados con datos numéricos, verbales o lógicos
+**Tipos de ejercicios**:
+- Problemas de trabajo (rendimiento, tiempo)
+- Problemas de reparto
+- Problemas de llenado
+- Cuestiones de ordenación y clasificación
 
-#### Técnicas de resolución
-- Extraer datos relevantes del enunciado y organizarlos
-- Identificar la operación o relación lógica que hay que aplicar
-- Resolver por partes si el problema tiene varios pasos
-- Comprobar que la solución cumpla todas las condiciones
+**Estrategias de resolución**:
+- Identificar los datos relevantes
+- Plantear la relación entre las variables
+- Aplicar reglas de tres o proporciones
+- Comprobar la solución con los datos del enunciado
 
----
+## PARTE 2
 
-## 💼 Parte 2 – Bloque I: Actividad Administrativa y Atención al Ciudadano
+### Bloque III: Actividad Administrativa y Atención al Ciudadano
 
-> 📘 *Esta parte corresponde a la Parte 2 del examen oficial (40 preguntas): incluye tramitación administrativa, documentación, administración electrónica, atención y protección de datos.*
-> 
-> **Peso en el examen: 20%**  
-> **Nivel de dificultad: ⭐⭐⭐**  
-> **Evolución: Creciente importancia de administración electrónica y protección de datos**
+> **Peso en el examen**: 20%  
+> **Nivel de dificultad**: ⭐⭐⭐  
+> **Evolución**: Creciente importancia de administración electrónica y protección de datos
 
-Este bloque agrupa los contenidos relativos a la interacción entre la ciudadanía y la Administración, los canales de acceso, el tratamiento documental y las garantías en materia de datos y accesibilidad. Se corresponde con la actividad diaria de un auxiliar administrativo en oficinas de atención, registro y soporte general.
+#### 1. Atención al Ciudadano y Calidad
 
-### 🧾 1. Atención al Ciudadano y Calidad en la AGE
+**Contenido clave**:
+- RD 951/2005, marco general para la mejora de la calidad
+- Cartas de servicios y compromisos de calidad
+- Quejas y sugerencias: tramitación y plazos
+- Servicios de información y atención multicanal
+- Programas de calidad en la AGE
 
-#### Contenido clave
-- Normativa de atención y calidad en los servicios públicos (RD 951/2005)
-- Quejas, sugerencias y reclamaciones
-- Derechos del ciudadano en su relación con la AGE
-- Servicios de atención presencial, telefónica y telemática
+**Temas más frecuentes**:
+- Programas de calidad en la AGE
+- Plazos para resolver quejas y sugerencias
+- Diferencias entre quejas, sugerencias y recursos
+- Criterios de calidad en la prestación de servicios
 
-#### Recursos oficiales
-- [RD 951/2005 (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2005-14836)
-- [Portal de Calidad de los Servicios Públicos](https://www.mptfp.gob.es/portal/funcionpublica/gobernanza-publica/calidad.html)
+#### 2. Servicios de Información Administrativa
 
-### 🏢 2. Servicios de Información Administrativa
+**Contenido clave**:
+- RD 208/1996, de servicios de información y atención
+- Información general y particular: características
+- Funciones del Centro de Información Administrativa
+- Punto de Acceso General (PAGe)
+- Ventanilla única y oficinas integradas
 
-#### Contenido clave
-- Información general y particular
-- Funciones de las oficinas de información y atención
-- Punto de Acceso General (PAGe), ventanilla única y oficinas integradas
-- Papel de la Comisión Interministerial de Información Administrativa
+**Temas más frecuentes**:
+- Diferencia entre información general y particular
+- Organización de las oficinas de información
+- Funciones del Centro de Información Administrativa
+- Servicios del Punto de Acceso General
 
-#### Recursos oficiales
-- [Punto de Acceso General](https://administracion.gob.es/)
-- [Portal 060](https://www.060.es/)
+#### 3. Documentación, Registro y Archivo
 
-### 🗂️ 3. Documentación, Registro y Archivo
+**Contenido clave**:
+- RD 1708/2011, Sistema Español de Archivos
+- Concepto de documento y expediente administrativo
+- Registro de entrada y salida: requisitos
+- Ciclo vital de los documentos
+- Tipos de archivo: oficina, central, intermedio e histórico
+- Transferencias entre archivos
 
-#### Contenido clave
-- Concepto de documento administrativo
-- Registro de entrada y salida (presencial y electrónico)
-- Tipos de archivo: de oficina, intermedio e histórico
-- Ciclo de vida del documento
-- Transferencias documentales y conservación
+**Temas más frecuentes**:
+- Funciones de cada tipo de archivo
+- Datos mínimos del asiento registral
+- Transferencias documentales
+- Ciclo vital del documento
 
-#### Recursos oficiales
-- [Guía de archivo electrónico](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/Archivo_electronico.html)
-- [Norma Técnica de Interoperabilidad](https://www.boe.es/buscar/act.php?id=BOE-A-2012-10048)
+#### 4. Administración Electrónica
 
-### 🌐 4. Administración Electrónica
+**Contenido clave**:
+- RD 203/2021, actuación y funcionamiento electrónico
+- Sede electrónica y portal web
+- Sistemas de identificación y firma electrónica
+- Registro electrónico
+- Notificaciones electrónicas
+- Expediente y documento electrónicos
 
-#### Contenido clave
-- Ley 39/2015 y 40/2015 en relación con los medios electrónicos
-- Identificación y firma electrónica
-- Registro electrónico, notificación electrónica
-- Sede electrónica, Carpeta ciudadana, Dirección Electrónica Habilitada
-- Relación electrónica obligatoria para ciertos colectivos
+**Temas más frecuentes**:
+- Colectivos obligados a relacionarse electrónicamente
+- Características de la sede electrónica
+- Sistemas válidos de identificación y firma
+- Carpeta ciudadana
 
-#### Recursos oficiales
-- [Portal de Administración Electrónica](https://administracionelectronica.gob.es/)
-- [Carpeta Ciudadana](https://sede.administracion.gob.es/carpeta/clave.htm)
+#### 5. Accesibilidad
 
-### ♿ 5. Accesibilidad
+**Contenido clave**:
+- RD 366/2007, accesibilidad en la AGE
+- Condiciones de las oficinas públicas
+- Señalización accesible
+- Documentos e impresos accesibles
+- Accesibilidad web y digital
 
-#### Contenido clave
-- Real Decreto 366/2007
+**Temas más frecuentes**:
 - Condiciones de accesibilidad en oficinas públicas
-- Señalización, documentación y asistencia adaptada
-- Accesibilidad digital en la Administración
+- Documentación en formatos accesibles
+- Señalización adaptada
+- Condiciones de atención personalizada
 
-#### Recursos oficiales
-- [RD 366/2007 (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6239)
-- [Observatorio de Accesibilidad](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad.html)
+#### 6. Protección de Datos
 
-### 🔐 6. Protección de Datos
-
-#### Contenido clave
+**Contenido clave**:
 - Reglamento General de Protección de Datos (RGPD)
 - Ley Orgánica 3/2018 (LOPDGDD)
-- Derechos: acceso, rectificación, supresión, portabilidad, oposición
+- Principios del tratamiento
+- Derechos de los interesados
+- Medidas de seguridad
+- Delegado de Protección de Datos
+
+**Temas más frecuentes**:
+- Derechos ARCO-POL
+- Principios del tratamiento
+- Bases legítimas para el tratamiento
 - Responsable y encargado del tratamiento
-- Medidas de seguridad y confidencialidad
 
-#### Recursos oficiales
-- [RGPD (BOE)](https://www.boe.es/doue/2016/119/L00001-00088.pdf)
-- [LOPDGDD (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673)
-- [Agencia Española de Protección de Datos](https://www.aepd.es/)
+### Bloque IV: Ofimática e Informática General
 
----
+> **Peso en el examen**: 20%  
+> **Nivel de dificultad**: ⭐⭐⭐  
+> **Evolución**: Creciente complejidad en Excel y seguridad informática
 
-## 💻 Parte 2 – Bloque II: Ofimática e Informática General
+#### 1. Informática Básica
 
-> 📘 *Esta parte corresponde a la Parte 2 del examen oficial (40 preguntas): incluye Word, Excel, Outlook, Windows 10, redes, internet y seguridad informática.*
-> 
-> **Peso en el examen: 20%**  
-> **Nivel de dificultad: ⭐⭐⭐**  
-> **Evolución: Creciente complejidad en Excel y seguridad informática**
+**Contenido clave**:
+- Hardware y software: conceptos fundamentales
+- Periféricos de entrada, salida y almacenamiento
+- Unidades de medida: byte, KB, MB, GB, TB
+- Tipos de archivos y formatos
+- Sistemas operativos: funciones básicas
 
-Este bloque evalúa los conocimientos necesarios para el uso funcional de herramientas digitales y sistemas informáticos en el entorno administrativo. Se corresponde con tareas propias del puesto como el manejo de documentos, hojas de cálculo, correo electrónico y navegación por internet en entornos seguros.
+**Temas más frecuentes**:
+- Clasificación de periféricos
+- Conversiones entre unidades de almacenamiento
+- Extensiones de archivo y su significado
+- Componentes básicos de un ordenador
 
-### 🖥️ 1. Informática Básica
+#### 2. Sistema Operativo Windows 10
 
-#### Contenido clave
-- Hardware y software
-- Periféricos de entrada, salida y mixtos
-- Sistemas de almacenamiento y unidades de medida
-- Tipos de archivos y extensiones comunes
+**Contenido clave**:
+- Entorno gráfico y escritorio
+- Explorador de archivos
+- Panel de control y configuración
+- Herramientas del sistema
+- Cortana y búsquedas
+- Cuentas, usuarios y permisos
+- Atajos de teclado fundamentales
 
-#### Recursos oficiales
-- [Portal de Administración Electrónica - Glosario](https://administracionelectronica.gob.es/pae_Home/pae_Documentacion/pae_Glosario.html)
-
-### 🪟 2. Sistema Operativo Windows 10
-
-#### Contenido clave
-- Explorador de archivos y estructura de carpetas
-- Herramientas del sistema (Liberador de espacio, Administrador de tareas, Símbolo del sistema)
+**Temas más frecuentes**:
+- Herramientas administrativas y del sistema
+- Gestión de archivos y carpetas
 - Configuración básica del sistema
-- Usuarios, permisos, accesos directos y accesibilidad
+- Atajos de teclado más utilizados
 
-#### Recursos prácticos
-- [Guía oficial de Windows 10](https://support.microsoft.com/es-es/windows)
-- [Atajos de teclado de Windows 10](https://support.microsoft.com/es-es/windows/m%C3%A9todos-abreviados-de-teclado-de-windows-10-dcc61a57-8ff0-cffe-9796-cb9706c75eec)
+#### 3. Microsoft Word 365
 
-### 📄 3. Procesadores de Texto – Microsoft Word
-
-#### Contenido clave
-- Edición y formato de texto y párrafo
-- Inserción de tablas, imágenes, encabezados y pies de página
+**Contenido clave**:
+- Entorno de trabajo y elementos básicos
+- Edición básica y avanzada de documentos
+- Formatos de texto, párrafo y página
+- Tablas, imágenes y elementos gráficos
+- Revisión y corrección de documentos
 - Combinación de correspondencia
-- Herramientas de revisión y accesibilidad
+- Plantillas y documentos maestros
 
-#### Recursos prácticos
-- [Centro de formación de Microsoft Word](https://support.microsoft.com/es-es/word)
-- [Guía rápida de Word](https://support.microsoft.com/es-es/office/formaci%C3%B3n-de-word-para-windows-7bcd85e6-2c3d-4c3c-a2a5-5ed8847eae73)
+**Temas más frecuentes**:
+- Combinación de correspondencia
+- Estilos y formatos
+- Índices y referencias cruzadas
+- Herramientas de revisión
 
-### 📊 4. Hojas de Cálculo – Microsoft Excel
+#### 4. Microsoft Excel 365
 
-#### Contenido clave
-- Fórmulas básicas y funciones: SUMA, SI, SI.CONJUNTO, COCIENTE, EXTRAE
-- Formatos de celda, validación de datos
-- Gráficos, filtros y ordenación
-- Protección de celdas y estructura del libro
+**Contenido clave**:
+- Estructura de la hoja de cálculo
+- Formato de celdas y hojas
+- Fórmulas básicas y avanzadas
+- Funciones: matemáticas, lógicas, texto, fecha
+- Referencias absolutas y relativas
+- Tablas y gráficos
+- Filtros y ordenación
+- Formato condicional
 
-#### Recursos prácticos
-- [Centro de formación de Microsoft Excel](https://support.microsoft.com/es-es/excel)
-- [Fórmulas y funciones básicas](https://support.microsoft.com/es-es/office/formaci%C3%B3n-sobre-excel-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+**Temas más frecuentes**:
+- Funciones SI, SI.CONJUNTO, BUSCARV, CONCATENAR
+- Referencias absolutas vs. relativas
+- Formatos condicionales
+- Gráficos y tablas dinámicas
 
-### 📧 5. Correo Electrónico – Microsoft Outlook
+#### 5. Microsoft Outlook 365
 
-#### Contenido clave
-- Envío, recepción y organización de mensajes
-- Archivos adjuntos
-- Contactos, calendarios y citas
-- Reglas, categorías y carpetas
-- Uso básico del cliente de correo electrónico
+**Contenido clave**:
+- Gestión de correo electrónico
+- Contactos y libretas de direcciones
+- Calendario y citas
+- Reglas y filtros
+- Categorías y carpetas
+- Respuestas automáticas
+- Opciones de seguridad
 
-#### Recursos prácticos
-- [Centro de formación de Microsoft Outlook](https://support.microsoft.com/es-es/outlook)
-- [Guía rápida de Outlook](https://support.microsoft.com/es-es/office/formaci%C3%B3n-de-outlook-8a5b816d-9052-4190-a5eb-494512343cca)
+**Temas más frecuentes**:
+- Gestión de correo y carpetas
+- Creación de reglas y alertas
+- Opciones de calendario
+- Diferencias entre CC y CCO
 
-### 🌐 6. Internet y Navegadores
+#### 6. Internet y Navegación
 
-#### Contenido clave
-- Navegadores web y motores de búsqueda
+**Contenido clave**:
+- Navegadores web: Edge, Chrome, Firefox
+- Búsqueda de información
+- Favoritos y marcadores
 - Seguridad en la navegación
-- Conceptos básicos de red: URL, IP, DNS, HTTP/HTTPS
-- Buenas prácticas en el entorno digital
+- Cookies y datos de navegación
+- Descargas y almacenamiento
 
-#### Recursos prácticos
-- [INCIBE - Instituto Nacional de Ciberseguridad](https://www.incibe.es/)
-- [OSI - Oficina de Seguridad del Internauta](https://www.osi.es/)
+**Temas más frecuentes**:
+- Opciones de privacidad y seguridad
+- Gestión de cookies
+- Buscadores y operadores de búsqueda
+- Navegación privada
 
-### 🛡️ 7. Redes y Seguridad Informática
+#### 7. Seguridad Informática
 
-#### Contenido clave
-- Tipos de red: LAN, WAN, VPN
-- Protocolos de red: TCP/IP, DHCP, DNS
-- Amenazas comunes: malware, phishing, suplantación de identidad
-- Medidas de protección: antivirus, cortafuegos, certificados digitales
-- Buenas prácticas en el entorno digital: contraseñas seguras, copias de seguridad y navegación responsable
+**Contenido clave**:
+- Riesgos y amenazas comunes
+- Malware: virus, troyanos, ransomware
+- Phishing y suplantación de identidad
+- Contraseñas seguras
+- Navegación segura
+- Protección de datos personales
+- Copias de seguridad
 
-#### Recursos prácticos
-- [CCN-CERT - Centro Criptológico Nacional](https://www.ccn-cert.cni.es/)
-- [Guía de ciberseguridad para la Administración](https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad.html)
+**Temas más frecuentes**:
+- Tipos de malware y su funcionamiento
+- Medidas preventivas de seguridad
+- Características de contraseñas seguras
+- Identificación de correos fraudulentos
+
+## Distribución de Preguntas por Bloque
+
+Basado en el análisis de los exámenes realizados entre 2017 y 2024, esta es la distribución típica de preguntas:
+
+| **Parte** | **Bloque** | **Número de preguntas** | **Porcentaje** |
+|-----------|------------|-------------------------|----------------|
+| Parte 1   | I. Organización Pública | 30 | 30% |
+| Parte 1   | II. Psicotécnicos | 30 | 30% |
+| Parte 2   | III. Actividad Administrativa | 20-25 | 20-25% |
+| Parte 2   | IV. Ofimática e Informática | 25-30 | 25-30% |
+
+Total: 110 preguntas (100 + 10 de reserva)
+
+## Estadísticas por Área Temática (2017-2024)
+
+El siguiente análisis muestra el peso específico de cada área temática dentro de los cuatro grandes bloques, basado en el estudio de los exámenes oficiales de las últimas convocatorias:
+
+| **Bloque**                          | **Área Temática**                                 | **Rango de Preguntas** | **Media** | **Peso (%)** |
+|------------------------------------|---------------------------------------------------|------------------------|-----------|--------------|
+| **I. Organización Pública**        | Constitución y Organización del Estado            | 18-21                  | 20.00     | 20.0%        |
+|                                    | Leyes Administrativas                              | 7-9                    | 8.25      | 8.2%         |
+|                                    | Función Pública                                    | 3-4                    | 3.38      | 3.4%         |
+|                                    | Unión Europea                                      | 2-3                    | 2.38      | 2.4%         |
+|                                    | Igualdad y Diversidad                              | 2-4                    | 3.25      | 3.2%         |
+|                                    | Dependencia                                        | 1                      | 1.00      | 1.0%         |
+|                                    | Transparencia y Gobierno Abierto                   | 2-3                    | 2.88      | 2.9%         |
+|                                    | Hacienda Pública                                   | 2-3                    | 2.50      | 2.5%         |
+| **II. Psicotécnicos**             | Razonamiento verbal y vocabulario                  | 5-6                    | 5.63      | 5.6%         |
+|                                    | Razonamiento lógico y tablas                       | 5-7                    | 6.13      | 6.1%         |
+|                                    | Series numéricas y cálculo                         | 5-7                    | 6.13      | 6.1%         |
+|                                    | Razonamiento abstracto y figuras                   | 4-5                    | 4.63      | 4.6%         |
+|                                    | Problemas de aplicación                            | 5-6                    | 5.75      | 5.8%         |
+| **III. Actividad Administrativa**  | Atención al ciudadano y calidad                   | 4-6                    | 5.50      | 5.5%         |
+|                                    | Registro, archivo y documentación                  | 4-5                    | 4.88      | 4.9%         |
+|                                    | Administración electrónica                         | 4-6                    | 5.38      | 5.4%         |
+|                                    | Accesibilidad y protección de datos                | 3-4                    | 3.88      | 3.9%         |
+| **IV. Ofimática e Informática**   | Word y Outlook                                     | 5-6                    | 5.75      | 5.8%         |
+|                                    | Excel                                              | 5-7                    | 6.00      | 6.0%         |
+|                                    | Windows y sistemas                                 | 4                      | 4.00      | 4.0%         |
+|                                    | Internet y seguridad                               | 3-4                    | 3.63      | 3.6%         |
+
+### Tendencias Observadas
+
+1. **Áreas con mayor peso y estabilidad**:
+   - Constitución y Organización del Estado (20%)
+   - Psicotécnicos de razonamiento lógico y numérico (≈18%)
+   - Leyes Administrativas (8,2%)
+
+2. **Áreas en crecimiento**:
+   - Igualdad y diversidad (del 2,5% al 3,2%)
+   - Excel (del 5,0% al 6,0%)
+   - Seguridad informática (del 2,5% al 3,6%)
+   - Administración electrónica (del 4,5% al 5,4%)
+
+3. **Áreas con menor representación**:
+   - Dependencia (1%)
+   - Hacienda Pública (2,5%)
+
+## Plan de Estudio Estratégico
+
+A continuación se presentan tres propuestas de planificación adaptadas a diferentes plazos de preparación. Selecciona el que mejor se ajuste a tu disponibilidad de tiempo y circunstancias personales.
+
+### Plan a 6 meses (24 semanas)
+
+| **Semana** | **Contenidos** | **Dedicación diaria recomendada** |
+|------------|----------------|-----------------------------------|
+| 1-4 | Constitución y Organización del Estado | 2-3 horas |
+| 5-6 | Leyes Administrativas | 2-3 horas |
+| 7-8 | Función Pública, UE, Igualdad | 2-3 horas |
+| 9 | Transparencia, Dependencia, Hacienda | 2-3 horas |
+| 10-12 | Atención al ciudadano y Registro | 2-3 horas |
+| 13-14 | Administración electrónica y Protección de datos | 2-3 horas |
+| 15-17 | Windows, Word, Excel | 2-3 horas |
+| 18-19 | Outlook, Internet y Seguridad | 2-3 horas |
+| 20-21 | Repaso general bloques I, III y IV | 3-4 horas |
+| 22-24 | Simulacros completos y refuerzo | 4-5 horas |
+| **Continuo** | **Psicotécnicos**: 30 minutos diarios durante todo el periodo | 30 min |
+
+### Plan a 3 meses (12 semanas)
+
+| **Semana** | **Contenidos** | **Dedicación diaria recomendada** |
+|------------|----------------|-----------------------------------|
+| 1-2 | Constitución, Organización del Estado y Leyes Administrativas | 3-4 horas |
+| 3 | Función Pública, UE, Igualdad, Transparencia | 3-4 horas |
+| 4 | Atención al ciudadano, Registro y Administración electrónica | 3-4 horas |
+| 5-6 | Ofimática e Informática | 3-4 horas |
+| 7-8 | Primer repaso general | 4-5 horas |
+| 9-10 | Refuerzo de áreas con mayor peso | 4-5 horas |
+| 11-12 | Simulacros y ajustes finales | 5-6 horas |
+| **Continuo** | **Psicotécnicos**: 45-60 minutos diarios | 45-60 min |
+
+### Plan intensivo (6 semanas)
+
+| **Semana** | **Contenidos** | **Dedicación diaria recomendada** |
+|------------|----------------|-----------------------------------|
+| 1 | Constitución, Organización Estado, Leyes Administrativas | 5-6 horas |
+| 2 | Función Pública, UE, Igualdad, Transparencia, Dependencia | 5-6 horas |
+| 3 | Actividad Administrativa completa | 5-6 horas |
+| 4 | Ofimática e Informática completa | 5-6 horas |
+| 5 | Repaso general y refuerzo | 6-7 horas |
+| 6 | Simulacros completos diarios | 6-7 horas |
+| **Diario** | **Psicotécnicos**: 90 minutos diarios | 90 min |
+
+## Técnicas de Estudio y Memorización
+
+### Para Organización Pública
+
+| **Técnica** | **Aplicación** | **Ejemplo** |
+|-------------|----------------|-------------|
+| **Acrónimos** | Crear palabras con iniciales | "PACO" para los principios constitucionales: Publicidad, Acceso, Cooperación, Objetividad |
+| **Mapas mentales** | Organizar conceptos jerárquicamente | Mapa de la estructura de la Constitución con ramas por títulos |
+| **Fichas de repaso** | Tarjetas con pregunta/respuesta | Anverso: "¿Quién nombra al Presidente del Gobierno?" Reverso: "El Rey, tras propuesta del Congreso" |
+| **Asociación visual** | Vincular conceptos con imágenes | Imaginar la Corona sobre un libro (Constitución) para funciones constitucionales del Rey |
+| **Reglas mnemotécnicas** | Frases con iniciales | "Todo Rey Acepta Privilegios" para recordar las funciones del Rey: Arbitrar, Representar, Acreditar, Proponer |
+| **Cadenas narrativas** | Historia que conecta conceptos | "El Presidente pidió ayuda al Consejo, que consultó con los Ministros" para recordar el proceso de decisión gubernamental |
+
+### Para Psicotécnicos
+
+| **Técnica** | **Aplicación** | **Ejemplo** |
+|-------------|----------------|-------------|
+| **Práctica constante** | Ejercicios diarios cronometrados | 10-15 ejercicios diarios de distinto tipo |
+| **Identificación de patrones** | Analizar tipos recurrentes | Reconocer series +2, +4, +8 como duplicación |
+| **Técnicas de descarte** | Eliminar opciones imposibles | En sinónimos, descartar primero antónimos evidentes |
+| **Visualización de datos** | Esquematizar la información | Dibujar un esquema para problemas con condiciones múltiples |
+| **Cálculo rápido** | Atajos matemáticos | Multiplicar por 5 = dividir por 2 y multiplicar por 10 |
+| **Lectura selectiva** | Identificar la información relevante | Subrayar cifras, condiciones y pregunta en enunciados |
+
+### Para Actividad Administrativa y Ofimática
+
+| **Técnica** | **Aplicación** | **Ejemplo** |
+|-------------|----------------|-------------|
+| **Práctica real** | Simulación de tareas | Crear un registro de entrada completo con todos sus campos |
+| **Tarjetas de atajos** | Memorizar combinaciones de teclas | Ficha con "Ctrl+E = Centrar párrafo en Word" |
+| **Esquemas de procesos** | Visualizar flujos de procedimientos | Diagrama del ciclo de vida de un documento |
+| **Comparativas** | Tabla de diferencias/similitudes | Tabla comparando información general vs. particular |
+| **Casos prácticos** | Resolver situaciones reales | "¿Cómo gestionarías una queja por escrito?" |
+| **Vídeos tutoriales** | Aprendizaje visual de ofimática | Ver tutoriales prácticos de funciones de Excel |
+
+## Errores Frecuentes y Soluciones
+
+### En la Preparación
+
+| **Error** | **Consecuencia** | **Solución** |
+|-----------|------------------|--------------|
+| Estudiar sin planificación | Desequilibrio entre áreas | Seguir calendario estructurado |
+| Memorizar sin comprender | Dificultad para aplicar conocimientos | Relacionar conceptos y aplicarlos a casos prácticos |
+| Ignorar los psicotécnicos | Puntuación insuficiente en bloque alto peso | Practicar diariamente con tiempo controlado |
+| No hacer simulacros completos | Mala gestión del tiempo real | Realizar al menos un simulacro semanal el último mes |
+| Centrarse solo en teoría | Dificultad en aplicar conocimientos | Equilibrar teoría y ejercicios prácticos |
+| Dispersarse con múltiples recursos | Estudio superficial | Seleccionar 2-3 fuentes de calidad y centrarse en ellas |
+
+### En el Examen
+
+| **Error** | **Consecuencia** | **Solución** |
+|-----------|------------------|--------------|
+| No leer bien los enunciados | Respuestas erróneas por mala interpretación | Subrayar palabras clave como "NO", "EXCEPTO", "SIEMPRE" |
+| Bloqueo en preguntas difíciles | Pérdida de tiempo | Marcar la pregunta, continuar y volver al final |
+| Ausencia de estrategia de marcado | Responder sin criterio | Responder primero las seguras, luego las dudosas, y finalmente las muy difíciles |
+| Cambiar respuestas por inseguridad | Errores en respuestas inicialmente correctas | Cambiar solo si se tiene certeza del error |
+| No controlar el tiempo | Preguntas sin responder | Asignar máximo 45-50 segundos por pregunta |
+| No tener en cuenta la penalización | Responder todas sin criterio | Dejar en blanco las que son pura adivinación |
+
+## Novedades Legislativas 2023-2024
+
+Este apartado recoge las modificaciones normativas más recientes que podrían tener presencia en el examen:
+
+### Ámbito de la Función Pública
+- **Ley 20/2021**, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público.
+- **Real Decreto-ley 5/2023**, de 28 de marzo, de medidas urgentes de conciliación de la vida familiar y laboral.
+
+### Ámbito de la Igualdad
+- **Ley 4/2023**, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI.
+- **Ley 15/2022**, de 12 de julio, integral para la igualdad de trato y la no discriminación.
+
+### Ámbito de la Administración Electrónica
+- **Real Decreto 203/2021**, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos.
+- **Orden TMA/1007/2021**, de 9 de septiembre, nueva regulación del sistema Cl@ve.
+
+### Ámbito Presupuestario
+- **Ley 31/2022**, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023 (aspectos más relevantes para la AGE).
+
+## Autoevaluación Inicial
+
+Completa este test rápido para identificar tus áreas de fortaleza y las que necesitan mayor refuerzo:
+
+### 1. Conocimientos Jurídicos Básicos
+- ¿Cuántos títulos tiene la Constitución Española? 
+- ¿Quién nombra al Presidente del Gobierno?
+- ¿Qué plazo hay para interponer un recurso de alzada?
+- ¿Cuáles son las situaciones administrativas de los funcionarios?
+- ¿A qué institución europea pertenecen los eurodiputados?
+
+### 2. Capacidad Psicotécnica
+- Si A=1, B=2, C=3... ¿cuánto es la suma de las letras en EDAD?
+- Continúa la serie: 3, 7, 15, 31, ...
+- ¿Qué palabra no encaja? Alegría, Tristeza, Inteligencia, Miedo
+- Si 4 personas tardan 6 horas en completar un trabajo, ¿cuánto tardarán 6 personas?
+- ¿Cuál es el antónimo de "conciso"?
+
+### 3. Actividad Administrativa
+- ¿Cuál es la diferencia entre información general y particular?
+- ¿Qué datos mínimos debe contener un asiento registral?
+- ¿Qué es una sede electrónica?
+- ¿Cuáles son los derechos ARCO-POL?
+- ¿Qué establece una carta de servicios?
+
+### 4. Ofimática e Informática
+- ¿Qué hace la función SI.CONJUNTO en Excel?
+- ¿Qué diferencia hay entre CC y CCO en un correo electrónico?
+- ¿Qué combinación de teclas permite abrir el Explorador de archivos en Windows?
+- ¿Qué es el phishing y cómo detectarlo?
+- ¿Cómo se realiza una combinación de correspondencia en Word?
+
+**Interpretación de resultados:**
+- **0-5 aciertos**: Nivel básico. Necesitas reforzar conocimientos fundamentales.
+- **6-10 aciertos**: Nivel medio. Tienes conocimientos pero requieres profundizar.
+- **11-15 aciertos**: Nivel avanzado. Enfócate en perfeccionar áreas específicas.
+- **16-20 aciertos**: Nivel óptimo. Mantén el nivel con simulacros y actualizaciones.
+
+## Conclusiones
+
+Tras el análisis exhaustivo de las convocatorias entre 2017 y 2024 para el ingreso al Cuerpo General Auxiliar de la AGE, podemos extraer las siguientes conclusiones clave:
+
+1. **Estabilidad estructural**: El examen mantiene una estructura constante en cuanto a bloques temáticos y distribución aproximada de preguntas, lo que permite una preparación enfocada.
+
+2. **Evolución natural**: Aunque la estructura es estable, se observa una actualización natural de contenidos, incorporando nuevas normativas y dando mayor peso a temas emergentes como la igualdad, la administración electrónica y la seguridad informática.
+
+3. **Importancia equilibrada**: El diseño del examen valora por igual los conocimientos jurídico-administrativos (50%) y las habilidades prácticas y psicotécnicas (50%), reflejando el perfil profesional del Cuerpo Auxiliar.
+
+4. **Enfoque práctico**: La tendencia es hacia preguntas cada vez más orientadas a la aplicación práctica de conocimientos, especialmente en ofimática, administración electrónica y atención al ciudadano.
+
+5. **Previsibilidad**: El análisis estadístico demuestra que existen áreas con presencia constante y peso significativo, lo que permite optimizar el tiempo de estudio priorizando estos contenidos.
+
+Esta guía te proporciona una hoja de ruta completa basada en datos objetivos. Utilizándola como referencia y siguiendo el plan de estudio adaptado a tu disponibilidad, incrementarás significativamente tus posibilidades de éxito en el proceso selectivo.
+
+El Cuerpo General Auxiliar de la Administración del Estado ofrece una excelente oportunidad profesional que, con la preparación adecuada y sistemática, está al alcance de quienes dediquen el tiempo y esfuerzo necesarios. ¡Mucho ánimo en tu preparación!
 
 ---
-
-## 📌 Distribución global de preguntas por bloque
-
-A partir del análisis de los exámenes de 2017 a 2024, la estructura general en número de preguntas por bloque temático es la siguiente:
-
-- **Bloque I – Organización Pública**: 30 preguntas
-- **Bloque II – Psicotécnicos**: 30 preguntas
-- **Bloque III – Actividad Administrativa**: 20–25 preguntas (dentro de la Parte 2)
-- **Bloque IV – Ofimática e Informática**: 25–30 preguntas (dentro de la Parte 2)
-
-El total de preguntas del examen único es de **100 preguntas**, divididas en dos partes (Parte 1 con 60 preguntas y Parte 2 con 40, incluyendo reserva y penalización por error).
-
-## 📊 Estadísticas por Bloque y Área Temática (2017–2024)
-
-Esta tabla recoge el rango de preguntas, la media y el peso aproximado en el examen oficial del Cuerpo General Auxiliar de la AGE, según el análisis de los exámenes de 2017 a 2024.
-
-| **Bloque**                            | **Área Temática**                                 | **Rango de Preguntas** | **Media** | **Peso Estimado (%)** |
-|--------------------------------------|---------------------------------------------------|------------------------|-----------|------------------------|
-| Bloque I - Organización Pública      | Constitución y Organización del Estado            | 18–21                 | 20.00     | 20.0%                  |
-|                                      | Leyes Administrativas                              | 7–9                   | 8.25      | 8.2%                   |
-|                                      | Función Pública                                    | 3–4                   | 3.38      | 3.4%                   |
-|                                      | Unión Europea                                      | 2–3                   | 2.38      | 2.4%                   |
-|                                      | Igualdad y Diversidad                              | 2–4                   | 3.25      | 3.2%                   |
-|                                      | Dependencia                                        | 1–1                   | 1.00      | 1.0%                   |
-|                                      | Transparencia y Gobierno Abierto                  | 2–3                   | 2.88      | 2.9%                   |
-|                                      | Hacienda Pública                                   | 2–3                   | 2.50      | 2.5%                   |
-| Bloque II - Psicotécnicos            | Razonamiento verbal y vocabulario                 | 5–6                   | 5.63      | 5.6%                   |
-|                                      | Razonamiento lógico y tablas                      | 5–7                   | 6.13      | 6.1%                   |
-|                                      | Series numéricas y cálculo                        | 5–7                   | 6.13      | 6.1%                   |
-|                                      | Razonamiento abstracto y figuras                  | 4–5                   | 4.63      | 4.6%                   |
-|                                      | Problemas de aplicación                           | 5–6                   | 5.75      | 5.8%                   |
-| Bloque III - Actividad Administrativa| Atención al ciudadano y calidad                   | 4–6                   | 5.50      | 5.5%                   |
-|                                      | Registro, archivo y documentación                 | 4–5                   | 4.88      | 4.9%                   |
-|                                      | Administración electrónica                        | 4–6                   | 5.38      | 5.4%                   |
-|                                      | Accesibilidad y protección de datos               | 3–4                   | 3.88      | 3.9%                   |
-| Bloque IV - Ofimática e Informática | Word y Outlook                                     | 5–6                   | 5.75      | 5.8%                   |
-|                                      | Excel                                              | 5–7                   | 6.00      | 6.0%                   |
-|                                      | Windows y sistemas                                 | 4–4                   | 4.00      | 4.0%                   |
-|                                      | Internet y redes                                   | 3–4                   | 3.63      | 3.6%                   |
-|                                      | **Total acumulado**                               |                        |           | **100%**               |
-
-
-
-
----
-
-📊 Estadísticas por Bloque y Área Temática (2017–2024)
-Esta tabla recoge el rango de preguntas, la media y el peso aproximado en el examen oficial del Cuerpo General Auxiliar de la AGE, según el análisis de los exámenes de 2017 a 2024.
-
-Bloque	Área Temática	Rango de Preguntas	Media	Peso Estimado (%)
-Bloque I - Organización Pública	Constitución y Organización del Estado	18–21	20.00	20.0%
-Leyes Administrativas	7–9	8.25	8.2%
-Función Pública	3–4	3.38	3.4%
-Unión Europea	2–3	2.38	2.4%
-Igualdad y Diversidad	2–4	3.25	3.2%
-Dependencia	1–1	1.00	1.0%
-Transparencia y Gobierno Abierto	2–3	2.88	2.9%
-Hacienda Pública	2–3	2.50	2.5%
-Bloque II - Psicotécnicos	Razonamiento verbal y vocabulario	5–6	5.63	5.6%
-Razonamiento lógico y tablas	5–7	6.13	6.1%
-Series numéricas y cálculo	5–7	6.13	6.1%
-Razonamiento abstracto y figuras	4–5	4.63	4.6%
-Problemas de aplicación	5–6	5.75	5.8%
-Bloque III - Actividad Administrativa	Atención al ciudadano y calidad	4–6	5.50	5.5%
-Registro, archivo y documentación	4–5	4.88	4.9%
-Administración electrónica	4–6	5.38	5.4%
-Accesibilidad y protección de datos	3–4	3.88	3.9%
-Bloque IV - Ofimática e Informática	Word y Outlook	5–6	5.75	5.8%
-Excel	5–7	6.00	6.0%
-Windows y sistemas	4–4	4.00	4.0%
-Internet y redes	3–4	3.63	3.6%
-Total acumulado			100%
-📈 Gráfico de distribución por bloques
-Peso por bloques:
-█████████████████████████████ 30% Organización Pública
-█████████████████████████████ 30% Psicotécnicos
-████████████████████ 20% Actividad Administrativa 
-████████████████████ 20% Ofimática e Informática
-🧭 ¿Cómo usar esta guía?
-Esta guía está diseñada para maximizar la eficiencia de tu estudio y aumentar tus probabilidades de éxito. A continuación te presentamos algunas estrategias para aprovecharla al máximo:
-
-📝 Planificación estratégica
-Utiliza esta estructura para planificar tu calendario de estudio por bloques
-Comienza por las áreas de mayor peso en el examen
-Marca tu progreso en cada sección para visualizar tu avance
-Alterna entre temas teóricos y psicotécnicos para mantener la motivación
-🎯 Enfoque en áreas críticas
-Refuerza más las áreas con mayor peso o variabilidad en los últimos años
-Dedica tiempo extra a las materias que te resulten más difíciles
-Practica regularmente los psicotécnicos, que representan un 30% del examen
-Revisa la tabla de estadísticas para ajustar tus prioridades
-🔄 Sistema de repaso
-Programa repasos periódicos de lo ya estudiado
-Utiliza las preguntas tipo como test de autoevaluación
-Crea fichas de repaso con los conceptos clave de cada área
-Establece un sistema de repaso espaciado (1 día, 3 días, 1 semana, 2 semanas)
-👥 Estudio colaborativo
-Forma grupos de estudio para reforzar conocimientos
-Explica los temas a otras personas para consolidar el aprendizaje
-Intercambia recursos y técnicas de estudio con otros opositores
-Participa en foros o comunidades de preparación de oposiciones
-📆 Plan de estudio recomendado
-Plan a 6 meses (24 semanas)
-Semanas 1-3: Constitución y Organización del Estado
-Semanas 4-5: Leyes Administrativas
-Semanas 6-7: Función Pública, UE, Igualdad
-Semana 8: Transparencia, Dependencia, Hacienda
-Semanas 9-14: Psicotécnicos (dedicación constante)
-Semanas 15-17: Actividad Administrativa
-Semanas 18-20: Ofimática e Informática
-Semanas 21-24: Repaso global, simulacros y refuerzo de áreas débiles
-Plan a 3 meses (12 semanas)
-Semanas 1-2: Constitución, Organización del Estado y Leyes Administrativas
-Semana 3: Función Pública, UE, Igualdad, Transparencia, Dependencia
-Semanas 4-6: Psicotécnicos (2 horas diarias)
-Semana 7: Atención al ciudadano, Registro y Documentación
-Semana 8: Administración electrónica, Accesibilidad y Protección de datos
-Semanas 9-10: Ofimática e Informática
-Semanas 11-12: Repaso intensivo, simulacros completos y ajustes finales
-Plan a 1 mes (4 semanas) - Plan de choque
-Semana 1: Constitución, Organización del Estado y conceptos clave de todas las áreas
-Semana 2: Psicotécnicos intensivos, 50 ejercicios diarios
-Semana 3: Actividad Administrativa y Ofimática básica
-Semana 4: Simulacros, repaso de errores y memorización de conceptos clave
-🧠 Técnicas de memorización por área
-Para Legislación y Normativa
-Acrónimos: Crea palabras con las iniciales (ej. "PACLO" para Principios Administrativos: Publicidad, Acceso, Cooperación, Legalidad, Objetividad)
-Mapas mentales: Organiza visualmente artículos y conceptos relacionados
-Historias encadenadas: Conecta conceptos abstractos con situaciones cotidianas
-Fichas de repaso: Crea tarjetas con pregunta/respuesta para cada artículo clave
-Para Psicotécnicos
-Práctica cronometrada: Realiza ejercicios con tiempo limitado
-Patrones recurrentes: Identifica y memoriza los patrones más comunes en series
-Visualización: Para problemas espaciales, dibuja o visualiza mentalmente las transformaciones
-Trucos de cálculo rápido: Aprende atajos matemáticos para operaciones frecuentes
-Para Ofimática
-Aprendizaje práctico: Realiza ejercicios reales en Word, Excel y Outlook
-Fichas de atajos: Crea tarjetas con combinaciones de teclas más útiles
-Recreación de escenarios: Practica situaciones típicas de trabajo administrativo
-Memorización visual: Asocia iconos con funciones específicas
-❌ Errores frecuentes y cómo evitarlos
-En la preparación
-Error: Estudiar sin un plan estructurado
-
-Solución: Sigue el cronograma propuesto y adapta los tiempos según tu progreso
-Error: Dejar los psicotécnicos para el final
-
-Solución: Practica regularmente desde el principio, idealmente 30 minutos diarios
-Error: No realizar simulacros completos
-
-Solución: Haz al menos un simulacro completo por semana en las últimas 4 semanas
-En el examen
-Error: No leer bien el enunciado de las preguntas
-
-Solución: Subraya palabras clave como "NO", "EXCEPTO", "SIEMPRE"
-Error: Bloqueo en psicotécnicos complejos
-
-Solución: Marca la pregunta, continúa y vuelve al final con mente fresca
-Error: Gestión inadecuada del tiempo
-
-Solución: Asigna 45 seg. máximo por pregunta y deja las difíciles para el final
-Error: Cambiar respuestas marcadas por inseguridad
-
-Solución: Solo cambia si has encontrado un error objetivo en tu razonamiento
-📢 Novedades legislativas relevantes
-Estas son las actualizaciones normativas más recientes que pueden aparecer en el examen:
-
-Novedades 2023-2024
-Ley 4/2023: Igualdad real y efectiva de las personas trans y derechos LGTBI
-Ley 15/2022: Igualdad de trato y no discriminación
-Real Decreto-ley 5/2023: Conciliación de la vida familiar y laboral
-Modificaciones en teletrabajo: Nuevas regulaciones tras la experiencia COVID
-Novedades 2021-2022
-Ley 20/2021: Medidas urgentes para la reducción de la temporalidad en el empleo público
-Ley 22/2021: Presupuestos Generales actualizados
-Real Decreto 203/2021: Reglamento de actuación y funcionamiento del sector público por medios electrónicos
-📋 Autoevaluación rápida
-Test de nivel por bloques
-Para cada bloque, contesta estas 5 preguntas básicas para identificar tu nivel inicial:
-
-Organización Pública
-¿Cuántos títulos tiene la Constitución Española?
-¿Quién elige al Presidente del Gobierno?
-¿Cuál es el plazo para resolver un procedimiento administrativo?
-¿A qué institución europea pertenecen los eurodiputados?
-¿Qué contempla un Plan de Igualdad?
-Psicotécnicos
-Si A=1, B=2, C=3... ¿cuánto es la suma de las letras en EDAD?
-Continúa la serie: 3, 6, 12, 24, ...
-¿Qué palabra no encaja? Alegría, Tristeza, Inteligencia, Miedo
-Si 3 personas pintan una pared en 12 horas, ¿cuánto tardan 6 personas?
-¿Cuál es el antónimo de "conciso"?
-Actividad Administrativa
-¿Qué es el registro de entrada y salida?
-¿Qué diferencia hay entre información general y particular?
-¿Qué es una sede electrónica?
-¿Qué derechos reconoce el RGPD?
-¿Qué es una carta de servicios?
-Ofimática e Informática
-¿Qué hace la función SI en Excel?
-¿Qué diferencia hay entre CC y CCO en un correo electrónico?
-¿Qué es un archivo .docx?
-¿Qué es el phishing?
-¿Qué combinación de teclas permite copiar en Windows?
-🔗 Anexos y recursos
-📚 Bibliografía recomendada
-Manual del Auxiliar Administrativo del Estado - Editorial MAD, ADAMS o CEP
-Test psicotécnicos comentados - Editorial TEA o CEDE
-Ofimática para opositores - Editorial Anaya Multimedia
-Constitución Española comentada - Editorial Tecnos o Civitas
-🌐 Recursos online
-INAP - Instituto Nacional de Administración Pública
-BOE - Legislación consolidada
-Portal de transparencia
-Microsoft Learn - Tutoriales gratuitos
-📱 Aplicaciones útiles
-Oposapiens: Test y ejercicios para oposiciones
-Quizlet: Tarjetas de memoria para legislación
-Microsoft Office Mobile: Práctica de ofimática desde el móvil
-Lumosity: Entrenamiento cognitivo para psicotécnicos
-✅ Conclusión
-El análisis detallado de los exámenes oficiales del periodo 2017–2024 pone de manifiesto una estructura estable del proceso selectivo, pero con ajustes graduales en el enfoque temático que reflejan los cambios normativos y las prioridades administrativas de la AGE.
-
-Entre los aspectos más relevantes destacan:
-
-La consolidación de los bloques clásicos (Constitución, Administración, Función Pública) como pilares del Bloque I.
-El refuerzo de materias transversales como la igualdad, la protección de datos, la accesibilidad y la administración electrónica, cada vez más presentes en las preguntas.
-El aumento del nivel técnico en la parte ofimática, especialmente en el uso de funciones de Excel, navegación en Windows 10 y medidas de seguridad informática básicas.
-La constante presencia de razonamiento psicotécnico en la Parte 1, con un equilibrio entre lógica verbal, numérica y tabular, lo que exige entrenamiento sistemático.
-Esta guía temática, elaborada a partir de la práctica real de los exámenes, proporciona una base sólida para organizar el estudio, priorizar contenidos y entrenar de forma eficaz. Con un enfoque orientado a los bloques con mayor peso y una visión estratégica de la evolución de los contenidos, el opositor podrá afrontar el examen con mayor seguridad y preparación.
-
-💡 Recuerda: La clave del éxito está en la constancia, la práctica regular y un estudio estructurado. Utiliza esta guía como tu hoja de ruta personalizada y adapta las estrategias a tu ritmo de aprendizaje.
-
-📝 Mis notas personales
-(Espacio reservado para tus anotaciones, impresiones, dudas o recordatorios personales)
-
-Actualizado: Marzo 2025
-
----
-# Anexo I: Ejemplos de Preguntas Reales por Bloque Temático (2017-2024)
-
-Este anexo recopila ejemplos de preguntas extraídas de exámenes oficiales de las convocatorias entre 2017 y 2024, organizadas por bloques temáticos y con diferentes niveles de dificultad. Te ayudará a familiarizarte con el tipo de preguntas reales que puedes encontrar en tu examen.
-
-## 1. Parte 1 - Bloque I: Organización Pública
-
-### Constitución y Organización del Estado
-
-**2017 (Nivel básico):**
-> Pregunta real: "Según el artículo 159 de la CE, los miembros del Tribunal Constitucional, aparte de sus incompatibilidades específicas, tendrán las incompatibilidades propias de:
-> 
-> a) Los miembros de las Cortes Generales.
-> b) Los miembros del Gobierno de España.
-> c) Los miembros del Tribunal de Cuentas.
-> d) Los miembros del Poder Judicial."
-> 
-> *Respuesta correcta: d) Los miembros del Poder Judicial.*
-
-**2019 (Nivel medio):**
-> Pregunta real: "De conformidad con el artículo 116 de la CE, el estado de alarma será declarado:
-> 
-> a) Por mayoría absoluta del Congreso por un plazo máximo de 15 días, sin perjuicio de su posible prórroga.
-> b) Por el Gobierno, mediante decreto acordado en Consejo de Ministros y por un plazo máximo de 15 días, dando cuenta al Congreso de los Diputados y sin cuya autorización no podrá ser prorrogado dicho plazo.
-> c) Por mayoría simple del Congreso por un plazo máximo de 15 días, sin perjuicio de su posible prórroga.
-> d) Por mayoría simple del Congreso y ratificado por el Senado por el periodo que se determine."
-> 
-> *Respuesta correcta: b) Por el Gobierno, mediante decreto acordado en Consejo de Ministros y por un plazo máximo de 15 días, dando cuenta al Congreso de los Diputados y sin cuya autorización no podrá ser prorrogado dicho plazo.*
-
-**2022 (Nivel avanzado):**
-> Pregunta real: "Según el artículo 102 de la Constitución Española de 1978, si el Presidente del Gobierno fuere acusado de un delito contra la seguridad del estado en el ejercicio de sus funciones, la iniciativa sólo podrá ser planteada por:
-> 
-> a) La quinta parte de los miembros del Congreso y aprobada con mayoría simple.
-> b) La cuarta parte de los miembros del Congreso y aprobada con mayoría simple.
-> c) La cuarta parte de los miembros del Congreso y aprobada con mayoría absoluta.
-> d) La quinta parte de los miembros del Congreso y aprobada con mayoría absoluta."
-> 
-> *Respuesta correcta: c) La cuarta parte de los miembros del Congreso y aprobada con mayoría absoluta.*
-
-### Leyes Administrativas y Procedimiento
-
-**2018 (Nivel básico):**
-> Pregunta real: "Conforme a lo establecido en el artículo 21 de la Ley 50/1997, de 27 de noviembre, del Gobierno, ¿en cuál de los siguientes casos NO se produce el cese del Gobierno?
-> 
-> a) Tras la celebración de elecciones generales.
-> b) Por dimisión de la mitad más uno de sus Ministros.
-> c) En los casos de pérdida de la confianza parlamentaria previstos en la Constitución.
-> d) Por dimisión o fallecimiento de su Presidente."
-> 
-> *Respuesta correcta: b) Por dimisión de la mitad más uno de sus Ministros.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "En relación con la posibilidad de ampliación de los plazos del procedimiento administrativo, señale cuál es la opción correcta conforme a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:
-> 
-> a) Podrá acordarse la ampliación por una duración que no exceda del doble del plazo inicial.
-> b) Sólo procederá cuando la ampliación sea solicitada previamente por el interesado.
-> c) La Administración podrá acordar la ampliación general de los plazos cuando haya sufrido un ciberincidente.
-> d) Podrá ser objeto de ampliación un plazo ya vencido."
-> 
-> *Respuesta correcta: a) Podrá acordarse la ampliación por una duración que no exceda del doble del plazo inicial.*
-
-### Función Pública
-
-**2019 (Nivel básico):**
-> Pregunta real: "Según el artículo 62 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido del Estatuto Básico del Empleado Público, ¿cuál es el orden correcto en el cumplimiento sucesivo de requisitos para adquirir la condición de funcionario de carrera?
-> 
-> a) Superación del proceso selectivo, nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente, acto de acatamiento de la CE y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico y toma de posesión dentro del plazo que se establezca.
-> b) Superación del proceso selectivo, acto de acatamiento de la CE y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico, nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente, y toma de posesión dentro del plazo que se establezca.
-> c) Superación del proceso selectivo, nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente, toma de posesión dentro del plazo que se establezca y acto de acatamiento de la CE y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico.
-> d) Superación del proceso selectivo, toma de posesión dentro del plazo que se establezca, nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente y acto de acatamiento de la CE y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico."
-> 
-> *Respuesta correcta: a) Superación del proceso selectivo, nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente, acto de acatamiento de la CE y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico y toma de posesión dentro del plazo que se establezca.*
-
-**2022 (Nivel avanzado):**
-> Pregunta real: "Las funcionarias víctimas de violencia de género, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a solicitar la situación de excedencia, prevista en el artículo 89.5 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público:
-> 
-> a) Sin tener que haber prestado un tiempo mínimo de servicios previos y teniendo que permanecer un mínimo de un año en dicha situación.
-> b) Sin tener que haber prestado un tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia en la misma.
-> c) Cuando hayan prestado un tiempo mínimo de dos años de servicios previos y teniendo que permanecer un mínimo de un año en dicha situación.
-> d) Cuando hayan prestado un tiempo mínimo de dos años de servicios previos y sin que sea exigible plazo de permanencia en la misma."
-> 
-> *Respuesta correcta: b) Sin tener que haber prestado un tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia en la misma.*
-
-### Igualdad y Transparencia
-
-**2018 (Nivel básico):**
-> Pregunta real: "De acuerdo con el artículo 29 del TREBEP, las cantidades destinadas a financiar aportaciones a planes de pensiones o contratos de seguros tendrán a todos los efectos la consideración de:
-> 
-> a) Indemnizaciones.
-> b) Retribuciones básicas.
-> c) Retribuciones diferidas.
-> d) Retribuciones complementarias."
-> 
-> *Respuesta correcta: c) Retribuciones diferidas.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Conforme a la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable, se considera:
-> 
-> a) Acoso sexual.
-> b) Acoso por razón de sexo.
-> c) Discriminación directa por razón de sexo.
-> d) Discriminación indirecta por razón de sexo."
-> 
-> *Respuesta correcta: c) Discriminación directa por razón de sexo.*
-
-## 2. Parte 1 - Bloque II: Psicotécnicos
-
-### Razonamiento Verbal y Vocabulario
-
-**2017 (Nivel básico):**
-> Pregunta real: "Indique cuál de las siguientes palabras es el sinónimo de AGLOMERADO:
-> 
-> a) Defecto.
-> b) Amalgama.
-> c) Avanzado.
-> d) Necesario."
-> 
-> *Respuesta correcta: b) Amalgama.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Señale cuál es el sinónimo correspondiente de la palabra ACICATE:
-> 
-> a) Aguacate.
-> b) Acicalado.
-> c) Variante.
-> d) Estímulo."
-> 
-> *Respuesta correcta: d) Estímulo.*
-
-### Series Numéricas y Operaciones
-
-**2018 (Nivel básico):**
-> Pregunta real: "¿Qué número continua la secuencia 2, 3, 6, 3, 18, 3, _?
-> 
-> a) 54
-> b) 46
-> c) 68
-> d) 96"
-> 
-> *Respuesta correcta: a) 54*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Indique cuál de los siguientes números continúa la secuencia: 32, -3, 29, 5, 34, -2, _
-> 
-> a) 29
-> b) 36
-> c) 28
-> d) 32"
-> 
-> *Respuesta correcta: d) 32*
-
-### Razonamiento Lógico y Tablas
-
-**2019 (Nivel medio):**
-> Pregunta real (extracto de una tabla): "Según los datos del cuadro Biblioteca, siendo que la columna Clasificación de ubicación se refiere al nombre del título, ¿en cuál de las siguientes ubicaciones, habría que colocar este libro? Tema: Derecho Económico. Nombre: 'Trabajo temporal. Tributación'.
-> 
-> a) Planta: 1. Pasillo: 2 izquierda. Estanterías: 2 a 5.
-> b) Planta: 1. Pasillo: 3 derecha. Estanterías: 2 a 5.
-> c) Planta: 2. Pasillo: 2 derecha. Estanterías: 3 a 5.
-> d) Planta: 1. Pasillo: 3 derecha. Estanterías: 1 a 5."
-> 
-> *Respuesta correcta: d) Planta: 1. Pasillo: 3 derecha. Estanterías: 1 a 5.*
-
-**2022 (Nivel avanzado):**
-> Pregunta real: "Según las tablas Flores, ¿qué cantidad total de estambres poseen las flores que se ofrecen en color blanco y no poseen entrega en domicilio?
-> 
-> a) 22
-> b) 20
-> c) 19
-> d) 21"
-> 
-> *Respuesta correcta: a) 22*
-
-## 3. Parte 2 - Bloque I: Actividad Administrativa
-
-### Atención al Ciudadano y Registro
-
-**2017 (Nivel básico):**
-> Pregunta real: "Según el Real Decreto 208/1996, de 9 de febrero, por el que se regulan los servicios de información administrativa y atención al ciudadano, ¿a quién le corresponde sostener un sistema de información administrativa al ciudadano sobre los servicios públicos y trámites de toda la Administración General del Estado?
-> 
-> a) A la Comisión Interministerial de Información Administrativa.
-> b) A las Oficinas de información y atención al ciudadano de los órganos territoriales de la Administración General del Estado.
-> c) Al Centro de Información Administrativa.
-> d) A las Oficinas de información y atención al ciudadano en los servicios centrales."
-> 
-> *Respuesta correcta: c) Al Centro de Información Administrativa.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "De acuerdo con el Real Decreto 366/2007, de 16 de marzo, por el que se establecen las condiciones de accesibilidad y no discriminación de las personas con discapacidad en sus relaciones con la Administración General del Estado, señale la respuesta correcta en relación con la ubicación de las oficinas de atención al ciudadano:
-> 
-> a) En todo caso, las oficinas se ubicarán en planta a nivel de vía pública.
-> b) Las oficinas deben estar correctamente señalizadas visualmente desde el exterior, de tal forma que sean fácilmente identificables.
-> c) Todos los itinerarios que unan los accesos de las oficinas con la vía pública, con los servicios o edificaciones anexas y con los aparcamientos, deberán ser accesibles de acuerdo con las condiciones establecidas para un itinerario urbano accesible.
-> d) Las oficinas de atención al ciudadano, en caso de disponer de plazas de aparcamiento, reservarán un número suficiente de plazas, convenientemente señalizadas, destinadas en exclusividad a personas con discapacidad."
-> 
-> *Respuesta correcta: b) Las oficinas deben estar correctamente señalizadas visualmente desde el exterior, de tal forma que sean fácilmente identificables.*
-
-### Administración Electrónica
-
-**2019 (Nivel básico):**
-> Pregunta real: "De conformidad con lo previsto en el Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, ¿cuál será el área personalizada para las personas interesadas en su relación con sector público estatal?
-> 
-> a) El Punto de Acceso General electrónico (PAGe).
-> b) La Carpeta ciudadana.
-> c) Las plataformas de verificación de certificados electrónicos y de otros sistemas de identificación.
-> d) El Registro electrónico."
-> 
-> *Respuesta correcta: b) La Carpeta ciudadana.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Conforme a lo previsto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, se define la sede electrónica como:
-> 
-> a) Un punto de acceso electrónico con código seguro de verificación vinculado a la Administración General del Estado.
-> b) Aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias.
-> c) El punto de acceso electrónico cuya titularidad corresponda a una Administración Pública, organismo público o entidad de Derecho Público que permite el acceso a través de internet a la información publicada.
-> d) La actuación administrativa automatizada de cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública."
-> 
-> *Respuesta correcta: b) Aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias.*
-
-### Archivos y Documentación
-
-**2017 (Nivel básico):**
-> Pregunta real: "De conformidad con el Real Decreto 1708/2011, de 18 de noviembre, ¿qué clase de archivo cumple con la función de coordinar y controlar el funcionamiento de los distintos archivos de gestión?
-> 
-> a) Archivo intermedio.
-> b) Archivo de oficina.
-> c) Archivo Histórico Nacional.
-> d) Archivo Central."
-> 
-> *Respuesta correcta: d) Archivo Central.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Señale cuál es una de las funciones del Consejo de Cooperación Archivística, conforme a la regulación contenida en el Real Decreto 1708/2011, de 18 de noviembre, por el que se establece el Sistema Español de Archivos y se regula el Sistema de Archivo de la Administración General del Estado y de sus Organismos Públicos y su régimen de acceso:
-> 
-> a) El impulso del funcionamiento de los Patronatos de los Archivos Históricos de carácter nacional y los órganos colegiados en materia archivística con presencia de la Administración General del Estado.
-> b) La presencia española en organismos y organizaciones internacionales y la participación en proyectos supranacionales.
-> c) La suscripción de convenios y otros instrumentos de cooperación entre las administraciones públicas y con los archivos de titularidad pública.
-> d) La elaboración de criterios uniformes para el desarrollo de los servicios archivísticos."
-> 
-> *Respuesta correcta: d) La elaboración de criterios uniformes para el desarrollo de los servicios archivísticos.*
-
-## 4. Parte 2 - Bloque II: Ofimática e Informática
-
-### Informática Básica
-
-**2017 (Nivel básico):**
-> Pregunta real: "¿Cuál de los siguientes es un periférico de entrada?
-> 
-> a) Impresora.
-> b) Altavoces.
-> c) Cámara web.
-> d) Pantalla."
-> 
-> *Respuesta correcta: c) Cámara web.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "¿Cómo se llama la causa potencial de un incidente que puede causar daños a un sistema de información o a una organización?
-> 
-> a) Riesgo.
-> b) Vulnerabilidad.
-> c) Amenaza.
-> d) Impacto."
-> 
-> *Respuesta correcta: c) Amenaza.*
-
-### Windows y Sistemas Operativos
-
-**2019 (Nivel básico):**
-> Pregunta real: "¿Cuál de las siguientes afirmaciones referidas a un acceso directo de Windows es verdadera?
-> 
-> a) Es posible crear accesos directos a ficheros, que se abren utilizando el programa asociado a su extensión, pero no es posible crear accesos directos a carpetas.
-> b) Es posible crear accesos directos a carpetas y ficheros pero, en el caso de los ficheros, no se ejecuta la aplicación asociada a su extensión, sino que se abren en el Explorador de archivos.
-> c) Es posible crear accesos directos a carpetas y ficheros. Si el enlace es a un fichero, se abrirá utilizando el programa asociado a su extensión.
-> d) Es posible crear accesos directos a carpetas en local y en OneDrive, pero no a ficheros de ningún tipo."
-> 
-> *Respuesta correcta: c) Es posible crear accesos directos a carpetas y ficheros. Si el enlace es a un fichero, se abrirá utilizando el programa asociado a su extensión.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Para abrir el explorador de archivos en Windows 10 mediante el teclado, ¿qué teclas de las propuestas es necesario pulsar simultáneamente?
-> 
-> a) Tecla Windows + E
-> b) Tecla Ctrl + O
-> c) Tecla Windows + O
-> d) Tecla Ctrl + E"
-> 
-> *Respuesta correcta: a) Tecla Windows + E*
-
-### Microsoft Word
-
-**2017 (Nivel básico):**
-> Pregunta real: "En Word 2010, ¿qué tecla mantendría pulsada para poder marcar o seleccionar párrafos alternos con el ratón?
-> 
-> a) Control
-> b) SHIFT
-> c) Block. Mayús
-> d) La operación no se puede hacer."
-> 
-> *Respuesta correcta: a) Control*
-
-**2022 (Nivel avanzado):**
-> Pregunta real: "En Word 2019 si se desea cambiar el estilo de una lista de numeración, ¿cómo se debe proceder?
-> 
-> a) Pestaña Inicio, en grupo párrafo elegimos lista multinivel y definir nuevo estilo de lista.
-> b) Pestaña Insertar, numeración, profundidad.
-> c) Pestaña Diseño, numeración, profundidad.
-> d) Pestaña Inicio, en grupo párrafo elegimos lista multinivel y definir nueva lista multinivel."
-> 
-> *Respuesta correcta: a) Pestaña Inicio, en grupo párrafo elegimos lista multinivel y definir nuevo estilo de lista.*
-
-### Microsoft Excel
-
-**2019 (Nivel básico):**
-> Pregunta real: "En una hoja Excel queremos rellenar la columna E con los valores de la columna D, que contiene valores numéricos, sumándoles a cada uno el valor de la celda B1, también numérica. ¿Qué formula hay que escribir en la celda E1 para que la referencia a la celda B1 sea absoluta y no cambie al copiar la fórmula en toda la columna E?
-> 
-> a) =D1+$B$1
-> b) =D1+(B1)
-> c) =D1+$B1
-> d) =D1+"B1""
-> 
-> *Respuesta correcta: a) =D1+$B$1*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Excel 2019 clasifica las funciones por categorías. ¿Cuál de las siguientes pertenecen a la categoría 'Matemáticas y Trigonométricas'?
-> 
-> a) RAIZ, ENTERO, INT.ACUM
-> b) RAIZ, ENTERO, POTENCIA
-> c) RAIZ, POTENCIA, INT.ACUM
-> d) POTENCIA, ENTERO, INT.ACUM"
-> 
-> *Respuesta correcta: b) RAIZ, ENTERO, POTENCIA*
-
-### Microsoft Access
-
-**2019 (Nivel medio):**
-> Pregunta real: "En Access, al diseñar una tabla, establecemos el tamaño de un campo de tipo Número para que solamente admita números enteros comprendidos entre 0 y 255. ¿Cuál de los siguientes tamaños hemos seleccionado?
-> 
-> a) Byte.
-> b) Entero.
-> c) Simple.
-> d) Decimal."
-> 
-> *Respuesta correcta: a) Byte.*
-
-**2022 (Nivel avanzado):**
-> Pregunta real: "¿Cuál es el tipo de dato correcto en Access 2019 para una columna que permita introducir valores existentes desde una lista desplegable?
-> 
-> a) Cadena.
-> b) Hipervínculo.
-> c) Campo de búsqueda.
-> d) Objeto OLE."
-> 
-> *Respuesta correcta: c) Campo de búsqueda.*
-
-### Microsoft Outlook
-
-**2017 (Nivel básico):**
-> Pregunta real: "En Outlook 2019, ¿qué combinación de teclas nos permite acceder a la carpeta de contactos?
-> 
-> a) CTRL+ 3
-> b) CTRL+ 4
-> c) CTRL+ 5
-> d) CTRL+ 2"
-> 
-> *Respuesta correcta: a) CTRL+ 3*
-
-**2022 (Nivel medio):**
-> Pregunta real: "En Outlook 2019 SMTP es:
-> 
-> a) Un protocolo de mensajería que identifica unívocamente al receptor y al emisor.
-> b) Un protocolo de autentificación de correo entre el servidor y el cliente.
-> c) Un protocolo de cifrado de mensajes entre servidor y cliente.
-> d) Un protocolo de transferencia simple de correo empleado para el intercambio de mensajes entre dispositivos."
-> 
-> *Respuesta correcta: d) Un protocolo de transferencia simple de correo empleado para el intercambio de mensajes entre dispositivos.*
-
-### Internet y Redes
-
-**2018 (Nivel básico):**
-> Pregunta real: "¿Cuál de los siguientes lenguajes de programación pueden interpretar los navegadores web de forma nativa para mejorar las funcionalidades y dinamismo de las páginas web?
-> 
-> a) Basic
-> b) C#
-> c) Pascal
-> d) JavaScript"
-> 
-> *Respuesta correcta: d) JavaScript*
-
-**2022 (Nivel medio):**
-> Pregunta real: "¿Qué es una dirección IPv4?
-> 
-> a) Es un número binario de 64 bits que identifica a un interfaz en red de un dispositivo que utiliza el protocolo IPv4.
-> b) Es un identificador de 24 bits expresado en código hexadecimal, para identificar de forma única la tarjeta de red.
-> c) Es un identificador de 48 bits expresado en código hexadecimal, para identificar de forma única la tarjeta de red.
-> d) Es un número binario de 4 octetos que identifica a un interfaz en red de un dispositivo que utiliza el protocolo IPv4."
-> 
-> *Respuesta correcta: d) Es un número binario de 4 octetos que identifica a un interfaz en red de un dispositivo que utiliza el protocolo IPv4.*
-
-## Evolución de Dificultad por Tipo de Examen (2017-2024)
-
-Como se puede observar en los ejemplos anteriores, existe una clara evolución en la complejidad y especificidad de las preguntas a lo largo de los años:
-
-1. **Preguntas básicas (2017-2018)**: Principalmente de memorización directa, con opciones claramente diferenciadas.
-
-2. **Preguntas de nivel medio (2019-2021)**: Requieren comprensión de conceptos y aplicación de conocimientos, no solo memorización.
-
-3. **Preguntas de nivel avanzado (2022-2024)**: Exigen análisis, interpretación normativa o técnica y aplicación práctica en situaciones complejas.
-
-Esta evolución es especialmente evidente en los bloques de ofimática y psicotécnicos, donde las preguntas han pasado de evaluar conocimientos básicos a evaluar competencias técnicas más avanzadas y razonamiento complejo.
 
 # Anexo I: Ejemplos de Preguntas Reales por Bloque Temático (2017-2024)
-
-Este anexo recopila ejemplos de preguntas extraídas de exámenes oficiales de las convocatorias entre 2017 y 2024, organizadas por bloques temáticos y con diferentes niveles de dificultad. Te ayudará a familiarizarte con el tipo de preguntas reales que puedes encontrar en tu examen.
-
-## 1. Parte 1 - Bloque I: Organización Pública
-
-### Constitución y Organización del Estado
-
-**2017 (Nivel básico):**
-> Pregunta real: "Según el artículo 159 de la CE, los miembros del Tribunal Constitucional, aparte de sus incompatibilidades específicas, tendrán las incompatibilidades propias de:
-> 
-> a) Los miembros de las Cortes Generales.
-> b) Los miembros del Gobierno de España.
-> c) Los miembros del Tribunal de Cuentas.
-> d) Los miembros del Poder Judicial."
-> 
-> *Respuesta correcta: d) Los miembros del Poder Judicial.*
-
-**2019 (Nivel medio):**
-> Pregunta real: "De conformidad con el artículo 116 de la CE, el estado de alarma será declarado:
-> 
-> a) Por mayoría absoluta del Congreso por un plazo máximo de 15 días, sin perjuicio de su posible prórroga.
-> b) Por el Gobierno, mediante decreto acordado en Consejo de Ministros y por un plazo máximo de 15 días, dando cuenta al Congreso de los Diputados y sin cuya autorización no podrá ser prorrogado dicho plazo.
-> c) Por mayoría simple del Congreso por un plazo máximo de 15 días, sin perjuicio de su posible prórroga.
-> d) Por mayoría simple del Congreso y ratificado por el Senado por el periodo que se determine."
-> 
-> *Respuesta correcta: b) Por el Gobierno, mediante decreto acordado en Consejo de Ministros y por un plazo máximo de 15 días, dando cuenta al Congreso de los Diputados y sin cuya autorización no podrá ser prorrogado dicho plazo.*
-
-**2022 (Nivel avanzado):**
-> Pregunta real: "Según el artículo 102 de la Constitución Española de 1978, si el Presidente del Gobierno fuere acusado de un delito contra la seguridad del estado en el ejercicio de sus funciones, la iniciativa sólo podrá ser planteada por:
-> 
-> a) La quinta parte de los miembros del Congreso y aprobada con mayoría simple.
-> b) La cuarta parte de los miembros del Congreso y aprobada con mayoría simple.
-> c) La cuarta parte de los miembros del Congreso y aprobada con mayoría absoluta.
-> d) La quinta parte de los miembros del Congreso y aprobada con mayoría absoluta."
-> 
-> *Respuesta correcta: c) La cuarta parte de los miembros del Congreso y aprobada con mayoría absoluta.*
-
-### Leyes Administrativas y Procedimiento
-
-**2018 (Nivel básico):**
-> Pregunta real: "Conforme a lo establecido en el artículo 21 de la Ley 50/1997, de 27 de noviembre, del Gobierno, ¿en cuál de los siguientes casos NO se produce el cese del Gobierno?
-> 
-> a) Tras la celebración de elecciones generales.
-> b) Por dimisión de la mitad más uno de sus Ministros.
-> c) En los casos de pérdida de la confianza parlamentaria previstos en la Constitución.
-> d) Por dimisión o fallecimiento de su Presidente."
-> 
-> *Respuesta correcta: b) Por dimisión de la mitad más uno de sus Ministros.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "En relación con la posibilidad de ampliación de los plazos del procedimiento administrativo, señale cuál es la opción correcta conforme a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:
-> 
-> a) Podrá acordarse la ampliación por una duración que no exceda del doble del plazo inicial.
-> b) Sólo procederá cuando la ampliación sea solicitada previamente por el interesado.
-> c) La Administración podrá acordar la ampliación general de los plazos cuando haya sufrido un ciberincidente.
-> d) Podrá ser objeto de ampliación un plazo ya vencido."
-> 
-> *Respuesta correcta: a) Podrá acordarse la ampliación por una duración que no exceda del doble del plazo inicial.*
-
-### Función Pública
-
-**2019 (Nivel básico):**
-> Pregunta real: "Según el artículo 62 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido del Estatuto Básico del Empleado Público, ¿cuál es el orden correcto en el cumplimiento sucesivo de requisitos para adquirir la condición de funcionario de carrera?
-> 
-> a) Superación del proceso selectivo, nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente, acto de acatamiento de la CE y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico y toma de posesión dentro del plazo que se establezca.
-> b) Superación del proceso selectivo, acto de acatamiento de la CE y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico, nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente, y toma de posesión dentro del plazo que se establezca.
-> c) Superación del proceso selectivo, nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente, toma de posesión dentro del plazo que se establezca y acto de acatamiento de la CE y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico.
-> d) Superación del proceso selectivo, toma de posesión dentro del plazo que se establezca, nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente y acto de acatamiento de la CE y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico."
-> 
-> *Respuesta correcta: a) Superación del proceso selectivo, nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente, acto de acatamiento de la CE y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico y toma de posesión dentro del plazo que se establezca.*
-
-**2022 (Nivel avanzado):**
-> Pregunta real: "Las funcionarias víctimas de violencia de género, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a solicitar la situación de excedencia, prevista en el artículo 89.5 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público:
-> 
-> a) Sin tener que haber prestado un tiempo mínimo de servicios previos y teniendo que permanecer un mínimo de un año en dicha situación.
-> b) Sin tener que haber prestado un tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia en la misma.
-> c) Cuando hayan prestado un tiempo mínimo de dos años de servicios previos y teniendo que permanecer un mínimo de un año en dicha situación.
-> d) Cuando hayan prestado un tiempo mínimo de dos años de servicios previos y sin que sea exigible plazo de permanencia en la misma."
-> 
-> *Respuesta correcta: b) Sin tener que haber prestado un tiempo mínimo de servicios previos y sin que sea exigible plazo de permanencia en la misma.*
-
-### Igualdad y Transparencia
-
-**2018 (Nivel básico):**
-> Pregunta real: "De acuerdo con el artículo 29 del TREBEP, las cantidades destinadas a financiar aportaciones a planes de pensiones o contratos de seguros tendrán a todos los efectos la consideración de:
-> 
-> a) Indemnizaciones.
-> b) Retribuciones básicas.
-> c) Retribuciones diferidas.
-> d) Retribuciones complementarias."
-> 
-> *Respuesta correcta: c) Retribuciones diferidas.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Conforme a la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable, se considera:
-> 
-> a) Acoso sexual.
-> b) Acoso por razón de sexo.
-> c) Discriminación directa por razón de sexo.
-> d) Discriminación indirecta por razón de sexo."
-> 
-> *Respuesta correcta: c) Discriminación directa por razón de sexo.*
-
-## 2. Parte 1 - Bloque II: Psicotécnicos
-
-### Razonamiento Verbal y Vocabulario
-
-**2017 (Nivel básico):**
-> Pregunta real: "Indique cuál de las siguientes palabras es el sinónimo de AGLOMERADO:
-> 
-> a) Defecto.
-> b) Amalgama.
-> c) Avanzado.
-> d) Necesario."
-> 
-> *Respuesta correcta: b) Amalgama.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Señale cuál es el sinónimo correspondiente de la palabra ACICATE:
-> 
-> a) Aguacate.
-> b) Acicalado.
-> c) Variante.
-> d) Estímulo."
-> 
-> *Respuesta correcta: d) Estímulo.*
-
-### Series Numéricas y Operaciones
-
-**2018 (Nivel básico):**
-> Pregunta real: "¿Qué número continua la secuencia 2, 3, 6, 3, 18, 3, _?
-> 
-> a) 54
-> b) 46
-> c) 68
-> d) 96"
-> 
-> *Respuesta correcta: a) 54*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Indique cuál de los siguientes números continúa la secuencia: 32, -3, 29, 5, 34, -2, _
-> 
-> a) 29
-> b) 36
-> c) 28
-> d) 32"
-> 
-> *Respuesta correcta: d) 32*
-
-### Razonamiento Lógico y Tablas
-
-**2019 (Nivel medio):**
-> Pregunta real (extracto de una tabla): "Según los datos del cuadro Biblioteca, siendo que la columna Clasificación de ubicación se refiere al nombre del título, ¿en cuál de las siguientes ubicaciones, habría que colocar este libro? Tema: Derecho Económico. Nombre: 'Trabajo temporal. Tributación'.
-> 
-> a) Planta: 1. Pasillo: 2 izquierda. Estanterías: 2 a 5.
-> b) Planta: 1. Pasillo: 3 derecha. Estanterías: 2 a 5.
-> c) Planta: 2. Pasillo: 2 derecha. Estanterías: 3 a 5.
-> d) Planta: 1. Pasillo: 3 derecha. Estanterías: 1 a 5."
-> 
-> *Respuesta correcta: d) Planta: 1. Pasillo: 3 derecha. Estanterías: 1 a 5.*
-
-**2022 (Nivel avanzado):**
-> Pregunta real: "Según las tablas Flores, ¿qué cantidad total de estambres poseen las flores que se ofrecen en color blanco y no poseen entrega en domicilio?
-> 
-> a) 22
-> b) 20
-> c) 19
-> d) 21"
-> 
-> *Respuesta correcta: a) 22*
-
-## 3. Parte 2 - Bloque I: Actividad Administrativa
-
-### Atención al Ciudadano y Registro
-
-**2017 (Nivel básico):**
-> Pregunta real: "Según el Real Decreto 208/1996, de 9 de febrero, por el que se regulan los servicios de información administrativa y atención al ciudadano, ¿a quién le corresponde sostener un sistema de información administrativa al ciudadano sobre los servicios públicos y trámites de toda la Administración General del Estado?
-> 
-> a) A la Comisión Interministerial de Información Administrativa.
-> b) A las Oficinas de información y atención al ciudadano de los órganos territoriales de la Administración General del Estado.
-> c) Al Centro de Información Administrativa.
-> d) A las Oficinas de información y atención al ciudadano en los servicios centrales."
-> 
-> *Respuesta correcta: c) Al Centro de Información Administrativa.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "De acuerdo con el Real Decreto 366/2007, de 16 de marzo, por el que se establecen las condiciones de accesibilidad y no discriminación de las personas con discapacidad en sus relaciones con la Administración General del Estado, señale la respuesta correcta en relación con la ubicación de las oficinas de atención al ciudadano:
-> 
-> a) En todo caso, las oficinas se ubicarán en planta a nivel de vía pública.
-> b) Las oficinas deben estar correctamente señalizadas visualmente desde el exterior, de tal forma que sean fácilmente identificables.
-> c) Todos los itinerarios que unan los accesos de las oficinas con la vía pública, con los servicios o edificaciones anexas y con los aparcamientos, deberán ser accesibles de acuerdo con las condiciones establecidas para un itinerario urbano accesible.
-> d) Las oficinas de atención al ciudadano, en caso de disponer de plazas de aparcamiento, reservarán un número suficiente de plazas, convenientemente señalizadas, destinadas en exclusividad a personas con discapacidad."
-> 
-> *Respuesta correcta: b) Las oficinas deben estar correctamente señalizadas visualmente desde el exterior, de tal forma que sean fácilmente identificables.*
-
-### Administración Electrónica
-
-**2019 (Nivel básico):**
-> Pregunta real: "De conformidad con lo previsto en el Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, ¿cuál será el área personalizada para las personas interesadas en su relación con sector público estatal?
-> 
-> a) El Punto de Acceso General electrónico (PAGe).
-> b) La Carpeta ciudadana.
-> c) Las plataformas de verificación de certificados electrónicos y de otros sistemas de identificación.
-> d) El Registro electrónico."
-> 
-> *Respuesta correcta: b) La Carpeta ciudadana.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Conforme a lo previsto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, se define la sede electrónica como:
-> 
-> a) Un punto de acceso electrónico con código seguro de verificación vinculado a la Administración General del Estado.
-> b) Aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias.
-> c) El punto de acceso electrónico cuya titularidad corresponda a una Administración Pública, organismo público o entidad de Derecho Público que permite el acceso a través de internet a la información publicada.
-> d) La actuación administrativa automatizada de cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública."
-> 
-> *Respuesta correcta: b) Aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a una o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias.*
-
-### Archivos y Documentación
-
-**2017 (Nivel básico):**
-> Pregunta real: "De conformidad con el Real Decreto 1708/2011, de 18 de noviembre, ¿qué clase de archivo cumple con la función de coordinar y controlar el funcionamiento de los distintos archivos de gestión?
-> 
-> a) Archivo intermedio.
-> b) Archivo de oficina.
-> c) Archivo Histórico Nacional.
-> d) Archivo Central."
-> 
-> *Respuesta correcta: d) Archivo Central.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Señale cuál es una de las funciones del Consejo de Cooperación Archivística, conforme a la regulación contenida en el Real Decreto 1708/2011, de 18 de noviembre, por el que se establece el Sistema Español de Archivos y se regula el Sistema de Archivo de la Administración General del Estado y de sus Organismos Públicos y su régimen de acceso:
-> 
-> a) El impulso del funcionamiento de los Patronatos de los Archivos Históricos de carácter nacional y los órganos colegiados en materia archivística con presencia de la Administración General del Estado.
-> b) La presencia española en organismos y organizaciones internacionales y la participación en proyectos supranacionales.
-> c) La suscripción de convenios y otros instrumentos de cooperación entre las administraciones públicas y con los archivos de titularidad pública.
-> d) La elaboración de criterios uniformes para el desarrollo de los servicios archivísticos."
-> 
-> *Respuesta correcta: d) La elaboración de criterios uniformes para el desarrollo de los servicios archivísticos.*
-
-## 4. Parte 2 - Bloque II: Ofimática e Informática
-
-### Informática Básica
-
-**2017 (Nivel básico):**
-> Pregunta real: "¿Cuál de los siguientes es un periférico de entrada?
-> 
-> a) Impresora.
-> b) Altavoces.
-> c) Cámara web.
-> d) Pantalla."
-> 
-> *Respuesta correcta: c) Cámara web.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "¿Cómo se llama la causa potencial de un incidente que puede causar daños a un sistema de información o a una organización?
-> 
-> a) Riesgo.
-> b) Vulnerabilidad.
-> c) Amenaza.
-> d) Impacto."
-> 
-> *Respuesta correcta: c) Amenaza.*
-
-### Windows y Sistemas Operativos
-
-**2019 (Nivel básico):**
-> Pregunta real: "¿Cuál de las siguientes afirmaciones referidas a un acceso directo de Windows es verdadera?
-> 
-> a) Es posible crear accesos directos a ficheros, que se abren utilizando el programa asociado a su extensión, pero no es posible crear accesos directos a carpetas.
-> b) Es posible crear accesos directos a carpetas y ficheros pero, en el caso de los ficheros, no se ejecuta la aplicación asociada a su extensión, sino que se abren en el Explorador de archivos.
-> c) Es posible crear accesos directos a carpetas y ficheros. Si el enlace es a un fichero, se abrirá utilizando el programa asociado a su extensión.
-> d) Es posible crear accesos directos a carpetas en local y en OneDrive, pero no a ficheros de ningún tipo."
-> 
-> *Respuesta correcta: c) Es posible crear accesos directos a carpetas y ficheros. Si el enlace es a un fichero, se abrirá utilizando el programa asociado a su extensión.*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Para abrir el explorador de archivos en Windows 10 mediante el teclado, ¿qué teclas de las propuestas es necesario pulsar simultáneamente?
-> 
-> a) Tecla Windows + E
-> b) Tecla Ctrl + O
-> c) Tecla Windows + O
-> d) Tecla Ctrl + E"
-> 
-> *Respuesta correcta: a) Tecla Windows + E*
-
-### Microsoft Word
-
-**2017 (Nivel básico):**
-> Pregunta real: "En Word 2010, ¿qué tecla mantendría pulsada para poder marcar o seleccionar párrafos alternos con el ratón?
-> 
-> a) Control
-> b) SHIFT
-> c) Block. Mayús
-> d) La operación no se puede hacer."
-> 
-> *Respuesta correcta: a) Control*
-
-**2022 (Nivel avanzado):**
-> Pregunta real: "En Word 2019 si se desea cambiar el estilo de una lista de numeración, ¿cómo se debe proceder?
-> 
-> a) Pestaña Inicio, en grupo párrafo elegimos lista multinivel y definir nuevo estilo de lista.
-> b) Pestaña Insertar, numeración, profundidad.
-> c) Pestaña Diseño, numeración, profundidad.
-> d) Pestaña Inicio, en grupo párrafo elegimos lista multinivel y definir nueva lista multinivel."
-> 
-> *Respuesta correcta: a) Pestaña Inicio, en grupo párrafo elegimos lista multinivel y definir nuevo estilo de lista.*
-
-### Microsoft Excel
-
-**2019 (Nivel básico):**
-> Pregunta real: "En una hoja Excel queremos rellenar la columna E con los valores de la columna D, que contiene valores numéricos, sumándoles a cada uno el valor de la celda B1, también numérica. ¿Qué formula hay que escribir en la celda E1 para que la referencia a la celda B1 sea absoluta y no cambie al copiar la fórmula en toda la columna E?
-> 
-> a) =D1+$B$1
-> b) =D1+(B1)
-> c) =D1+$B1
-> d) =D1+"B1""
-> 
-> *Respuesta correcta: a) =D1+$B$1*
-
-**2022 (Nivel medio):**
-> Pregunta real: "Excel 2019 clasifica las funciones por categorías. ¿Cuál de las siguientes pertenecen a la categoría 'Matemáticas y Trigonométricas'?
-> 
-> a) RAIZ, ENTERO, INT.ACUM
-> b) RAIZ, ENTERO, POTENCIA
-> c) RAIZ, POTENCIA, INT.ACUM
-> d) POTENCIA, ENTERO, INT.ACUM"
-> 
-> *Respuesta correcta: b) RAIZ, ENTERO, POTENCIA*
-
-### Microsoft Access
-
-**2019 (Nivel medio):**
-> Pregunta real: "En Access, al diseñar una tabla, establecemos el tamaño de un campo de tipo Número para que solamente admita números enteros comprendidos entre 0 y 255. ¿Cuál de los siguientes tamaños hemos seleccionado?
-> 
-> a) Byte.
-> b) Entero.
-> c) Simple.
-> d) Decimal."
-> 
-> *Respuesta correcta: a) Byte.*
-
-**2022 (Nivel avanzado):**
-> Pregunta real: "¿Cuál es el tipo de dato correcto en Access 2019 para una columna que permita introducir valores existentes desde una lista desplegable?
-> 
-> a) Cadena.
-> b) Hipervínculo.
-> c) Campo de búsqueda.
-> d) Objeto OLE."
-> 
-> *Respuesta correcta: c) Campo de búsqueda.*
-
-### Microsoft Outlook
-
-**2017 (Nivel básico):**
-> Pregunta real: "En Outlook 2019, ¿qué combinación de teclas nos permite acceder a la carpeta de contactos?
-> 
-> a) CTRL+ 3
-> b) CTRL+ 4
-> c) CTRL+ 5
-> d) CTRL+ 2"
-> 
-> *Respuesta correcta: a) CTRL+ 3*
-
-**2022 (Nivel medio):**
-> Pregunta real: "En Outlook 2019 SMTP es:
-> 
-> a) Un protocolo de mensajería que identifica unívocamente al receptor y al emisor.
-> b) Un protocolo de autentificación de correo entre el servidor y el cliente.
-> c) Un protocolo de cifrado de mensajes entre servidor y cliente.
-> d) Un protocolo de transferencia simple de correo empleado para el intercambio de mensajes entre dispositivos."
-> 
-> *Respuesta correcta: d) Un protocolo de transferencia simple de correo empleado para el intercambio de mensajes entre dispositivos.*
-
-### Internet y Redes
-
-**2018 (Nivel básico):**
-> Pregunta real: "¿Cuál de los siguientes lenguajes de programación pueden interpretar los navegadores web de forma nativa para mejorar las funcionalidades y dinamismo de las páginas web?
-> 
-> a) Basic
-> b) C#
-> c) Pascal
-> d) JavaScript"
-> 
-> *Respuesta correcta: d) JavaScript*
-
-**2022 (Nivel medio):**
-> Pregunta real: "¿Qué es una dirección IPv4?
-> 
-> a) Es un número binario de 64 bits que identifica a un interfaz en red de un dispositivo que utiliza el protocolo IPv4.
-> b) Es un identificador de 24 bits expresado en código hexadecimal, para identificar de forma única la tarjeta de red.
-> c) Es un identificador de 48 bits expresado en código hexadecimal, para identificar de forma única la tarjeta de red.
-> d) Es un número binario de 4 octetos que identifica a un interfaz en red de un dispositivo que utiliza el protocolo IPv4."
-> 
-> *Respuesta correcta: d) Es un número binario de 4 octetos que identifica a un interfaz en red de un dispositivo que utiliza el protocolo IPv4.*
-
-## Evolución de Dificultad por Tipo de Examen (2017-2024)
-
-Como se puede observar en los ejemplos anteriores, existe una clara evolución en la complejidad y especificidad de las preguntas a lo largo de los años:
-
-1. **Preguntas básicas (2017-2018)**: Principalmente de memorización directa, con opciones claramente diferenciadas.
-
-2. **Preguntas de nivel medio (2019-2021)**: Requieren comprensión de conceptos y aplicación de conocimientos, no solo memorización.
-
-3. **Preguntas de nivel avanzado (2022-2024)**: Exigen análisis, interpretación normativa o técnica y aplicación práctica en situaciones complejas.
-
-Esta evolución es especialmente evidente en los bloques de ofimática y psicotécnicos, donde las preguntas han pasado de evaluar conocimientos básicos a evaluar competencias técnicas más avanzadas y razonamiento complejo.
-
-
 
 
 
