@@ -1,7 +1,11 @@
-# ANEXO V: SIMULACRO DE EXAMEN
-# CUERPO GENERAL AUXILIAR DE LA ADMINISTRACIÓN DEL ESTADO
+# ANEXO V: SIMULACRO DE EXAMEN  
+# CUERPO GENERAL AUXILIAR DE LA ADMINISTRACIÓN DEL ESTADO  
+
+> **Cuestionario oficial – Modelo A (2024)**  
+> **Autor: Instituto Nacional de Administración Pública (INAP)**  
 
 > *Este simulacro ha sido elaborado conforme a la estructura oficial del examen y basado en el análisis de convocatorias entre 2017 y 2024. Contiene 100 preguntas (más 10 de reserva) divididas en dos partes.*
+
 
 ## INSTRUCCIONES GENERALES
 
