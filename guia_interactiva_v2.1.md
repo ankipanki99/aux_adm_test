@@ -348,9 +348,6 @@ Ambos bloques son altamente puntuables y, en muchos casos, **decisivos para supe
 
 [⬆ Volver al índice](#tabla-de-contenidos)
 
----
-
-Aquí tienes el **Capítulo 4 – Análisis Estratégico**, con sus dos bloques principales, anclajes y estilo claro:
 
 ---
 
