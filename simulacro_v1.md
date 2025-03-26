@@ -427,31 +427,31 @@
 
 ### 📌 Preguntas de Reserva
 
-**R1. Indique la respuesta correcta en referencia al Plan Anual Normativo previsto en el artículo 25 de la Ley 50/1997, de 27 de noviembre, del Gobierno:**  
+**1. Indique la respuesta correcta en referencia al Plan Anual Normativo previsto en el artículo 25 de la Ley 50/1997, de 27 de noviembre, del Gobierno:**  
    - a) El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 30 de abril.  
    - b) El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 1 de junio.  
    - c) El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 31 de octubre.  
    - d) El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 31 de diciembre.  
 
-**R2. De conformidad con el Reglamento 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril, relativo a la protección de las personas físicas, en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, indique a quién responde la siguiente definición: persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto con otros, determina los fines y medios del tratamiento de datos.**  
+**2. De conformidad con el Reglamento 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril, relativo a la protección de las personas físicas, en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, indique a quién responde la siguiente definición: persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto con otros, determina los fines y medios del tratamiento de datos.**  
    - a) Responsable del tratamiento.  
    - b) Encargado del tratamiento.  
    - c) Destinatario del tratamiento.  
    - d) Interesado.  
 
-**R3. Indique entre las siguientes palabras cuál es el antónimo de la palabra VENTURA.**  
+**3. Indique entre las siguientes palabras cuál es el antónimo de la palabra VENTURA.**  
    - a) Aireado.  
    - b) Quimerista.  
    - c) Peligroso.  
    - d) Desdicha.  
 
-**R4. Ana tiene 12 libros de historia, 16 novelas y 8 ensayos. ¿Cuál es el porcentaje de novelas?**  
+**4. Ana tiene 12 libros de historia, 16 novelas y 8 ensayos. ¿Cuál es el porcentaje de novelas?**  
    - a) 41,10 %  
    - b) 58,35 %  
    - c) 36,50 %  
    - d) 44,44 %  
 
-**R5. Halle el valor de 21(4x – 6) = x**  
+**5. Halle el valor de 21(4x – 6) = x**  
    - a) - 1,93  
    - b) 1,52  
    - c) 0,70  
@@ -768,31 +768,31 @@ d) IETF
 ---
 ### 📌 Preguntas de Reserva
 
-**R1.** **En la Unión Europea y España se aplican normas para garantizar la accesibilidad web. ¿Desde qué año se aplican estas normas?**  
+**1.** **En la Unión Europea y España se aplican normas para garantizar la accesibilidad web. ¿Desde qué año se aplican estas normas?**  
 a) 2002.  
 b) 1985.  
 c) 1996.  
 d) 2014.
 
-**R2.** **En Excel 365, con la fórmula =DIAS(A2;A3) y fechas 02/02/2024 (A2) y 11/02/2024 (A3), ¿qué resultado se obtiene?**  
+**2.** **En Excel 365, con la fórmula =DIAS(A2;A3) y fechas 02/02/2024 (A2) y 11/02/2024 (A3), ¿qué resultado se obtiene?**  
 a) -9  
 b) 12/02/2024  
 c) 9  
 d) 01/02/2024
 
-**R3.** **En un portátil con Windows 10, ¿qué herramienta permite configurar energía y perfiles de sincronización?**  
+**3.** **En un portátil con Windows 10, ¿qué herramienta permite configurar energía y perfiles de sincronización?**  
 a) Administrador de dispositivos.  
 b) Administrador de equipos.  
 c) Administrador de tareas.  
 d) Centro de movilidad.
 
-**R4.** **¿Cuál de estas opciones de inmovilización en Excel 365 es falsa?**  
+**4.** **¿Cuál de estas opciones de inmovilización en Excel 365 es falsa?**  
 a) Inmovilizar celdas seleccionadas.  
 b) Inmovilizar fila superior.  
 c) Inmovilizar paneles.  
 d) Inmovilizar primera columna.
 
-**R5.** **Según la Orden HAP/1949/2014, ¿cuáles son los canales de acceso al Punto de Acceso General?**  
+**5.** **Según la Orden HAP/1949/2014, ¿cuáles son los canales de acceso al Punto de Acceso General?**  
 a) Internet, las oficinas 060 y el teléfono 060.  
 b) El teléfono 060, exclusivamente.  
 c) La oficina 060, exclusivamente.  
