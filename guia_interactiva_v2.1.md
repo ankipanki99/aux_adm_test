@@ -294,6 +294,46 @@ Este bloque aborda los conceptos clave del funcionamiento interno de la Administ
 [⬆ Volver al índice](#tabla-de-contenidos)
 
 
+
+---
+
+<a id="32-bloque-iv-ofimática-e-informática"></a>  
+#### 3.2 Bloque IV: Ofimática e Informática
+
+Este bloque constituye la parte práctica de conocimientos aplicados y suele marcar la diferencia en la puntuación global. Evalúa tu dominio de herramientas esenciales para el trabajo administrativo diario.
+
+---
+
+##### 🖥️ Contenido del Bloque
+
+1. Procesador de textos (Word)  
+2. Hoja de cálculo (Excel)  
+3. Correo electrónico (Outlook)  
+4. Explorador de archivos (Windows)  
+5. Internet, navegadores y seguridad básica  
+6. Conceptos básicos sobre bases de datos (Access)
+
+---
+
+##### 📈 Tendencias detectadas (2017–2024)
+
+- Gran protagonismo de Word y Excel en el segundo ejercicio  
+- Aumento de preguntas técnicas sobre combinaciones de teclas, menús, fórmulas y formatos  
+- Aparición de preguntas sobre **nube, ciberseguridad y configuración básica**
+
+---
+
+##### ✅ Recomendaciones de preparación
+
+- Familiarízate con la **interfaz real** de las versiones usadas por la AGE (generalmente Microsoft 365)  
+- Practica preguntas específicas sobre menús, pestañas, atajos de teclado y funciones  
+- Dedica sesiones separadas a Word y Excel, por su peso decisivo en la prueba práctica  
+- Usa simuladores y manuales visuales actualizados
+
+---
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
 ---
 
 ### Cierre del Capítulo 3
