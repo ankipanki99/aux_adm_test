@@ -20,6 +20,42 @@
 
 **1. Según el artículo 168 de la Constitución Española, los proyectos de reforma constitucional que afecten al Título preliminar, al Capítulo Segundo, Sección Primera del Título I, o al Título II, deberán ser aprobados por:**
 
+a) Mayoría de tres quintos de cada una de las Cámaras.  
+b) Mayoría de dos tercios de cada Cámara, y disolución inmediata de las Cortes.  
+c) Mayoría absoluta del Congreso y mayoría simple del Senado.  
+d) Mayoría de dos tercios de ambas Cámaras en sesión conjunta.  
+
+**2. De acuerdo con el artículo 140 de la Constitución Española, el gobierno y administración de los municipios corresponde a:**
+
+a) Sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales.  
+b) Sus respectivas Diputaciones, integradas por los Alcaldes y los Concejales.  
+c) Sus respectivos Consejos de Gobierno, integrados por los Alcaldes y los Tenientes de Alcalde.  
+d) Sus respectivos Cabildos o Consejos.  
+
+**3. Según el artículo 99.3 de la Constitución, en el caso de que ningún candidato a la Presidencia del Gobierno obtenga la confianza del Congreso, transcurrido el plazo de dos meses desde la primera votación de investidura:**
+
+a) El Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.  
+b) Se celebrarán automáticamente nuevas elecciones sin necesidad de disolución de las Cámaras.  
+c) El candidato del partido con mayor número de escaños será nombrado automáticamente Presidente.  
+d) El Rey propondrá un candidato de consenso entre los dos partidos más votados.  
+
+**4. Según el artículo 72 de la Constitución Española, las Cámaras elaboran:**
+
+a) Sus respectivos presupuestos, que deberán aprobar las Cortes Generales en sesión conjunta.  
+b) Un presupuesto común que deberá ser aprobado por el Gobierno.  
+c) Sus respectivos presupuestos de manera autónoma.  
+d) Sus respectivos presupuestos, que deberán ser aprobados por el Ministerio de Hacienda.  
+
+**5. El principio de inderogabilidad singular de los reglamentos significa que:**
+
+a) Una norma reglamentaria no puede derogar una ley.  
+b) Los reglamentos no pueden ser derogados por otras normas del mismo rango.  
+c) La Administración no puede dejar de aplicar un reglamento en un caso concreto.  
+d)
+
+
+**1. Según el artículo 168 de la Constitución Española, los proyectos de reforma constitucional que afecten al Título preliminar, al Capítulo Segundo, Sección Primera del Título I, o al Título II, deberán ser aprobados por:**
+
 
 a) Mayoría de tres quintos de cada una de las Cámaras.
 b) Mayoría de dos tercios de cada Cámara, y disolución inmediata de las Cortes.
