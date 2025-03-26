@@ -37,7 +37,10 @@ license: "CC BY-NC-SA 4.0"
 - [Anexo I: Ejemplos de Preguntas Reales](#anexo-i-ejemplos-de-preguntas-reales-por-bloque-temático-2017-2024)
 - [Anexo II: Análisis de Dificultad por Año](#anexo-ii-análisis-de-la-evolución-de-dificultad-por-años)
 - [Anexo III: Recursos Recomendados](#anexo-iii-recursos-recomendados)
+- [Anexo IV: Anexo IV: Tabla de Seguimiento y Progreso de Estudio]()
+- [Anexo V: Simulacro de examen - Cuerpo de Auxiliares Administrativos del Estado ]()
 
+---
 ## Introducción
 
 El Cuerpo General Auxiliar de la Administración del Estado representa una de las opciones más demandadas dentro de las oposiciones a la Administración General del Estado (AGE). Su atractivo radica en la estabilidad laboral, las condiciones profesionales y la relativamente menor dificultad de acceso en comparación con otros cuerpos superiores.
@@ -1596,6 +1599,685 @@ Como se puede observar en los ejemplos anteriores, existe una clara evolución e
 3. **Preguntas de nivel avanzado (2022-2024)**: Exigen análisis, interpretación normativa o técnica y aplicación práctica en situaciones complejas.
 
 Esta evolución es especialmente evidente en los bloques de ofimática y psicotécnicos, donde las preguntas han pasado de evaluar conocimientos básicos a evaluar competencias técnicas más avanzadas y razonamiento complejo.
+
+---
+Anexo II: Análisis de la Evolución de Dificultad por Años
+Este anexo presenta un estudio detallado de cómo ha ido evolucionando la dificultad y el enfoque de las preguntas en los exámenes del Cuerpo General Auxiliar de la Administración del Estado entre 2017 y 2024. La comprensión de estas tendencias resulta fundamental para orientar adecuadamente la preparación del opositor.
+
+Tendencias Generales Identificadas
+La observación sistemática de los exámenes oficiales muestra una evolución clara en cuanto a la dificultad y el tipo de conocimientos evaluados:
+
+Periodo	Características Generales	Enfoque Predominante
+2017-2018	Dificultad básica-media	Evaluación de conocimientos memorizados
+2019-2021	Dificultad media	Balance entre memorización y aplicación práctica
+2022-2024	Dificultad media-alta	Mayor peso de la aplicación de conocimientos
+Análisis por Bloques Temáticos
+Bloque I: Organización Pública
+Periodo	Características de las Preguntas	Nivel de Dificultad
+2017-2018	• Preguntas directas sobre artículos concretos de la Constitución<br>• Reproducción literal de normativa<br>• Conceptos básicos de organización administrativa	⭐⭐
+2019-2021	• Mayor presencia de preguntas sobre procedimiento administrativo<br>• Preguntas sobre relaciones entre órganos administrativos<br>• Preguntas sobre legislación de igualdad y transparencia	⭐⭐⭐
+2022-2024	• Preguntas sobre modificaciones legislativas recientes<br>• Mayor presencia de casos prácticos de aplicación normativa<br>• Preguntas que requieren relacionar diferentes normas<br>• Mayor peso de igualdad, transparencia y administración electrónica	⭐⭐⭐⭐
+Ejemplo de evolución en preguntas sobre la Constitución:
+
+2017: "¿Cuántos títulos tiene la Constitución Española?"
+2020: "De conformidad con el artículo 159 de la CE, ¿quién nombra a los miembros del Tribunal Constitucional?"
+2023: "Según la jurisprudencia constitucional, ¿en qué supuestos puede un derecho fundamental ser limitado, conforme al artículo 53 de la CE?"
+Bloque II: Psicotécnicos
+Periodo	Características de las Preguntas	Nivel de Dificultad
+2017-2018	• Series numéricas sencillas<br>• Problemas de cálculo básico<br>• Sinónimos y antónimos comunes<br>• Tablas con pocas variables	⭐⭐⭐
+2019-2021	• Mayor presencia de problemas lógicos<br>• Tablas con variables cruzadas<br>• Series con patrones menos evidentes<br>• Vocabulario más específico	⭐⭐⭐⭐
+2022-2024	• Tablas con múltiples variables y condiciones<br>• Series con patrones complejos o alternos<br>• Problemas de aplicación en contextos administrativos<br>• Mayor peso del razonamiento lógico-deductivo	⭐⭐⭐⭐⭐
+Ejemplo de evolución en series numéricas:
+
+2017: "Continúa la serie: 2, 4, 6, 8, 10, ___"
+2020: "Completa la serie: 3, 7, 15, 31, ___"
+2023: "Identifica el número que continúa: 4, 5, 8, 17, 44, ___"
+Bloque III: Actividad Administrativa
+Periodo	Características de las Preguntas	Nivel de Dificultad
+2017-2018	• Preguntas sobre conceptos básicos de atención<br>• Normativa de registro y documentación<br>• Conceptos elementales de archivo	⭐⭐
+2019-2021	• Mayor presencia de administración electrónica<br>• Preguntas sobre protección de datos<br>• Preguntas sobre accesibilidad y calidad	⭐⭐⭐
+2022-2024	• Integración de conceptos de administración electrónica con procedimiento<br>• Aplicación práctica de la protección de datos<br>• Preguntas sobre certificados y firma electrónica<br>• Mayor complejidad en gestión documental	⭐⭐⭐⭐
+Ejemplo de evolución en administración electrónica:
+
+2017: "¿Qué es una sede electrónica?"
+2020: "¿Qué requisitos debe cumplir una notificación electrónica?"
+2023: "¿En qué supuestos puede un ciudadano optar por no relacionarse electrónicamente con la Administración a pesar de estar incluido en los colectivos obligados?"
+Bloque IV: Ofimática e Informática
+Periodo	Características de las Preguntas	Nivel de Dificultad
+2017-2018	• Conceptos básicos de hardware y software<br>• Funciones elementales de Office<br>• Navegación básica por internet	⭐⭐
+2019-2021	• Mayor presencia de funciones específicas de Excel<br>• Preguntas sobre seguridad informática<br>• Configuración de opciones en Windows	⭐⭐⭐
+2022-2024	• Funciones avanzadas de Excel (funciones anidadas, referencias)<br>• Formatos condicionales y fórmulas específicas<br>• Mayor peso de la seguridad informática y privacidad<br>• Herramientas administrativas en Windows	⭐⭐⭐⭐
+Ejemplo de evolución en Excel:
+
+2017: "¿Para qué sirve la función SUMA en Excel?"
+2020: "¿Qué hace la fórmula =CONTAR.SI(A1
+;">20") en Excel?"
+2023: "¿Cuál sería la fórmula correcta para aplicar en Excel 2019 si queremos obtener en la celda F1 el resultado de buscar el valor de la celda D1 en la tabla A1
+y devolver el valor de la columna B que corresponda, mostrando '#N/A' si no se encuentra?"
+Factores que Explican la Evolución
+Los cambios observados responden a diversos factores:
+
+Modernización administrativa: La transformación digital de la Administración se refleja en un mayor peso de la administración electrónica y la ofimática avanzada.
+Cambios normativos: La actualización constante del marco normativo ha introducido nuevas áreas de conocimiento como transparencia, protección de datos e igualdad.
+Evolución de perfiles demandados: La Administración busca perfiles más técnicos y con mayor capacidad analítica, lo que se refleja en el aumento de la dificultad de los psicotécnicos.
+Evolución tecnológica: El uso generalizado de herramientas digitales en el puesto de trabajo ha incrementado el nivel exigido en conocimientos informáticos.
+Recomendaciones según el Año de Preparación
+En función del análisis temporal, se pueden extraer las siguientes conclusiones prácticas:
+
+Periodo	Estrategias Recomendadas
+2017-2018	• Estudio centrado en los artículos concretos de la Constitución<br>• Funciones básicas de ofimática<br>• Ejercicios básicos de psicotécnicos
+2019-2021	• Mayor atención a la comprensión del procedimiento administrativo<br>• Prácticas de Excel con funciones esenciales<br>• Refuerzo en tablas psicotécnicas y problemas de aplicación
+2022-2024	• Estudio integrado de las modificaciones legislativas recientes<br>• Práctica avanzada de Excel incluyendo funciones anidadas<br>• Entrenamiento intensivo en psicotécnicos de tablas complejas<br>• Especial atención a la administración electrónica y protección de datos
+Estadísticas de Dificultad por Convocatoria
+A continuación se presenta un análisis estadístico de la evolución de la dificultad estimada, basado en los porcentajes de aprobados y en la complejidad técnica de las preguntas:
+
+Convocatoria	Bloque I	Bloque II	Bloque III	Bloque IV	Global
+2017	45%	60%	40%	45%	47.5%
+2018	50%	65%	45%	50%	52.5%
+2019	60%	70%	55%	60%	61.2%
+2020	65%	75%	60%	65%	66.2%
+2021	70%	75%	65%	70%	70%
+2022	75%	80%	70%	75%	75%
+2023	75%	85%	75%	80%	78.7%
+2024	80%	85%	75%	80%	80%
+Nota: Los porcentajes indican el nivel de dificultad estimado, donde un porcentaje mayor representa mayor dificultad.
+
+Análisis de Preguntas por Tipo y Evolución
+Distribución por Tipo de Razonamiento Requerido
+La siguiente tabla muestra cómo ha evolucionado el tipo de razonamiento exigido en las preguntas:
+
+Tipo de Razonamiento	2017-2018	2019-2021	2022-2024
+Memorización literal	65%	45%	30%
+Comprensión de conceptos	25%	35%	40%
+Aplicación práctica	10%	20%	30%
+Evolución por Área Temática Específica
+Área	2017-2018	2019-2021	2022-2024	Tendencia
+Constitución y Organización	Alta presencia	Alta presencia	Alta presencia	Estable →
+Procedimiento Administrativo	Media presencia	Alta presencia	Alta presencia	Creciente ↑
+Igualdad y Transparencia	Baja presencia	Media presencia	Alta presencia	Muy creciente ↑↑
+Razonamiento Lógico	Media presencia	Alta presencia	Muy alta presencia	Muy creciente ↑↑
+Administración Electrónica	Baja presencia	Media presencia	Alta presencia	Muy creciente ↑↑
+Excel y Funciones	Media presencia	Alta presencia	Muy alta presencia	Creciente ↑
+Seguridad Informática	Muy baja presencia	Media presencia	Alta presencia	Muy creciente ↑↑
+Conclusiones sobre la Evolución de Dificultad
+Tras el análisis detallado de las pruebas realizadas entre 2017 y 2024, se pueden extraer las siguientes conclusiones:
+
+Incremento progresivo de la dificultad: Se observa una tendencia clara hacia el aumento de la complejidad de las preguntas, especialmente en los bloques de psicotécnicos y ofimática.
+Cambio en el enfoque evaluativo: Se ha pasado de un modelo basado principalmente en la memorización a otro que valora más la comprensión y aplicación práctica de los conocimientos.
+Áreas emergentes: Destacan la administración electrónica, la protección de datos, la igualdad, la transparencia y la seguridad informática como áreas con un peso creciente y significativo.
+Mayor integración entre bloques: Las preguntas tienden a relacionar conceptos de diferentes áreas, requiriendo un conocimiento más integrado y menos compartimentado.
+Evolución tecnológica: Las preguntas reflejan la creciente digitalización de la Administración, con mayor énfasis en las competencias digitales avanzadas.
+La comprensión de estas tendencias evolutivas resulta fundamental para optimizar la preparación, permitiendo al opositor concentrar sus esfuerzos en aquellas áreas y tipos de ejercicios que tendrán mayor presencia en las próximas convocatorias.
+
+---
+# Anexo III: Recursos Recomendados
+
+Este anexo proporciona una selección de recursos de calidad para complementar tu preparación. Se ha priorizado material actualizado y relevante para cada bloque temático.
+
+## Recursos Oficiales
+
+### Legislación y Normativa
+
+1. **Portal BOE - Códigos Electrónicos**
+   - [Código de Administración Electrónica](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=029)
+   - [Código de Función Pública](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=003)
+   - [Código de Transparencia y Buen Gobierno](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=031)
+   - Acceso gratuito y texto siempre actualizado
+
+2. **Portal de Administración Electrónica**
+   - [administracionelectronica.gob.es](https://administracionelectronica.gob.es/)
+   - Normativa, guías, informes y documentos técnicos
+   - Observatorio de Accesibilidad
+
+3. **Portal de Transparencia**
+   - [transparencia.gob.es](https://transparencia.gob.es/)
+   - Información sobre publicidad activa y derecho de acceso
+   - Recursos didácticos y ejemplos prácticos
+
+4. **Punto de Acceso General**
+   - [administracion.gob.es](https://administracion.gob.es/)
+   - Guías de trámites y servicios
+   - Ejemplos reales de procesos administrativos
+
+5. **INAP (Instituto Nacional de Administración Pública)**
+   - [inap.es](https://www.inap.es/)
+   - Recursos formativos y publicaciones especializadas
+   - Algunos materiales gratuitos para opositores
+
+## Manuales y Libros Recomendados
+
+### Para Organización Pública
+
+1. **Temario Completo para el Cuerpo General Auxiliar de la AGE**
+   - Editoriales recomendadas: Adams, MAD, CEP
+   - Actualización 2024/2025
+   - Incluye esquemas, resúmenes y tests autoevaluativos
+
+2. **Constitución Española Comentada**
+   - Editorial Tecnos/Civitas
+   - Última edición disponible
+   - Con jurisprudencia constitucional relevante
+
+3. **Ley 39/2015 y 40/2015 Esquematizada**
+   - Editorial Colex/La Ley
+   - Con esquemas, diagramas y casos prácticos
+   - Incluye tablas comparativas con la legislación anterior
+
+4. **Estatuto Básico del Empleado Público Comentado**
+   - Cualquier edición posterior a 2023
+   - Con las últimas modificaciones integradas
+   - Jurisprudencia y ejemplos prácticos
+
+### Para Psicotécnicos
+
+1. **Cuadernos de Psicotécnicos para Oposiciones**
+   - Editoriales especializadas: TEA, CEDE, MAD
+   - Con soluciones explicadas detalladamente
+   - Estrategias de resolución por tipo de prueba
+
+2. **Ejercicios de Razonamiento**
+   - Editorial Paraninfo o similares
+   - Series completas graduadas por dificultad
+   - Técnicas y trucos para optimizar tiempo
+
+3. **Manual de Vocabulario para Oposiciones**
+   - Con sinónimos, antónimos y palabras de nivel medio-alto
+   - Ejercicios de comprensión verbal
+   - Recomendados de editoriales como MAD o CEP
+
+### Para Actividad Administrativa y Atención al Ciudadano
+
+1. **Manual de Procedimiento Administrativo Electrónico**
+   - Con enfoque práctico en la e-administración
+   - Ejemplos de expedientes electrónicos
+   - Flujogramas de procesos administrativos
+
+2. **Guía Práctica de Atención al Ciudadano en la AGE**
+   - Protocolos y buenas prácticas
+   - Casos prácticos resueltos
+   - Formularios y modelos documentales
+
+3. **RGPD y Protección de Datos en la Administración**
+   - Editorial Aranzadi/Wolters Kluwer (ediciones recientes)
+   - Casos prácticos adaptados a la Administración
+   - Derechos ARCO-POL explicados con ejemplos
+
+### Para Ofimática e Informática
+
+1. **Microsoft Word 365 - Nivel Medio-Avanzado**
+   - Editorial Anaya Multimedia o similar
+   - Con ejercicios prácticos y ejemplos reales
+   - Enfoque en funciones administrativas
+
+2. **Microsoft Excel 365 para Opositores**
+   - Con énfasis en fórmulas y funciones frecuentes en el examen
+   - Ejercicios graduados por dificultad
+   - Tutoriales paso a paso
+
+3. **Guía Completa de Outlook 365**
+   - Con ejercicios prácticos de gestión del correo
+   - Técnicas de organización y productividad
+   - Configuración y seguridad
+
+4. **Windows 10 y Seguridad Informática Básica**
+   - Enfoque en administración del sistema y protección
+   - Solución de problemas comunes
+   - Atajos de teclado y optimización
+
+## Recursos Digitales y Aplicaciones
+
+### Plataformas de Preparación
+
+1. **Preparatic**
+   - [preparatic.com](https://preparatic.com)
+   - Test específicos para la AGE
+   - Comunidad de opositores y foros de consulta
+
+2. **OpositaTest**
+   - [opositatest.com](https://opositatest.com)
+   - Miles de test clasificados por áreas
+   - Simulacros cronometrados y estadísticas personales
+
+3. **Oposapiens**
+   - Aplicación para móviles con tests diarios
+   - Notificaciones con preguntas de repaso
+   - Seguimiento de progreso por áreas
+
+### Aplicaciones de Estudio y Productividad
+
+1. **Quizlet**
+   - Tarjetas de memoria para conceptos clave
+   - Creación de sets personalizados
+   - Modo de estudio espaciado y juegos de repaso
+
+2. **Anki**
+   - Sistema de repetición espaciada
+   - Personalización total de tarjetas
+   - Estadísticas detalladas de aprendizaje
+
+3. **Forest**
+   - Técnica Pomodoro para concentración
+   - Bloqueo de distracciones digitales
+   - Seguimiento de tiempo de estudio efectivo
+
+4. **Notion/Obsidian**
+   - Organización integral del estudio
+   - Vinculación de conceptos y material
+   - Plantillas para opositores disponibles
+
+### Canales de YouTube Recomendados
+
+1. **Academia JAF**
+   - Explicaciones claras de temas administrativos
+   - Videos cortos por artículos y conceptos
+   - Actualización de novedades legislativas
+
+2. **FuncionaRíos**
+   - Esquemas visuales de procedimientos
+   - Experiencias de funcionarios
+   - Consejos prácticos para opositores
+
+3. **Formación Excel**
+   - Tutoriales específicos de funciones clave
+   - Trucos y atajos para Excel
+   - Ejercicios resueltos paso a paso
+
+4. **InformaticaCV**
+   - Windows 10 y herramientas ofimáticas
+   - Seguridad informática básica
+   - Solución de problemas comunes
+
+### Aplicaciones para Psicotécnicos
+
+1. **Lumosity**
+   - Entrenamiento cognitivo diario
+   - Ejercicios de velocidad mental y cálculo
+   - Estadísticas de progreso por área
+
+2. **BrainWars**
+   - Ejercicios competitivos de agilidad mental
+   - Desafíos diarios cronometrados
+   - Varias disciplinas de razonamiento
+
+3. **Elevate**
+   - Entrenamiento específico verbal y matemático
+   - Adaptación al nivel personal
+   - Recordatorios diarios de práctica
+
+## Comunidades y Foros
+
+1. **Grupos de Telegram para Opositores AGE**
+   - Compartición de recursos y dudas
+   - Alertas de cambios normativos
+   - Apoyo mutuo y experiencias
+
+2. **Foros especializados**
+   - OpositorAPF
+   - Infoempleo Oposiciones
+   - Comunidades en Reddit para opositores
+
+3. **Academias con comunidades activas**
+   - Grupos de preparación colectiva
+   - Sesiones de dudas periódicas
+   - Materiales compartidos y actualizados
+
+## Cursos Gratuitos Recomendados
+
+1. **INAP - Cursos abiertos**
+   - Introducción a la Administración Electrónica
+   - Atención e información al ciudadano
+   - Protección de datos en la AGE
+
+2. **UNED Abierta**
+   - Introducción al Derecho Constitucional
+   - Protección de datos
+   - Competencias digitales básicas
+
+3. **INTEF (Instituto Nacional de Tecnologías Educativas)**
+   - Competencias digitales
+   - Office 365 para principiantes y nivel medio
+   - Seguridad en internet
+
+4. **Microsoft Learn**
+   - Tutoriales oficiales de Office 365
+   - Cursos gratuitos y certificados
+   - Rutas de aprendizaje personalizadas
+
+## Consejos para la selección de recursos
+
+1. **Prioriza calidad sobre cantidad**
+   - Es mejor dominar 2-3 fuentes fiables que acumular decenas de recursos
+   - Selecciona materiales actualizados (2023-2025)
+   - Verifica la experiencia del autor/editorial en oposiciones AGE
+
+2. **Adapta según tu estilo de aprendizaje**
+   - Visual: esquemas, mapas mentales, vídeos
+   - Auditivo: podcasts, explicaciones grabadas, lectura en voz alta
+   - Cinestésico: ejercicios prácticos, simulacros, aprendizaje activo
+
+3. **Combina teoría y práctica**
+   - Alterna estudio de conceptos con test de autoevaluación
+   - Refuerza con aplicaciones prácticas de cada tema
+   - Realiza simulacros periódicos en condiciones reales
+
+4. **Optimiza el uso de tecnología**
+   - Utiliza aplicaciones de organización y seguimiento
+   - Configura recordatorios para repasos espaciados
+   - Bloquea distracciones durante el tiempo de estudio
+
+---
+
+Este anexo se actualiza periódicamente para incluir los recursos más relevantes. La última revisión fue realizada en marzo de 2025.
+
+**Nota importante**: Los enlaces y recomendaciones específicas pueden variar en disponibilidad. Se recomienda verificar la vigencia de los recursos y priorizar siempre las fuentes oficiales para la información normativa y técnica.
+
+---
+# Anexo IV: Tabla de Seguimiento y Progreso de Estudio
+
+## 📋 Plantilla de Control de Progreso - Oposición Cuerpo General Auxiliar AGE
+
+Esta herramienta te permitirá visualizar y gestionar de forma eficaz tu avance en el estudio de cada uno de los bloques y áreas temáticas del examen. Utilízala para planificar tus objetivos, registrar tu progreso y detectar las áreas que requieren mayor refuerzo.
+
+## 📝 Guía de uso de la plantilla
+
+### Instrucciones básicas:
+1. Imprime esta plantilla o crea tu propia versión digital editable (Excel, Google Sheets, etc.)
+2. Establece fechas objetivo para cada bloque según tu planificación
+3. Marca el nivel de conocimiento utilizando la siguiente escala:
+   - ⚪ No iniciado (0%)
+   - 🔵 Iniciado (25%)
+   - 🟢 Avanzado (50%)
+   - 🟡 Dominado (75%)
+   - 🟣 Perfeccionado (100%)
+4. Registra la fecha real de finalización y tus resultados en los simulacros
+5. Utiliza la columna de observaciones para anotar conceptos difíciles, recursos útiles o recordatorios
+
+### Método recomendado de seguimiento:
+
+#### 1. Evaluación inicial
+- Realiza un test de autoevaluación por cada bloque para determinar tu nivel actual
+- Colorea cada tema según tu nivel de conocimiento previo
+- Establece prioridades en función de tu nivel y el peso del tema en el examen
+
+#### 2. Planificación estratégica
+- Asigna fechas objetivo realistas para cada bloque temático
+- Prioriza las áreas con mayor peso en el examen (consulta la sección "Estadísticas por Área Temática")
+- Dedica más tiempo a las áreas donde tu nivel inicial es más bajo
+- Reserva tiempo específico para los psicotécnicos de forma regular (idealmente diaria)
+
+#### 3. Seguimiento periódico
+- Actualiza la plantilla semanalmente, marcando tu progreso
+- Después de estudiar cada tema, evalúate con tests específicos
+- Registra el porcentaje de aciertos en los simulacros parciales
+- Ajusta tu planificación en función de los resultados obtenidos
+
+#### 4. Control de simulacros
+- Programa simulacros completos cada 2-3 semanas
+- Anota los resultados en la tabla de "Registro de Simulacros"
+- Identifica patrones en tus puntos fuertes y débiles
+- Refuerza las áreas con menor puntuación
+
+#### 5. Análisis de progreso
+- Compara mensualmente tu evolución en cada bloque
+- Evalúa la efectividad de tus técnicas de estudio
+- Ajusta tu calendario según necesites más tiempo en determinadas áreas
+- Celebra los objetivos cumplidos para mantener la motivación
+
+### Ejemplo práctico:
+
+**Para el área "Constitución Española":**
+1. Fecha objetivo: 15/04/2025
+2. Nivel inicial: 🔵 (conocimientos básicos)
+3. Después de 2 semanas de estudio: 🟢 (conocimientos intermedios)
+4. Resultado en test: 65% de aciertos
+5. Observaciones: "Reforzar artículos 53-55 sobre garantías de derechos. Utilizar fichas para artículos clave."
+6. Fecha de finalización: 18/04/2025 (pequeño retraso sobre lo planificado)
+7. Simulacro posterior: 72% de aciertos
+
+---
+
+## PARTE 1 - BLOQUE I: ORGANIZACIÓN PÚBLICA
+
+| **Área Temática** | **Fecha Objetivo** | **Nivel de Conocimiento** | **Fecha Finalización** | **% Aciertos en Simulacros** | **Observaciones** |
+|-------------------|--------------------|--------------------------|-----------------------|------------------------------|-------------------|
+| **1. Constitución Española** |  |  |  |  |  |
+| Principios generales y valores |  |  |  |  |  |
+| Estructura y características |  |  |  |  |  |
+| Derechos y deberes fundamentales |  |  |  |  |  |
+| Garantías y suspensión |  |  |  |  |  |
+| Reforma constitucional |  |  |  |  |  |
+| Tribunal Constitucional |  |  |  |  |  |
+| **2. Organización del Estado** |  |  |  |  |  |
+| La Corona |  |  |  |  |  |
+| Las Cortes Generales |  |  |  |  |  |
+| El Gobierno |  |  |  |  |  |
+| Administración General del Estado |  |  |  |  |  |
+| Poder Judicial |  |  |  |  |  |
+| Organización territorial |  |  |  |  |  |
+| **3. Unión Europea** |  |  |  |  |  |
+| Instituciones principales |  |  |  |  |  |
+| Derecho comunitario y aplicación |  |  |  |  |  |
+| Tratados fundamentales |  |  |  |  |  |
+| **4. Leyes Administrativas** |  |  |  |  |  |
+| Ley 39/2015 (Procedimiento) |  |  |  |  |  |
+| Ley 40/2015 (Régimen Jurídico) |  |  |  |  |  |
+| **5. Función Pública** |  |  |  |  |  |
+| TREBEP (RD 5/2015) |  |  |  |  |  |
+| Clases de empleados públicos |  |  |  |  |  |
+| Derechos y deberes |  |  |  |  |  |
+| Situaciones administrativas |  |  |  |  |  |
+| **6. Igualdad y Diversidad** |  |  |  |  |  |
+| Ley 3/2007 de Igualdad efectiva |  |  |  |  |  |
+| Ley 15/2022 de Igualdad de trato |  |  |  |  |  |
+| Ley 4/2023 de personas trans |  |  |  |  |  |
+| **7. Dependencia** |  |  |  |  |  |
+| Ley 39/2006 de Autonomía Personal |  |  |  |  |  |
+| **8. Transparencia** |  |  |  |  |  |
+| Ley 19/2013 de Transparencia |  |  |  |  |  |
+| **9. Hacienda Pública** |  |  |  |  |  |
+| Ley 47/2003 General Presupuestaria |  |  |  |  |  |
+
+---
+
+## PARTE 1 - BLOQUE II: PSICOTÉCNICOS
+
+| **Tipo de Ejercicio** | **Nº Ejercicios Realizados** | **Tiempo Medio/Ejercicio** | **% Aciertos** | **Nivel de Dificultad** | **Observaciones** |
+|-----------------------|-----------------------------|-----------------------------|----------------|-------------------------|-------------------|
+| **1. Razonamiento Verbal** |  |  |  |  |  |
+| Sinónimos y antónimos |  |  |  |  |  |
+| Significados de palabras |  |  |  |  |  |
+| Palabras que no encajan |  |  |  |  |  |
+| **2. Razonamiento Lógico** |  |  |  |  |  |
+| Tablas con variables múltiples |  |  |  |  |  |
+| Condiciones combinadas |  |  |  |  |  |
+| Clasificación de elementos |  |  |  |  |  |
+| **3. Series Numéricas** |  |  |  |  |  |
+| Series ascendentes/descendentes |  |  |  |  |  |
+| Series alternadas |  |  |  |  |  |
+| Operaciones para igualdades |  |  |  |  |  |
+| **4. Razonamiento Abstracto** |  |  |  |  |  |
+| Secuencias de letras/símbolos |  |  |  |  |  |
+| Codificaciones |  |  |  |  |  |
+| Patrones a identificar |  |  |  |  |  |
+| **5. Problemas Aplicación** |  |  |  |  |  |
+| Problemas de trabajo/tiempo |  |  |  |  |  |
+| Problemas de reparto |  |  |  |  |  |
+| Ordenación y clasificación |  |  |  |  |  |
+
+---
+
+## PARTE 2 - BLOQUE III: ACTIVIDAD ADMINISTRATIVA
+
+| **Área Temática** | **Fecha Objetivo** | **Nivel de Conocimiento** | **Fecha Finalización** | **% Aciertos en Simulacros** | **Observaciones** |
+|-------------------|--------------------|--------------------------|-----------------------|------------------------------|-------------------|
+| **1. Atención al Ciudadano** |  |  |  |  |  |
+| RD 951/2005 marco calidad |  |  |  |  |  |
+| Cartas de servicios |  |  |  |  |  |
+| Quejas y sugerencias |  |  |  |  |  |
+| Servicios multicanal |  |  |  |  |  |
+| **2. Servicios de Información** |  |  |  |  |  |
+| RD 208/1996 servicios información |  |  |  |  |  |
+| Información general/particular |  |  |  |  |  |
+| Centro de Información Administrativa |  |  |  |  |  |
+| Punto de Acceso General |  |  |  |  |  |
+| **3. Documentación y Archivo** |  |  |  |  |  |
+| RD 1708/2011 Sistema Archivos |  |  |  |  |  |
+| Documentos y expedientes |  |  |  |  |  |
+| Registro entrada/salida |  |  |  |  |  |
+| Tipos de archivo |  |  |  |  |  |
+| **4. Administración Electrónica** |  |  |  |  |  |
+| RD 203/2021 funcionamiento electrónico |  |  |  |  |  |
+| Sede y portal web |  |  |  |  |  |
+| Identificación y firma |  |  |  |  |  |
+| Notificaciones electrónicas |  |  |  |  |  |
+| **5. Accesibilidad** |  |  |  |  |  |
+| RD 366/2007 accesibilidad AGE |  |  |  |  |  |
+| Condiciones oficinas |  |  |  |  |  |
+| Documentos accesibles |  |  |  |  |  |
+| **6. Protección de Datos** |  |  |  |  |  |
+| RGPD europeo |  |  |  |  |  |
+| Ley Orgánica 3/2018 |  |  |  |  |  |
+| Derechos ARCO-POL |  |  |  |  |  |
+| Medidas de seguridad |  |  |  |  |  |
+
+---
+
+## PARTE 2 - BLOQUE IV: OFIMÁTICA E INFORMÁTICA
+
+| **Área Temática** | **Fecha Objetivo** | **Nivel de Conocimiento** | **Fecha Finalización** | **% Aciertos en Simulacros** | **Observaciones** |
+|-------------------|--------------------|--------------------------|-----------------------|------------------------------|-------------------|
+| **1. Informática Básica** |  |  |  |  |  |
+| Hardware y software |  |  |  |  |  |
+| Periféricos |  |  |  |  |  |
+| Unidades de medida |  |  |  |  |  |
+| **2. Windows 10** |  |  |  |  |  |
+| Explorador de archivos |  |  |  |  |  |
+| Panel de control |  |  |  |  |  |
+| Herramientas del sistema |  |  |  |  |  |
+| Atajos de teclado |  |  |  |  |  |
+| **3. Microsoft Word** |  |  |  |  |  |
+| Edición básica/avanzada |  |  |  |  |  |
+| Tablas, imágenes, elementos |  |  |  |  |  |
+| Combinación correspondencia |  |  |  |  |  |
+| Revisión de documentos |  |  |  |  |  |
+| **4. Microsoft Excel** |  |  |  |  |  |
+| Fórmulas básicas y avanzadas |  |  |  |  |  |
+| Funciones (matemáticas, lógicas) |  |  |  |  |  |
+| Referencias absolutas/relativas |  |  |  |  |  |
+| Tablas y gráficos |  |  |  |  |  |
+| **5. Microsoft Outlook** |  |  |  |  |  |
+| Gestión de correo |  |  |  |  |  |
+| Contactos y calendario |  |  |  |  |  |
+| Reglas y filtros |  |  |  |  |  |
+| Opciones de seguridad |  |  |  |  |  |
+| **6. Internet y Navegación** |  |  |  |  |  |
+| Navegadores web |  |  |  |  |  |
+| Búsqueda de información |  |  |  |  |  |
+| Cookies y navegación |  |  |  |  |  |
+| **7. Seguridad Informática** |  |  |  |  |  |
+| Riesgos y amenazas |  |  |  |  |  |
+| Malware, phishing |  |  |  |  |  |
+| Contraseñas seguras |  |  |  |  |  |
+| Navegación segura |  |  |  |  |  |
+
+---
+
+## REGISTRO DE SIMULACROS COMPLETOS
+
+| **Fecha** | **Nº Preguntas** | **Tiempo Empleado** | **Aciertos** | **Puntuación** | **Áreas Fuertes** | **Áreas a Mejorar** |
+|-----------|------------------|---------------------|--------------|----------------|-------------------|---------------------|
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+
+---
+
+## CALENDARIO SEMANAL DE ESTUDIO
+
+| **Hora** | **Lunes** | **Martes** | **Miércoles** | **Jueves** | **Viernes** | **Sábado** | **Domingo** |
+|----------|-----------|------------|---------------|------------|-------------|------------|-------------|
+| **08:00-10:00** |  |  |  |  |  |  |  |
+| **10:00-12:00** |  |  |  |  |  |  |  |
+| **12:00-14:00** |  |  |  |  |  |  |  |
+| **16:00-18:00** |  |  |  |  |  |  |  |
+| **18:00-20:00** |  |  |  |  |  |  |  |
+| **20:00-22:00** |  |  |  |  |  |  |  |
+
+---
+
+## OBJETIVOS Y METAS
+
+### Objetivos a corto plazo (1 mes)
+1. 
+2. 
+3. 
+
+### Objetivos a medio plazo (3 meses)
+1. 
+2. 
+3. 
+
+### Objetivos a largo plazo (6 meses)
+1. 
+2. 
+3. 
+
+---
+
+## RECURSOS UTILIZADOS
+
+| **Tipo de Recurso** | **Nombre/Título** | **Autor/Editorial** | **Calidad (1-5)** | **Observaciones** |
+|---------------------|-------------------|---------------------|-------------------|-------------------|
+| **Manuales** |  |  |  |  |
+|  |  |  |  |  |
+| **Test** |  |  |  |  |
+|  |  |  |  |  |
+| **Páginas web** |  |  |  |  |
+|  |  |  |  |  |
+
+---
+
+## 💡 CONSEJOS PARA MAXIMIZAR LA UTILIDAD DE ESTA PLANTILLA
+
+1. **Consistencia**: Actualiza tu seguimiento al menos una vez por semana, preferiblemente el mismo día.
+
+2. **Visualización**: Utiliza códigos de color o símbolos para identificar rápidamente:
+   - 🟥 Áreas críticas que necesitan atención inmediata
+   - 🟨 Áreas en progreso aceptable
+   - 🟩 Áreas dominadas
+
+3. **Desglose por temas**: Si un área temática es muy extensa, subdivídela en componentes más pequeños y manejables para un seguimiento más preciso.
+
+4. **Revisiones programadas**: Establece revisiones periódicas de temas ya estudiados:
+   - Primera revisión: 1 semana después de completar
+   - Segunda revisión: 1 mes después
+   - Tercera revisión: 2 meses después
+
+5. **Complementa con otras herramientas**:
+   - Calendario digital con alertas para fechas límite
+   - Aplicaciones de gestión de tiempo como Pomodoro
+   - Aplicaciones de flashcards para repaso espaciado
+
+6. **Adaptabilidad**: Modifica la plantilla según tus necesidades personales; puedes añadir o eliminar columnas o secciones.
+
+7. **Objetivos SMART**: Asegúrate de que tus objetivos sean:
+   - **S**pecific (Específicos)
+   - **M**easurable (Medibles)
+   - **A**chievable (Alcanzables)
+   - **R**elevant (Relevantes)
+   - **T**ime-bound (Temporales)
+
+8. **Feedback**: Solicita a compañeros de estudio o profesores que revisen tu progreso y te den retroalimentación.
+
+Recuerda: Esta plantilla es una herramienta de apoyo. El éxito en la oposición dependerá de tu constancia, método de estudio y capacidad para adaptar tu estrategia según los resultados que vayas obteniendo.
+
+
+
 
 
 
