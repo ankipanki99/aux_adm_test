@@ -203,6 +203,255 @@
 
 ## BLOQUE II: PSICOTECNICOS (Preguntas 31 a 60)
 
+**31.** **Indique cuál de las siguientes palabras es el sinónimo de AGLOMERADO.**
+   - a) Defecto.
+   - b) Amalgama.
+   - c) Avanzado.
+   - d) Necesario.
+
+**32.** **Indique cuál de las siguientes palabras es el antónimo de la palabra NULIDAD.**
+   - a) Competencia.
+   - b) Triste.
+   - c) Alzado.
+   - d) Franco.
+
+**33.** **Indique cuál de las siguientes palabras es el antónimo de la palabra FÚTIL.**
+   - a) Aceitoso.
+   - b) Conjuntado.
+   - c) Pálido.
+   - d) Esencial.
+
+**34.** **Indique cuál de las siguientes palabras es el sinónimo de ALIFAFE.**
+   - a) Indisposición.
+   - b) Salvar.
+   - c) Terruño.
+   - d) Cita.
+
+**35.** **Indique cuál de las siguientes palabras es el antónimo de la palabra EMBUSTE.**
+   - a) Yuca.
+   - b) Gracia.
+   - c) Verdad.
+   - d) Modo.
+
+**36.** **Indique cuál de las siguientes palabras contiene un error ortográfico.**
+   - a) Varniz.
+   - b) Baño.
+   - c) Pátina.
+   - d) Grabar.
+
+**37.** **Indique cuál de las siguientes palabras es el sinónimo de LAPSO.**
+   - a) Traumático.
+   - b) Transcurso.
+   - c) Falaz.
+   - d) Numeroso.
+
+**38.** **Dadas las siguientes equivalencias: a=0001, b=0010, c=0100, d=1000, e=0011, f=0101. ¿Qué serie de letras corresponde a la siguiente serie de números?: 0001010001000010**
+   - a) faeb.
+   - b) accb.
+   - c) baed.
+   - d) ecbd.
+
+**39.** **Indique cuál de las siguientes palabras contiene un error ortográfico.**
+   - a) Giñapo.
+   - b) Saya.
+   - c) Tramoya.
+   - d) Ajonjolí.
+
+**40.** **Tenemos 12 bolas en una bolsa de las cuales 4 son rojas, 3 son verdes y 5 son azules. Si seleccionamos una bola al azar, ¿cuál es la probabilidad de que sea roja?**
+   - a) 12,50 %.
+   - b) 25,10 %.
+   - c) 41,15 %.
+   - d) 33,33 %.
+
+**41.** **Indique cuál de las siguientes palabras contiene un error ortográfico.**
+   - a) Harapo.
+   - b) Jabalí.
+   - c) Halgama.
+   - d) Jirón.
+
+**42.** **Dadas las siguientes equivalencias: d=0101, k=0110, l=1101, p=1010, r=0010, t=1001. ¿Qué serie de letras corresponde a la siguiente serie de números?: 1010010110011101**
+   - a) pdtl.
+   - b) klpd.
+   - c) rdkl.
+   - d) tdkr.
+
+**43.** **Dadas las siguientes equivalencias: g=1001, i=1011, b=0010, r=1101, a=0011, x=0100. ¿Qué serie de letras corresponde a la siguiente serie de números?: 1011001110010010**
+   - a) axig.
+   - b) iixb.
+   - c) iagb.
+   - d) gxai.
+
+**44.** **Si el número total de empleados de una oficina es 73 y 12 están en el departamento comercial, ¿qué porcentaje suponen el resto de los empleados de los otros departamentos?**
+   - a) 92,55 %.
+   - b) 64,15 %.
+   - c) 83,56 %.
+   - d) 79,85 %.
+
+**45.** **Indique cuál de los siguientes números continúa la secuencia 5, 1, 5, 2, 10, 3, _**
+   - a) 13.
+   - b) 17.
+   - c) 33.
+   - d) 30.
+
+**46.** **Indique cuál de los siguientes números continúa la secuencia: 48, 2, 24, 2, 12, 2, _**
+   - a) 5.
+   - b) 11.
+   - c) 6.
+   - d) 15.
+
+**47.** **Se sortean 5 teléfonos móviles, 3 tabletas, y 1 ordenador portátil. Si somos 9 personas y recibiremos un objeto cada uno, ¿qué probabilidad tenemos de que nos toque el ordenador portátil?**
+   - a) 15,90 %.
+   - b) 13,33 %.
+   - c) 11,11 %.
+   - d) 10,25 %.
+
+**48.** **Indique cuál de los siguientes números continúa la secuencia: 32, -3, 29, 5, 34, -2, _**
+   - a) 29.
+   - b) 36.
+   - c) 28.
+   - d) 32.
+
+**Cuadro Biblioteca**
+
+| **Materia**  | **Clasificación** | **Planta** | **Clasificación** | **Pasillo** | **Estanterías** | **Total** | **En uso** |
+|--------------|-------------------|------------|-------------------|-------------|-----------------|-----------|------------|
+| Derecho      | Económico          | 1          | A - M             | 2 izquierda | 2 a 5           | 45        | 28         |
+| Derecho      | Económico          | 1          | N - Z             | 3 derecha   | 1 a 5           | 58        | 11         |
+| Derecho      | Laboral            | 2          | A - G             | 1 izquierda | 2 a 4           | 39        | 17         |
+| Derecho      | Laboral            | 2          | H - O             | 2 derecha   | 3 a 5           | 62        | 9          |
+| Derecho      | Laboral            | 2          | P - Z             | 2 izquierda | 1 a 3           | 47        | 8          |
+| Geografía    | Física             | 2          | A - O             | 3 derecha   | 2 a 4           | 55        | 15         |
+| Geografía    | Física             | 3          | P - Z             | 1 derecha   | 1 a 5           | 31        | 6          |
+| Geografía    | Política           | 3          | A - L             | 1 izquierda | 1 a 4           | 40        | 12         |
+| Geografía    | Política           | 3          | M - Z             | 2 derecha   | 3 a 5           | 53        | 20         |
+| Geografía    | Cartografía        | 4          | A - J             | 1 izquierda | 1 a 3           | 54        | 19         |
+
+**49. Según los datos del cuadro Biblioteca, siendo que la columna Clasificación de ubicación se refiere al nombre del título, ¿en cuál de las siguientes ubicaciones, habría que colocar este libro? Tema: Derecho Económico. Nombre: "Trabajo temporal. Tributación".**  
+   - a) Planta: 1. Pasillo: 2 izquierda. Estanterías: 2 a 5.  
+   - b) Planta: 1. Pasillo: 3 derecha. Estanterías: 2 a 5.  
+   - c) Planta: 2. Pasillo: 2 derecha. Estanterías: 3 a 5.  
+   - d) Planta: 1. Pasillo: 3 derecha. Estanterías: 1 a 5.  
+
+**50. Según los datos del cuadro Biblioteca, siendo que la columna Clasificación de ubicación se refiere al nombre del título, ¿cuál de los siguientes títulos se ubicará en la planta 3, pasillo 1 izquierda, estanterías 1 a 4?**  
+   - a) Tema: Derecho económico. Nombre: "Leyes aduaneras de la Unión Europea".  
+   - b) Tema: Geografía política. Nombre: "Agricultura en el sur de Europa".  
+   - c) Tema: Geografía física. Nombre: "Picos más altos de España".  
+   - d) Tema: Derecho laboral. Nombre: "Contratos y acuerdos laborales".  
+
+**51. Según los datos del cuadro Biblioteca, cuál de los siguientes temas tiene un mayor número total de títulos?**  
+   - a) Geografía Física.  
+   - b) Derecho Laboral.  
+   - c) Derecho Económico.  
+   - d) Geografía Política.  
+
+**52. Según los datos del cuadro Biblioteca, ¿cuál de los siguientes temas tiene un número total de títulos superior a la media de títulos por tema?**  
+   - a) Geografía Política.  
+   - b) Geografía Cartografía.  
+   - c) Derecho Económico.  
+   - d) Geografía Física.  
+
+**53. Según los datos del cuadro Biblioteca, siendo que la columna Clasificación de ubicación se refiere al nombre del título, ¿en cuál de las siguientes ubicaciones, habría que colocar este libro? Tema: Geografía física. Nombre: "Cordilleras asiáticas".**  
+   - a) Planta: 3 Pasillo: 1 derecha. Estanterías: 1 a 4.  
+   - b) Planta: 2 Pasillo: 2 derecha. Estanterías: 3 a 5.  
+   - c) Planta: 2. Pasillo: 3 derecha. Estanterías: 2 a 4.  
+   - d) Planta: 3 Pasillo: 1 derecha. Estanterías: 1 a 5.  
+
+**54. Según los datos del cuadro Biblioteca, siendo que la columna Clasificación de ubicación se refiere al nombre del título, ¿cuál de los siguientes títulos se ubicará en la planta 2, pasillo 1 izquierda, estanterías 2 a 4?**  
+   - a) Tema: Derecho laboral. Nombre: "Contratos y acuerdos laborales".  
+   - b) Tema: Geografía cartografía. Nombre: "Mapas de Europa".  
+   - c) Tema: Geografía física. Nombre: "Cordilleras asiáticas".  
+   - d) Tema: Derecho económico. Nombre: "Teoría y práctica del derecho económico".  
+
+## Cuadro Laboratorios
+
+| **Profesor**    | **Materia**      | **Día     | **Hora**| **Inscritos** | **Planta** | **Aula** | **Capacidad** |
+|-----------------|------------------|-----------|-------|-----------|--------|------|-----------|
+| Rubén Gómez     | Química          | Martes    | 10:00 | 26        | 2      | 2    | 60        |
+| Olivia Hidalgo  | Biología         | Lunes     | 12:00 | 41        | 3      | 4    | 53        |
+| Ignacio Benítez | Biotecnología    | Miércoles | 11:00 | 28        | 2      | 6    | 45        |
+| Elías Marín     | Bioinformática   | Jueves    | 12:00 | 47        | 1      | 3    | 50        |
+| Marta Torres    | Genética         | Miércoles | 13:00 | 39        | 2      | 5    | 47        |
+| Sergio Parra    | Inmunología      | Jueves    | 11:00 | 45        | 3      | 7    | 55        |
+| Inés Herrera    | Fisiología       | Lunes     | 10:00 | 26        | 4      | 1    | 35        |
+| Vera Soler      | Farmacología     | Martes    | 12:00 | 31        | 4      | 3    | 41        |
+| Antonio Durán   | Bioquímica       | Viernes   | 13:00 | 27        | 4      | 2    | 38        |
+| Ángel Gutiérrez | Microbiología    | Viernes   | 12:00 | 40        | 1      | 2    | 55        |
+
+
+
+**55. Según los datos del cuadro Laboratorios y suponiendo que asisten todos los inscritos, ¿qué día hay mayor asistencia de alumnos?**  
+   - a) Miércoles.  
+   - b) Jueves.  
+   - c) Martes.  
+   - d) Viernes.  
+
+**56. Según los datos del cuadro Laboratorios, ¿en cuál de las plantas hay una menor capacidad total?**  
+   - a) Planta 1.  
+   - b) Planta 2.  
+   - c) Planta 3.  
+   - d) Planta 4.  
+
+**57. Según los datos del cuadro Laboratorios, ¿cuál de las siguientes aulas, situada por encima de la segunda planta, cuenta con un número mayor de inscritos?**  
+   - a) 4.  
+   - b) 7.  
+   - c) 1.  
+   - d) 3.  
+
+**58. Según los datos del cuadro Laboratorios, indique cuál de las siguientes materias cuenta con un laboratorio de más de 45 puestos de capacidad, se imparte después del martes, y está en la planta 3.**  
+   - a) Biología.  
+   - b) Genética.  
+   - c) Bioinformática.  
+   - d) Inmunología.  
+
+**59. Según los datos del cuadro Laboratorios, ¿cuál de los siguientes profesores imparte su materia en la planta 2 y termina más tarde, teniendo en cuenta que todas las clases tienen una hora de duración?**  
+   - a) Marta Torres.  
+   - b) Rubén Gómez.  
+   - c) Inés Herrera.  
+   - d) Ignacio Benítez.  
+
+**60. Según los datos del cuadro Laboratorios, indique cuál de los siguientes profesores imparte la materia en el aula número 2, con una capacidad superior a 40 puestos y a una hora más temprana.**  
+   - a) Ángel Gutiérrez.  
+   - b) Ignacio Benítez.  
+   - c) Rubén Gómez.  
+   - d) Antonio Durán.  
+
+---
+
+**Preguntas de reserva**
+
+**1. Indique la respuesta correcta en referencia al Plan Anual Normativo previsto en el artículo 25 de la Ley 50/1997, de 27 de noviembre, del Gobierno:**  
+   - a) El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 30 de abril.  
+   - b) El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 1 de junio.  
+   - c) El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 31 de octubre.  
+   - d) El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 31 de diciembre.  
+
+**2. De conformidad con el Reglamento 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril, relativo a la protección de las personas físicas, en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, indique a quién responde la siguiente definición: persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto con otros, determina los fines y medios del tratamiento de datos.**  
+   - a) Responsable del tratamiento.  
+   - b) Encargado del tratamiento.  
+   - c) Destinatario del tratamiento.  
+   - d) Interesado.  
+
+**3. Indique entre las siguientes palabras cuál es el antónimo de la palabra VENTURA.**  
+   - a) Aireado.  
+   - b) Quimerista.  
+   - c) Peligroso.  
+   - d) Desdicha.  
+
+**4. Ana tiene 12 libros de historia, 16 novelas y 8 ensayos. ¿Cuál es el porcentaje de novelas?**  
+   - a) 41,10 %  
+   - b) 58,35 %  
+   - c) 36,50 %  
+   - d) 44,44 %  
+
+**5. Halle el valor de 21(4x – 6) = x**  
+   - a) - 1,93  
+   - b) 1,52  
+   - c) 0,70  
+   - d) - 10,28  
+
+
+
+
 
 
 
