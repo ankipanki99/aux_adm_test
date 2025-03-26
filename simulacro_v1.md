@@ -799,25 +799,7 @@ d) Sello de registro y firma del funcionario.
 | **94**             | [ a ] | [ b ] | [ c ] | [ d ] || **99**             | [ a ] | [ b ] | [ c ] | [ d ] |
 | **95**             | [ a ] | [ b ] | [ c ] | [ d ] || **100**            | [ a ] | [ b ] | [ c ] | [ d ] |
 ```
-
 ---
-
-Este formato te permite:
-
-- **Marcar con facilidad** las letras dentro de las casillas.
-- **Visualmente claro** para que puedas imprimirlo o trabajar con él en papel.
-
-¿Listo para usarlo o quieres algún ajuste adicional?  
-¡Avísame y lo arreglo!
-
----
-
-**📌 Prompts sugeridos:**
-1. *Genera esta hoja de respuestas para imprimir con formato limpio y bien organizado.*
-2. *Convierte esta hoja de respuestas en un archivo PDF para imprimir.*
-3. *Crea una versión en Google Docs o en otra herramienta de edición para corregir de manera fácil.*
-
-`Input: 444 | Output: 736 | File: 0 | Total: 1180 | Cumulative: 7610`
 
 
 > *Este simulacro ha sido elaborado conforme a la estructura oficial del examen y basado en el análisis de convocatorias entre 2017 y 2024. Contiene 100 preguntas (más 10 de reserva) divididas en dos partes.*
