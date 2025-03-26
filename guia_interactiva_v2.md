@@ -1971,69 +1971,178 @@ Este anexo se actualiza periódicamente para incluir los recursos más relevante
 
 **Nota importante**: Los enlaces y recomendaciones específicas pueden variar en disponibilidad. Se recomienda verificar la vigencia de los recursos y priorizar siempre las fuentes oficiales para la información normativa y técnica.
 
+
 ---
 # Anexo IV: Tabla de Seguimiento y Progreso de Estudio
 
-## 📋 Plantilla de Control de Progreso - Oposición Cuerpo General Auxiliar AGE
+Esta tabla está diseñada para que puedas llevar un control detallado de tu avance en la preparación de cada tema del examen para el Cuerpo General Auxiliar de la Administración del Estado. Te ayudará a visualizar tu progreso, identificar áreas que necesitan refuerzo y planificar mejor tus sesiones de estudio.
 
-Esta herramienta te permitirá visualizar y gestionar de forma eficaz tu avance en el estudio de cada uno de los bloques y áreas temáticas del examen. Utilízala para planificar tus objetivos, registrar tu progreso y detectar las áreas que requieren mayor refuerzo.
+## Instrucciones de uso
+1. Marca la casilla correspondiente al nivel de progreso de cada tema
+2. Actualiza la tabla regularmente (se recomienda semanalmente)
+3. Prioriza el estudio de las áreas con menor progreso o mayor peso en el examen
+4. Configura recordatorios para repasar los temas ya estudiados
 
-## 📝 Guía de uso de la plantilla
+## Tabla de seguimiento de la Parte 1 - Bloque I: Organización Pública (30%)
 
-### Instrucciones básicas:
-1. Imprime esta plantilla o crea tu propia versión digital editable (Excel, Google Sheets, etc.)
-2. Establece fechas objetivo para cada bloque según tu planificación
-3. Marca el nivel de conocimiento utilizando la siguiente escala:
-   - ⚪ No iniciado (0%)
-   - 🔵 Iniciado (25%)
-   - 🟢 Avanzado (50%)
-   - 🟡 Dominado (75%)
-   - 🟣 Perfeccionado (100%)
-4. Registra la fecha real de finalización y tus resultados en los simulacros
-5. Utiliza la columna de observaciones para anotar conceptos difíciles, recursos útiles o recordatorios
+| Área temática | No iniciado | En proceso | Avanzado | Dominado | Última revisión | Próximo repaso | Notas |
+|---------------|:-----------:|:----------:|:--------:|:--------:|:---------------:|:--------------:|-------|
+| **Constitución Española** |  |  |  |  |  |  |  |
+| Principios generales |  |  |  |  |  |  |  |
+| Derechos y deberes fundamentales |  |  |  |  |  |  |  |
+| Organización territorial |  |  |  |  |  |  |  |
+| Reforma constitucional |  |  |  |  |  |  |  |
+| Tribunal Constitucional |  |  |  |  |  |  |  |
+| **Organización del Estado** |  |  |  |  |  |  |  |
+| La Corona |  |  |  |  |  |  |  |
+| Las Cortes Generales |  |  |  |  |  |  |  |
+| El Gobierno |  |  |  |  |  |  |  |
+| Administración General del Estado |  |  |  |  |  |  |  |
+| Poder Judicial |  |  |  |  |  |  |  |
+| Defensor del Pueblo |  |  |  |  |  |  |  |
+| **Unión Europea** |  |  |  |  |  |  |  |
+| Instituciones principales |  |  |  |  |  |  |  |
+| Normativa europea |  |  |  |  |  |  |  |
+| Tratados fundamentales |  |  |  |  |  |  |  |
+| **Leyes Administrativas** |  |  |  |  |  |  |  |
+| Ley 39/2015 (Procedimiento) |  |  |  |  |  |  |  |
+| Ley 40/2015 (Régimen Jurídico) |  |  |  |  |  |  |  |
+| **Función Pública** |  |  |  |  |  |  |  |
+| EBEP (RD 5/2015) |  |  |  |  |  |  |  |
+| Clases de empleados públicos |  |  |  |  |  |  |  |
+| Derechos y deberes |  |  |  |  |  |  |  |
+| Situaciones administrativas |  |  |  |  |  |  |  |
+| **Igualdad y Diversidad** |  |  |  |  |  |  |  |
+| Ley 3/2007 (Igualdad efectiva) |  |  |  |  |  |  |  |
+| Ley 15/2022 (No discriminación) |  |  |  |  |  |  |  |
+| Ley 4/2023 (Derechos LGTBI) |  |  |  |  |  |  |  |
+| **Dependencia** |  |  |  |  |  |  |  |
+| Ley 39/2006 (Autonomía personal) |  |  |  |  |  |  |  |
+| **Transparencia y Gobierno Abierto** |  |  |  |  |  |  |  |
+| Ley 19/2013 (Transparencia) |  |  |  |  |  |  |  |
+| Derecho de acceso |  |  |  |  |  |  |  |
+| **Hacienda Pública** |  |  |  |  |  |  |  |
+| Ley 47/2003 (Presupuestaria) |  |  |  |  |  |  |  |
+| Estructura del presupuesto |  |  |  |  |  |  |  |
 
-### Método recomendado de seguimiento:
+## Tabla de seguimiento de la Parte 1 - Bloque II: Psicotécnicos (30%)
 
-#### 1. Evaluación inicial
-- Realiza un test de autoevaluación por cada bloque para determinar tu nivel actual
-- Colorea cada tema según tu nivel de conocimiento previo
-- Establece prioridades en función de tu nivel y el peso del tema en el examen
+| Área temática | No iniciado | En proceso | Avanzado | Dominado | Ejercicios realizados | Velocidad media | Notas |
+|---------------|:-----------:|:----------:|:--------:|:--------:|:---------------------:|:---------------:|-------|
+| **Razonamiento Verbal** |  |  |  |  |  |  |  |
+| Sinónimos y antónimos |  |  |  |  |  |  |  |
+| Definiciones |  |  |  |  |  |  |  |
+| Palabras que no encajan |  |  |  |  |  |  |  |
+| **Razonamiento Lógico y Tablas** |  |  |  |  |  |  |  |
+| Análisis de tablas simples |  |  |  |  |  |  |  |
+| Análisis de tablas complejas |  |  |  |  |  |  |  |
+| Relaciones entre categorías |  |  |  |  |  |  |  |
+| **Series Numéricas** |  |  |  |  |  |  |  |
+| Series ascendentes/descendentes |  |  |  |  |  |  |  |
+| Series alternadas |  |  |  |  |  |  |  |
+| Cálculo mental |  |  |  |  |  |  |  |
+| **Razonamiento Abstracto** |  |  |  |  |  |  |  |
+| Series de letras/símbolos |  |  |  |  |  |  |  |
+| Secuencias codificadas |  |  |  |  |  |  |  |
+| **Problemas de Aplicación** |  |  |  |  |  |  |  |
+| Problemas de cálculo |  |  |  |  |  |  |  |
+| Enunciados con condiciones múltiples |  |  |  |  |  |  |  |
 
-#### 2. Planificación estratégica
-- Asigna fechas objetivo realistas para cada bloque temático
-- Prioriza las áreas con mayor peso en el examen (consulta la sección "Estadísticas por Área Temática")
-- Dedica más tiempo a las áreas donde tu nivel inicial es más bajo
-- Reserva tiempo específico para los psicotécnicos de forma regular (idealmente diaria)
+## Tabla de seguimiento de la Parte 2 - Bloque I: Actividad Administrativa (20%)
 
-#### 3. Seguimiento periódico
-- Actualiza la plantilla semanalmente, marcando tu progreso
-- Después de estudiar cada tema, evalúate con tests específicos
-- Registra el porcentaje de aciertos en los simulacros parciales
-- Ajusta tu planificación en función de los resultados obtenidos
+| Área temática | No iniciado | En proceso | Avanzado | Dominado | Última revisión | Próximo repaso | Notas |
+|---------------|:-----------:|:----------:|:--------:|:--------:|:---------------:|:--------------:|-------|
+| **Atención al Ciudadano** |  |  |  |  |  |  |  |
+| RD 951/2005 (Calidad) |  |  |  |  |  |  |  |
+| Quejas y sugerencias |  |  |  |  |  |  |  |
+| Derechos del ciudadano |  |  |  |  |  |  |  |
+| **Servicios de Información** |  |  |  |  |  |  |  |
+| Información general/particular |  |  |  |  |  |  |  |
+| Punto de Acceso General |  |  |  |  |  |  |  |
+| Oficinas de atención |  |  |  |  |  |  |  |
+| **Documentación y Archivo** |  |  |  |  |  |  |  |
+| Documento administrativo |  |  |  |  |  |  |  |
+| Registro entrada/salida |  |  |  |  |  |  |  |
+| Tipos de archivo |  |  |  |  |  |  |  |
+| Ciclo documental |  |  |  |  |  |  |  |
+| **Administración Electrónica** |  |  |  |  |  |  |  |
+| Identificación/firma electrónica |  |  |  |  |  |  |  |
+| Registro/notificación electrónica |  |  |  |  |  |  |  |
+| Sede electrónica |  |  |  |  |  |  |  |
+| **Accesibilidad** |  |  |  |  |  |  |  |
+| RD 366/2007 |  |  |  |  |  |  |  |
+| Condiciones de accesibilidad |  |  |  |  |  |  |  |
+| **Protección de Datos** |  |  |  |  |  |  |  |
+| RGPD |  |  |  |  |  |  |  |
+| Ley 3/2018 (LOPDGDD) |  |  |  |  |  |  |  |
+| Derechos ARCO-POL |  |  |  |  |  |  |  |
 
-#### 4. Control de simulacros
-- Programa simulacros completos cada 2-3 semanas
-- Anota los resultados en la tabla de "Registro de Simulacros"
-- Identifica patrones en tus puntos fuertes y débiles
-- Refuerza las áreas con menor puntuación
+## Tabla de seguimiento de la Parte 2 - Bloque II: Ofimática e Informática (20%)
 
-#### 5. Análisis de progreso
-- Compara mensualmente tu evolución en cada bloque
-- Evalúa la efectividad de tus técnicas de estudio
-- Ajusta tu calendario según necesites más tiempo en determinadas áreas
-- Celebra los objetivos cumplidos para mantener la motivación
+| Área temática | No iniciado | En proceso | Avanzado | Dominado | Práctica realizada | Ejercicios completados | Notas |
+|---------------|:-----------:|:----------:|:--------:|:--------:|:------------------:|:----------------------:|-------|
+| **Informática Básica** |  |  |  |  |  |  |  |
+| Hardware y software |  |  |  |  |  |  |  |
+| Periféricos |  |  |  |  |  |  |  |
+| Tipos de archivos |  |  |  |  |  |  |  |
+| **Windows 10** |  |  |  |  |  |  |  |
+| Explorador de archivos |  |  |  |  |  |  |  |
+| Herramientas del sistema |  |  |  |  |  |  |  |
+| Configuración básica |  |  |  |  |  |  |  |
+| **Microsoft Word** |  |  |  |  |  |  |  |
+| Formato y edición |  |  |  |  |  |  |  |
+| Tablas e imágenes |  |  |  |  |  |  |  |
+| Combinación correspondencia |  |  |  |  |  |  |  |
+| Herramientas de revisión |  |  |  |  |  |  |  |
+| **Microsoft Excel** |  |  |  |  |  |  |  |
+| Fórmulas básicas |  |  |  |  |  |  |  |
+| Funciones avanzadas |  |  |  |  |  |  |  |
+| Gráficos y filtros |  |  |  |  |  |  |  |
+| Protección y formatos |  |  |  |  |  |  |  |
+| **Microsoft Outlook** |  |  |  |  |  |  |  |
+| Envío/recepción |  |  |  |  |  |  |  |
+| Contactos y calendario |  |  |  |  |  |  |  |
+| Reglas y organización |  |  |  |  |  |  |  |
+| **Internet y Navegadores** |  |  |  |  |  |  |  |
+| Conceptos básicos |  |  |  |  |  |  |  |
+| Seguridad en navegación |  |  |  |  |  |  |  |
+| **Redes y Seguridad** |  |  |  |  |  |  |  |
+| Tipos de red |  |  |  |  |  |  |  |
+| Protocolos |  |  |  |  |  |  |  |
+| Amenazas comunes |  |  |  |  |  |  |  |
+| Medidas de protección |  |  |  |  |  |  |  |
 
-### Ejemplo práctico:
+## Indicadores de progreso global
 
-**Para el área "Constitución Española":**
-1. Fecha objetivo: 15/04/2025
-2. Nivel inicial: 🔵 (conocimientos básicos)
-3. Después de 2 semanas de estudio: 🟢 (conocimientos intermedios)
-4. Resultado en test: 65% de aciertos
-5. Observaciones: "Reforzar artículos 53-55 sobre garantías de derechos. Utilizar fichas para artículos clave."
-6. Fecha de finalización: 18/04/2025 (pequeño retraso sobre lo planificado)
-7. Simulacro posterior: 72% de aciertos
+| Bloque | Porcentaje completado | Fecha estimada finalización | Nivel de confianza (1-10) |
+|--------|:---------------------:|:---------------------------:|:--------------------------:|
+| Organización Pública |  |  |  |
+| Psicotécnicos |  |  |  |
+| Actividad Administrativa |  |  |  |
+| Ofimática e Informática |  |  |  |
+| **PROGRESO TOTAL** |  |  |  |
 
+## Registro de simulacros realizados
+
+| Fecha | Tipo simulacro | Puntuación | Aciertos | Fallos | Bloque con mejor resultado | Bloque a mejorar | Observaciones |
+|-------|----------------|:----------:|:--------:|:------:|:---------------------------:|:----------------:|---------------|
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+
+---
+
+### Recomendaciones para el uso efectivo de esta tabla:
+
+1. **Sesiones de evaluación periódicas**: Dedica 15 minutos cada semana para actualizar la tabla y reflexionar sobre tu progreso
+2. **Código de colores**: Puedes usar colores para visualizar mejor tu avance (rojo: no iniciado, amarillo: en proceso, verde claro: avanzado, verde oscuro: dominado)
+3. **Programación adaptativa**: Ajusta tu plan de estudio según los resultados que vayas observando
+4. **Celebra los logros**: Marca de alguna forma especial aquellas áreas que hayas completado satisfactoriamente
+5. **Comparte tu progreso**: Si estudias en grupo, compara tu tabla con la de otros opositores para motivaros mutuamente
+
+Esta herramienta te permitirá mantener una visión clara y objetiva de tu preparación, ayudándote a gestionar mejor el tiempo y a mantener la motivación durante todo el proceso de estudio.
 ---
 
 ## PARTE 1 - BLOQUE I: ORGANIZACIÓN PÚBLICA
@@ -2277,6 +2386,9 @@ Esta herramienta te permitirá visualizar y gestionar de forma eficaz tu avance 
 Recuerda: Esta plantilla es una herramienta de apoyo. El éxito en la oposición dependerá de tu constancia, método de estudio y capacidad para adaptar tu estrategia según los resultados que vayas obteniendo.
 
 
+
+
+---
 
 # ANEXO V: SIMULACRO DE EXAMEN  
 # CUERPO GENERAL AUXILIAR DE LA ADMINISTRACIÓN DEL ESTADO  
