@@ -18,65 +18,68 @@
 
 ### BLOQUE I: ORGANIZACIÓN PÚBLICA (Preguntas 1 a 30)
 
-1. Según el artículo 27 de la Constitución Española de 1978, la enseñanza básica es:
+**PRIMERA PARTE**
+
+**1.** **Según el artículo 27 de la Constitución Española de 1978, la enseñanza básica es:**
    - a) Obligatoria y gratuita.
    - b) Voluntaria y gratuita.
    - c) Obligatoria y de pago.
    - d) Voluntaria y de pago.
 
-2. Conforme a lo previsto en la Constitución Española de 1978, ¿qué mayoría se exige en el procedimiento de reforma constitucional contemplado en el artículo 167.1?
+**2.** **Conforme a lo previsto en la Constitución Española de 1978, ¿qué mayoría se exige en el procedimiento de reforma constitucional contemplado en el artículo 167.1?**
    - a) Mayoría de dos tercios de cada una de las Cámaras.
    - b) Mayoría de tres quintos de cada una de las Cámaras.
    - c) Mayoría de tres quintos del Congreso de los Diputados.
    - d) Mayoría de dos tercios del Congreso de los Diputados.
 
-3. Conforme al artículo 75 de la Constitución Española de 1978, las Cámaras funcionan:
+**3.** **Conforme al artículo 75 de la Constitución Española de 1978, las Cámaras funcionan:**
    - a) En Pleno exclusivamente.
    - b) En Pleno y en Diputación Permanente.
    - c) En Pleno y en Asamblea.
    - d) En Pleno y por Comisiones.
 
-4. Conforme a lo previsto en la Constitución Española de 1978, la soberanía nacional reside:
+**4.** **Conforme a lo previsto en la Constitución Española de 1978, la soberanía nacional reside:**
    - a) En las Cortes Generales.
    - b) En el Rey.
    - c) En el pueblo español.
    - d) En el poder judicial.
 
-5. De acuerdo con el artículo 8 de la Ley 50/1997, de 27 de noviembre, del Gobierno, la Presidencia de la Comisión General de Secretarios de Estado y Subsecretarios corresponde:
+**5.** **De acuerdo con el artículo 8 de la Ley 50/1997, de 27 de noviembre, del Gobierno, la Presidencia de la Comisión General de Secretarios de Estado y Subsecretarios corresponde:**
    - a) Al Ministro de la Presidencia o, en su defecto, a un Vicepresidente del Gobierno.
    - b) Al Subsecretario de la Presidencia.
    - c) A un Vicepresidente del Gobierno o, en su defecto, al Secretario de Estado de la Presidencia.
    - d) A un Vicepresidente del Gobierno o, en su defecto, al Ministro de la Presidencia.
 
-6. ¿Quién nombra, conforme a lo previsto en la Constitución Española de 1978, a los miembros del Tribunal Constitucional?
+**6.** **¿Quién nombra, conforme a lo previsto en la Constitución Española de 1978, a los miembros del Tribunal Constitucional?**
    - a) El Congreso de los Diputados.
    - b) El Senado.
    - c) El Rey.
    - d) El Gobierno.
 
-7. Según la Ley 50/1997, de 27 de noviembre, del Gobierno, ¿cuál de las siguientes facultades podrá ejercer el Presidente del Gobierno en funciones?
+**7.** **Según la Ley 50/1997, de 27 de noviembre, del Gobierno, ¿cuál de las siguientes facultades podrá ejercer el Presidente del Gobierno en funciones?**
    - a) Proponer al Rey la convocatoria de un referéndum consultivo.
    - b) Plantear la cuestión de confianza.
    - c) Proponer al Rey la disolución de alguna de las Cámaras, o de las Cortes Generales.
    - d) Aprobar decretos leyes.
 
-8. De acuerdo con el artículo 7 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las Administraciones Públicas, en el ámbito de sus competencias, publicarán la siguiente información de relevancia jurídica:
+**8.** **De acuerdo con el artículo 7 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las Administraciones Públicas, en el ámbito de sus competencias, publicarán la siguiente información de relevancia jurídica:**
    - a) Los documentos que, conforme a la legislación sectorial vigente, deban ser sometidos a un período de información pública durante su tramitación.
    - b) Las cuentas anuales que deban rendirse.
    - c) Los proyectos de Decreto Ley.
    - d) Las retribuciones percibidas por todos los órganos superiores y directivos de la Administración General del Estado.
 
-9. El IV Plan de Gobierno Abierto de España 2020-2024 se articula en 5 ejes y recoge 10 compromisos. ¿Cuál de los siguientes compromisos permite a cualquier persona conocer el proceso de elaboración de las normas desde el inicio hasta su aprobación?
+**9.** **El IV Plan de Gobierno Abierto de España 2020-2024 se articula en 5 ejes y recoge 10 compromisos. ¿Cuál de los siguientes compromisos permite a cualquier persona conocer el proceso de elaboración de las normas desde el inicio hasta su aprobación?**
    - a) Plan de Mejora de la Participación.
    - b) Observatorio de Gobierno Abierto.
    - c) Huella normativa.
    - d) Sistemas preventivos de integridad pública.
 
-**10. ¿Cuántos miembros del Consejo General del Poder Judicial propone el Senado conforme a la Constitución Española de 1978?**
+**10.** **¿Cuántos miembros del Consejo General del Poder Judicial propone el Senado conforme a la Constitución Española de 1978?**
     - a) Dos.
     - b) Cuatro.
     - c) Cinco.
     - d) Seis.
+
 
 **11.** Conforme a la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo, tendrán la consideración de:
    - a) Poderes públicos.
@@ -197,7 +200,6 @@
    - b) Nivel mínimo 12 y nivel máximo 18.
    - c) Nivel mínimo 16 y nivel máximo 22.
    - d) Nivel mínimo 14 y nivel máximo 20.
-
 
 ## BLOQUE II: PSICOTECNICOS (Preguntas 31 a 60)
 
