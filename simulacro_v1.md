@@ -803,6 +803,22 @@ d) Atención con apoderamiento.
 
 ---
 
+✅ PLANTILLA DE RESPUESTAS – MODELO A (2024)
+Cuerpo General Auxiliar de la Administración del Estado
+Examen oficial elaborado por el INAP
+---
+🧾 DATOS PERSONALES
+Nombre y apellidos: ______________________________________
+
+DNI: ___________________
+
+Fecha del examen: ____ / ____ / 2024
+
+Firma del opositor/a: __________________________
+---
+
+📌 HOJA
+
 ### ✅ HOJA DE RESPUESTAS — PARTE 1 & PARTE 2
 
 ```markdown
