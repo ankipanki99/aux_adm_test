@@ -134,9 +134,113 @@ A partir de aquí, cada bloque se presenta con una visión estratégica, orienta
 
 > *Estudiar sin rumbo es perder energía. Estudiar con estrategia es multiplicar tus posibilidades.*
 
+
 ---
 
+### 2. Parte 1 – Conocimientos Teóricos  
+<a id="21-bloque-i-organización-pública"></a>
 
+#### 2.1 Bloque I: Organización Pública
+
+Este bloque representa la base institucional del temario y suele tener un peso elevado en el primer ejercicio del examen. Requiere comprender tanto la estructura del Estado como la lógica organizativa de la Administración.
+
+---
+
+##### 📌 Estructura del Bloque
+
+1. Constitución Española  
+2. Organización del Estado  
+3. La Unión Europea  
+4. Administración Pública y su organización  
+5. Funciones del Auxiliar en la AGE  
+6. Transparencia, igualdad, protección de datos y calidad
+
+---
+
+##### 🎯 Puntos Clave para el Estudio
+
+- Artículos constitucionales más preguntados: 1, 9, 14, 27, 53, 103, 116, 149, 167-168  
+- Instituciones relevantes: Defensor del Pueblo, Tribunal Constitucional, Tribunal de Cuentas  
+- Separación de poderes y estructura del Gobierno  
+- Competencias exclusivas del Estado vs. Comunidades Autónomas  
+- Principios de actuación administrativa: legalidad, eficacia, jerarquía, descentralización  
+- Normativa sobre igualdad, datos personales, servicios al ciudadano y calidad
+
+---
+
+##### 📈 Tendencias detectadas (2017–2024)
+
+- Aumento progresivo de preguntas sobre **igualdad y transparencia**  
+- Mayor presencia de la **Ley 39/2015 y Ley 40/2015** como marco de referencia  
+- **Preguntas trampa frecuentes** en materias constitucionales (redacción ambigua)
+
+---
+
+##### ✅ Recomendaciones de preparación
+
+- Estudiar la **Constitución directamente** desde el BOE, subrayando los artículos clave  
+- Hacer esquemas comparativos entre instituciones y sus funciones  
+- Usar test agrupados por temas para entrenar discriminación entre conceptos similares
+
+---
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+<a id="22-bloque-ii-psicotécnicos"></a>
+
+#### 2.2 Bloque II: Psicotécnicos
+
+Este bloque evalúa tus **capacidades cognitivas básicas** y habilidades mentales: razonamiento, memoria, percepción, atención y rapidez. Aunque no se basa en temario memorístico, requiere práctica constante.
+
+---
+
+##### 🧠 Tipos de Pruebas Comunes
+
+- **Razonamiento verbal**: sinónimos, antónimos, analogías, comprensión de textos  
+- **Razonamiento numérico**: series, operaciones, problemas lógicos con cifras  
+- **Razonamiento abstracto**: series gráficas, dominós, patrones  
+- **Memoria**: secuencias visuales o numéricas  
+- **Atención y percepción**: búsqueda de diferencias, figuras iguales/distintas, velocidad visual
+
+---
+
+##### 📊 Tendencias y dificultad
+
+- El nivel de exigencia ha subido: **más rapidez**, menos margen de error  
+- Las preguntas tipo **serie gráfica o abstracta** suelen ser las más eliminatorias  
+- En muchas convocatorias, los test psicotécnicos están **integrados dentro del primer ejercicio**, no como prueba independiente
+
+---
+
+##### 🎯 Estrategia de preparación
+
+- Entrena con **cronómetro** y simulacros reales  
+- Utiliza **cuadernos específicos de test psicotécnicos** actualizados  
+- Mejora por separado cada tipo de habilidad con sesiones temáticas  
+- Aprende a **descartar opciones rápidas** sin resolver todo el enunciado
+
+---
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+
+---
+
+### Cierre del Capítulo 2
+
+Este bloque teórico representa el **núcleo conceptual** de la oposición. La combinación de conocimientos sobre el marco institucional y las habilidades psicotécnicas define tu base como aspirante.
+
+No se trata de memorizar sin rumbo, sino de comprender cómo está estructurado el Estado, cómo funcionan las instituciones y cómo aplicar lógica y agilidad mental a situaciones nuevas.
+
+> *Dominar esta parte es imprescindible para superar el primer ejercicio y marcar la diferencia con otros aspirantes.*
+
+---
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
 
 
 
