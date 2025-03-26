@@ -433,5 +433,383 @@ Este capítulo no es para memorizar, sino para decidir **cómo y dónde invertir
 
 [⬆ Volver al índice](#tabla-de-contenidos)
 
+
 ---
+
+### 5. Herramientas de Estudio
+
+<a id="51-plan-de-estudio-estratégico"></a>  
+#### 5.1 Plan de Estudio Estratégico
+
+Organizar el estudio es tan importante como estudiar. Este plan te propone una estructura semanal flexible basada en:
+
+- Distribución real del examen
+- Peso histórico de cada bloque
+- Capacidad de concentración y repaso
+
+##### 📆 Propuesta de plan estándar (8 semanas)
+
+| Semana | Bloques principales                  | Enfoque              |
+|--------|--------------------------------------|----------------------|
+| 1–2    | Bloque I + Psicotécnicos             | Comprensión y base   |
+| 3–4    | Bloques III y IV                     | Teoría + práctica    |
+| 5      | Constitución + Actos administrativos | Afinar detalles      |
+| 6      | Psicotécnicos + simulacros           | Agilidad y control   |
+| 7      | Repaso total                         | Detección de lagunas |
+| 8      | Simulacros completos + revisión      | Gestión del tiempo   |
+
+> *Adapta el plan a tu disponibilidad: lo importante es mantener el ritmo y medir avances.*
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+<a id="52-técnicas-de-estudio-y-memorización"></a>  
+#### 5.2 Técnicas de Estudio y Memorización
+
+El volumen de contenido exige optimizar cómo estudias. Aquí algunas técnicas recomendadas:
+
+##### 🎯 Estrategias clave
+
+- **Regla del 3R**: repasa lo aprendido el mismo día, al tercer día y a la semana.  
+- **Mapas mentales y esquemas**: especialmente útiles para bloques I y III.  
+- **Autoexplicación**: ensaya cómo explicar un tema como si enseñaras a otra persona.  
+- **Test activos**: practicar con test de forma constante para afianzar.  
+- **Flashcards (tarjetas)**: efectivas para datos, artículos y definiciones.  
+- **Planificación visual**: usar calendarios con bloques temáticos y días de repaso.
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+<a id="53-errores-frecuentes-y-soluciones"></a>  
+#### 5.3 Errores Frecuentes y Soluciones
+
+##### ❌ Errores comunes
+
+- Empezar por los temas más fáciles y dejar los densos para el final  
+- No practicar test desde el principio  
+- Estudiar sin cronómetro ni control de tiempos  
+- Memorizar sin comprender  
+- Descuidar los psicotécnicos o la ofimática  
+- No repasar ni consolidar
+
+##### ✅ Soluciones simples
+
+- Empieza por lo importante, no por lo cómodo  
+- Evalúate desde la semana 1  
+- Alterna teoría con test en cada sesión  
+- Usa simulacros semanales cronometrados  
+- Equilibra todos los bloques: lo que menos estudias, más te penaliza
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+### Cierre del Capítulo 5
+
+No se trata solo de estudiar más, sino de estudiar **mejor**. Las herramientas que uses —planificación, técnicas, test, simulacros— son las que marcan tu evolución real.
+
+Prepararte con intención, método y estrategia hará que llegues al examen con confianza y claridad.
+
+> *No prepares una oposición. Prepara tu victoria.*
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+### 6. Información Adicional
+
+<a id="61-novedades-legislativas-2023-2024"></a>  
+#### 6.1 Novedades Legislativas 2023–2024
+
+La legislación aplicable al examen puede variar levemente según la fecha de la convocatoria. A continuación se destacan los cambios más relevantes:
+
+##### 📝 Normativa actualizada
+
+- **Ley 20/2022, de Memoria Democrática**
+- **LO 10/2022, de garantía integral de la libertad sexual**
+- **Reforma del artículo 49 de la Constitución Española (personas con discapacidad)**
+- **Adaptaciones en la Ley de Igualdad y en la Ley de Transparencia**
+- **Nuevas versiones de los programas de Microsoft Office (365)**
+
+> *Siempre consulta el BOE y la convocatoria oficial para confirmar la legislación aplicable.*
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+<a id="62-autoevaluación-inicial"></a>  
+#### 6.2 Autoevaluación Inicial
+
+Antes de iniciar el estudio, es recomendable hacer una autoevaluación rápida que te permita:
+
+- Detectar qué bloques conoces mejor
+- Estimar tu nivel de partida
+- Diseñar tu estrategia personalizada
+
+##### 🧭 Prueba diagnóstica sugerida
+
+- 10 preguntas por bloque (total 40 preguntas)
+- Cronometrado: 45 minutos
+- Corrección con hoja de respuestas y escala orientativa
+
+> *No es para acertar todo, sino para identificar por dónde empezar con criterio.*
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+<a id="63-conclusiones"></a>  
+#### 6.3 Conclusiones
+
+Estás a punto de convertir un objetivo en un proyecto serio. Esta guía te da los recursos, la visión estratégica y las herramientas para que tu preparación sea eficaz.
+
+Confía en tu proceso, sigue un plan, adapta lo necesario y mantén la constancia.
+
+> *No subestimes el poder de estudiar bien lo importante. Ahí está la diferencia entre presentarte y aprobar.*
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+### 6. Información Adicional
+
+<a id="61-novedades-legislativas-2023-2024"></a>  
+#### 6.1 Novedades Legislativas 2023–2024
+
+La legislación aplicable al examen puede variar levemente según la fecha de la convocatoria. A continuación se destacan los cambios más relevantes:
+
+##### 📝 Normativa actualizada
+
+- **Ley 20/2022, de Memoria Democrática**
+- **LO 10/2022, de garantía integral de la libertad sexual**
+- **Reforma del artículo 49 de la Constitución Española (personas con discapacidad)**
+- **Adaptaciones en la Ley de Igualdad y en la Ley de Transparencia**
+- **Nuevas versiones de los programas de Microsoft Office (365)**
+
+> *Siempre consulta el BOE y la convocatoria oficial para confirmar la legislación aplicable.*
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+<a id="62-autoevaluación-inicial"></a>  
+#### 6.2 Autoevaluación Inicial
+
+Antes de iniciar el estudio, es recomendable hacer una autoevaluación rápida que te permita:
+
+- Detectar qué bloques conoces mejor
+- Estimar tu nivel de partida
+- Diseñar tu estrategia personalizada
+
+##### 🧭 Prueba diagnóstica sugerida
+
+- 10 preguntas por bloque (total 40 preguntas)
+- Cronometrado: 45 minutos
+- Corrección con hoja de respuestas y escala orientativa
+
+> *No es para acertar todo, sino para identificar por dónde empezar con criterio.*
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+<a id="63-conclusiones"></a>  
+#### 6.3 Conclusiones
+
+Estás a punto de convertir un objetivo en un proyecto serio. Esta guía te da los recursos, la visión estratégica y las herramientas para que tu preparación sea eficaz.
+
+Confía en tu proceso, sigue un plan, adapta lo necesario y mantén la constancia.
+
+> *No subestimes el poder de estudiar bien lo importante. Ahí está la diferencia entre presentarte y aprobar.*
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+<a id="72-anexo-ii-análisis-de-la-evolución-de-dificultad-por-años"></a>  
+#### 7.2 Anexo II: Análisis de la Evolución de Dificultad por Años
+
+Este análisis refleja cómo ha evolucionado el nivel de dificultad del examen desde 2017, teniendo en cuenta factores como la redacción, el grado de detalle exigido y la distribución temática.
+
+##### 📈 Tendencias observadas
+
+- **2017–2018**: Nivel moderado. Mayor peso en teoría clásica (Bloque I). Psicotécnicos simples.  
+- **2019–2020**: Incremento de preguntas técnicas sobre legislación administrativa. Más énfasis en Bloque III.  
+- **2021–2022**: Aumento notable en dificultad de psicotécnicos y ofimática. Más tiempo por bloque necesario.  
+- **2023–2024**: Consolidación del estilo tipo test complejo, con opciones muy similares y redacción más ambigua.
+
+---
+
+##### 🧪 Factores de dificultad por bloque
+
+| Bloque                         | Dificultad ↑ | Motivos principales                                  |
+|-------------------------------|--------------|------------------------------------------------------|
+| Bloque I – Organización       | Alta         | Redacción ambigua, preguntas por descarte            |
+| Bloque II – Psicotécnicos     | Alta         | Agilidad requerida, formatos mixtos                  |
+| Bloque III – Actividad Adm.   | Media-Alta   | Detalle normativo y conceptos específicos            |
+| Bloque IV – Ofimática         | Media        | Preguntas técnicas, pero con recursos de apoyo útil  |
+
+---
+
+> *El examen se ha sofisticado. Ya no basta con memorizar, hay que entender y aplicar en contexto.*
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+<a id="73-anexo-iii-recursos-recomendados"></a>  
+#### 7.3 Anexo III: Recursos Recomendados
+
+Esta selección de recursos ha sido organizada por tipo para facilitar tu preparación según tus necesidades y estilo de estudio.
+
+---
+
+##### 📚 Temario y Legislación
+
+- **BOE** – Consulta oficial y actualizada de leyes: [www.boe.es](https://www.boe.es)  
+- **Legislación consolidada** – Especialmente para Constitución, Ley 39/2015 y Ley 40/2015  
+- **Temarios editoriales fiables** – MAD, CEP, ADAMS (revisar edición y fecha)
+
+---
+
+##### 🧠 Test y Psicotécnicos
+
+- **Psicotécnicos online** – testoposiciones.com, psicotecnicos2x.com  
+- **Apps para móvil** – “OpoTest”, “TestOpos”, “Psicotécnicos Ágil”  
+- **Libros específicos** – Cuadernos de psicotécnicos de MAD, CEP, o Altaria
+
+---
+
+##### 💻 Ofimática
+
+- **Simuladores Word y Excel** – simulacros-excel.com, oficinavirtualdelopositor.es  
+- **Microsoft Learn** – [learn.microsoft.com](https://learn.microsoft.com)  
+- **Manuales visuales** – “Word y Excel paso a paso”, versiones actualizadas
+
+---
+
+##### 🎧 Otros formatos útiles
+
+- **Canales de YouTube** – OpositaTest, Álex Opositor, Sin Miedo a Opositar  
+- **Grupos de Telegram** – Buscar grupos activos de Auxiliares AGE  
+- **Plantillas de estudio** – Trello, Notion, Excel o Google Sheets para planificación
+
+---
+
+> *No estudies solo con un recurso. Cruza fuentes y adapta tu método a tus puntos débiles.*
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+<a id="74-anexo-iv-tabla-de-seguimiento-y-progreso-de-estudio"></a>  
+#### 7.4 Anexo IV: Tabla de Seguimiento y Progreso de Estudio
+
+Esta tabla te ayudará a **controlar tu avance real**, detectar estancamientos y reforzar áreas clave. Puedes adaptarla a papel, Excel o Notion.
+
+---
+
+##### 📊 Tabla orientativa
+
+| Bloque/Área                  | Fecha inicio | Fecha repaso 1 | Fecha repaso 2 | % Dominado | Observaciones              |
+|-----------------------------|--------------|----------------|----------------|------------|----------------------------|
+| Bloque I – Constitución     |              |                |                |            |                            |
+| Bloque I – Estado y UE      |              |                |                |            |                            |
+| Bloque II – Psicotécnicos   |              |                |                |            |                            |
+| Bloque III – Procedimiento  |              |                |                |            |                            |
+| Bloque IV – Word            |              |                |                |            |                            |
+| Bloque IV – Excel           |              |                |                |            |                            |
+
+---
+
+##### ✅ Recomendaciones de uso
+
+- Marca como “✔️” los bloques dominados tras un test real o simulacro  
+- Usa un **código de colores** si trabajas en Excel o digital (verde: seguro, amarillo: revisar, rojo: débil)  
+- Actualiza tras cada sesión para mantener una visión real de tu avance  
+- Deja un espacio para observaciones personales o dudas pendientes
+
+> *Medir tu avance no solo te ayuda a planificar. También te da motivación real al ver tus logros.*
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+<a id="75-anexo-v-simulacro-de-examen---cuerpo-de-auxiliares-administrativos-del-estado"></a>  
+#### 7.5 Anexo V: Simulacro de Examen – Cuerpo de Auxiliares Administrativos del Estado
+
+Este simulacro está diseñado para replicar fielmente las condiciones del examen oficial. Puedes realizarlo cronometrado o por bloques separados.
+
+---
+
+##### 🧪 Instrucciones generales
+
+- Tiempo total recomendado: **90 minutos**  
+  - **60 minutos** para el test teórico (60 preguntas)  
+  - **30 minutos** para ofimática (30 preguntas)  
+- Formato: tipo test (4 opciones por pregunta, 1 correcta)  
+- Corrección: **-0,33 puntos por error**
+
+---
+
+##### 📝 Parte 1 – Conocimientos Teóricos (Bloques I y III)
+
+1. ¿Qué artículo de la Constitución recoge el principio de legalidad?  
+a) 1 b) 9 c) 14 d) 103  
+**[ ]**
+
+2. El silencio administrativo positivo se aplica cuando:  
+a) La administración no responde en plazo  
+b) La ley así lo prevea  
+c) La persona lo solicita expresamente  
+d) No hay acto administrativo previo  
+**[ ]**
+
+_(...continúa hasta 60 preguntas)_
+
+---
+
+##### 💻 Parte 2 – Ofimática (Bloque IV)
+
+61. ¿Qué combinación de teclas guarda un documento en Word?  
+a) Ctrl + S b) Ctrl + G c) Alt + G d) Ctrl + M  
+**[ ]**
+
+62. En Excel, la función =SUMA(A1:A5) sirve para:  
+a) Contar celdas b) Calcular media c) Sumar valores d) Buscar datos  
+**[ ]**
+
+_(...hasta pregunta 90)_
+
+---
+
+##### 🧾 Hoja de respuestas
+
+Puedes añadir una hoja aparte o reproducir esta tabla:
+
+| Nº Pregunta | Respuesta | Correcta | Comentarios |
+|-------------|-----------|----------|-------------|
+| 1           |           |          |             |
+| 2           |           |          |             |
+| …           |           |          |             |
+
+---
+
+> *Haz el simulacro en condiciones reales: sin interrupciones, cronometrado y con corrección objetiva. Anota tus errores para repasarlos luego.*
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
