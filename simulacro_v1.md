@@ -365,7 +365,7 @@
    - c) Tema: Geografía física. Nombre: "Cordilleras asiáticas".  
    - d) Tema: Derecho económico. Nombre: "Teoría y práctica del derecho económico".  
 
-## Cuadro Laboratorios
+**Cuadro Laboratorios**
 
 | **Profesor**    | **Materia**      | **Día     | **Hora**| **Inscritos** | **Planta** | **Aula** | **Capacidad** |
 |-----------------|------------------|-----------|-------|-----------|--------|------|-----------|
