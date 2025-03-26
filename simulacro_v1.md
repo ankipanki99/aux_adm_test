@@ -748,10 +748,6 @@ d) Sello de registro y firma del funcionario.
 
 ---
 
-
-✅ HOJA DE RESPUESTAS — PARTE 1 & PARTE 2
-markdown
-Copiar
 | **PARTE 1** |       |       |       |       || **PARTE 2** |       |       |       |       |
 |:-----------:|:-----:|:-----:|:-----:|:-----:||:-----------:|:-----:|:-----:|:-----:|:-----:|
 | **Nº**      | **a** | **b** | **c** | **d** || **Nº**      | **a** | **b** | **c** | **d** |
