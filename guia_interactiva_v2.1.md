@@ -240,7 +240,73 @@ No se trata de memorizar sin rumbo, sino de comprender cómo está estructurado 
 
 [⬆ Volver al índice](#tabla-de-contenidos)
 
+
 ---
 
+### 3. Parte 2 – Práctica Administrativa  
+<a id="31-bloque-iii-actividad-administrativa"></a>
 
+#### 3.1 Bloque III: Actividad Administrativa
+
+Este bloque aborda los conceptos clave del funcionamiento interno de la Administración y el marco normativo que regula sus actuaciones. Es esencial para comprender cómo se tramita un expediente, cómo se estructura la gestión pública y qué principios la rigen.
+
+---
+
+##### 📌 Estructura del Bloque
+
+1. Procedimiento administrativo común  
+2. Normas sobre personal al servicio de las AAPP  
+3. Gestión de documentos y archivo  
+4. Registro y tramitación administrativa  
+5. Atención al ciudadano y servicios públicos  
+6. Normativa sobre administración electrónica
+
+---
+
+##### 🎯 Puntos Clave para el Estudio
+
+- Ley 39/2015, del Procedimiento Administrativo Común  
+- Ley 40/2015, de Régimen Jurídico del Sector Público  
+- Estatuto Básico del Empleado Público (EBEP)  
+- Registro electrónico, firma electrónica y SIA  
+- Conceptos de acto administrativo, silencio, subsanación y recursos  
+- Derechos y deberes del ciudadano en su relación con la Administración
+
+---
+
+##### 📈 Tendencias detectadas (2017–2024)
+
+- Mayor peso de **procedimiento electrónico y archivo digital**  
+- Preguntas cada vez más técnicas y específicas sobre trámites administrativos  
+- Aumento de ítems relacionados con **función pública y atención al ciudadano**
+
+---
+
+##### ✅ Recomendaciones de preparación
+
+- No memorices artículos: entiende el **flujo lógico del procedimiento**  
+- Refuerza con esquemas el papel de cada actor administrativo  
+- Entrena con test de convocatorias reales y simulacros cronometrados  
+- Presta especial atención a conceptos como: subsanación, suspensión, inadmisión, silencio administrativo
+
+---
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+
+---
+
+### Cierre del Capítulo 3
+
+La Parte 2 evalúa tu **capacidad de aplicación práctica** del conocimiento administrativo y tu destreza con herramientas ofimáticas esenciales.
+
+Ambos bloques son altamente puntuables y, en muchos casos, **decisivos para superar la nota de corte**. Una preparación técnica, centrada en simulacros y comprensión real de las funciones administrativas, marca la diferencia.
+
+> *No basta con saber. Hay que saber aplicar. Y hacerlo rápido.*
+
+---
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
 
