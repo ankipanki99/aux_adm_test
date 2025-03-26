@@ -1973,7 +1973,142 @@ Este anexo se actualiza periódicamente para incluir los recursos más relevante
 
 
 ---
+# Anexo IV: Plantilla de Seguimiento y Progreso de Estudio
 
+## 📋 Control de Progreso - Oposición Cuerpo General Auxiliar AGE
+
+Esta herramienta te permitirá visualizar y gestionar eficazmente tu avance en el estudio, ayudándote a planificar objetivos, registrar progresos y detectar áreas que requieren refuerzo.
+
+## 📝 Instrucciones de uso
+
+1. **Personaliza la plantilla**: Imprímela o crea tu versión digital editable (Excel, Google Sheets)
+2. **Actualiza semanalmente**: Dedica 15 minutos cada semana para registrar tu avance
+3. **Código de niveles**:
+   - ⚪ No iniciado (0%)
+   - 🔵 Iniciado (25%)
+   - 🟢 Avanzado (50%)
+   - 🟡 Dominado (75%)
+   - 🟣 Perfeccionado (100%)
+4. **Prioriza según peso**: Asigna más tiempo a las áreas con mayor porcentaje en el examen
+
+## 📊 PARTE 1 - BLOQUE I: ORGANIZACIÓN PÚBLICA (30%)
+
+| Área temática | Peso | Fecha objetivo | Nivel | % Aciertos | Fecha finalización | Observaciones |
+|---------------|:----:|:--------------:|:-----:|:----------:|:------------------:|---------------|
+| **Constitución Española** | 20% |  |  |  |  |  |
+| Principios generales |  |  |  |  |  |  |
+| Derechos y deberes fundamentales |  |  |  |  |  |  |
+| Organización territorial |  |  |  |  |  |  |
+| Reforma constitucional |  |  |  |  |  |  |
+| Tribunal Constitucional |  |  |  |  |  |  |
+| **Organización del Estado** |  |  |  |  |  |  |
+| La Corona |  |  |  |  |  |  |
+| Las Cortes Generales |  |  |  |  |  |  |
+| El Gobierno |  |  |  |  |  |  |
+| Administración General del Estado |  |  |  |  |  |  |
+| Poder Judicial |  |  |  |  |  |  |
+| Defensor del Pueblo |  |  |  |  |  |  |
+| **Leyes Administrativas** | 8.2% |  |  |  |  |  |
+| **Función Pública** | 3.4% |  |  |  |  |  |
+| **Unión Europea** | 2.4% |  |  |  |  |  |
+| **Igualdad y Diversidad** | 3.2% |  |  |  |  |  |
+| **Dependencia** | 1.0% |  |  |  |  |  |
+| **Transparencia y Gobierno Abierto** | 2.9% |  |  |  |  |  |
+| **Hacienda Pública** | 2.5% |  |  |  |  |  |
+
+## 🧠 PARTE 1 - BLOQUE II: PSICOTÉCNICOS (30%)
+
+| Área temática | Peso | Ejercicios realizados | Nivel | Tiempo medio | % Aciertos | Observaciones |
+|---------------|:----:|:---------------------:|:-----:|:------------:|:----------:|---------------|
+| **Razonamiento Verbal** | 5.6% |  |  |  |  |  |
+| Sinónimos y antónimos |  |  |  |  |  |  |
+| Definiciones |  |  |  |  |  |  |
+| **Razonamiento Lógico y Tablas** | 6.1% |  |  |  |  |  |
+| **Series Numéricas** | 6.1% |  |  |  |  |  |
+| **Razonamiento Abstracto** | 4.6% |  |  |  |  |  |
+| **Problemas de Aplicación** | 5.8% |  |  |  |  |  |
+
+## 📑 PARTE 2 - BLOQUE I: ACTIVIDAD ADMINISTRATIVA (20%)
+
+| Área temática | Peso | Fecha objetivo | Nivel | % Aciertos | Fecha finalización | Observaciones |
+|---------------|:----:|:--------------:|:-----:|:----------:|:------------------:|---------------|
+| **Atención al Ciudadano** | 5.5% |  |  |  |  |  |
+| **Servicios de Información** |  |  |  |  |  |  |
+| **Documentación y Archivo** | 4.9% |  |  |  |  |  |
+| **Administración Electrónica** | 5.4% |  |  |  |  |  |
+| **Accesibilidad** |  |  |  |  |  |  |
+| **Protección de Datos** | 3.9% |  |  |  |  |  |
+
+## 💻 PARTE 2 - BLOQUE II: OFIMÁTICA E INFORMÁTICA (20%)
+
+| Área temática | Peso | Fecha objetivo | Nivel | Práctica realizada | % Aciertos | Observaciones |
+|---------------|:----:|:--------------:|:-----:|:------------------:|:----------:|---------------|
+| **Informática Básica** |  |  |  |  |  |  |
+| **Windows 10** | 4.0% |  |  |  |  |  |
+| **Microsoft Word** | 2.9% |  |  |  |  |  |
+| **Microsoft Excel** | 6.0% |  |  |  |  |  |
+| **Microsoft Outlook** | 2.9% |  |  |  |  |  |
+| **Internet y Navegadores** |  |  |  |  |  |  |
+| **Redes y Seguridad** | 3.6% |  |  |  |  |  |
+
+## 📈 PROGRESO GLOBAL
+
+| Bloque | Peso | % Completado | Nivel medio | Fecha estimada finalización | Observaciones |
+|--------|:----:|:------------:|:-----------:|:---------------------------:|---------------|
+| Organización Pública | 30% |  |  |  |  |
+| Psicotécnicos | 30% |  |  |  |  |
+| Actividad Administrativa | 20% |  |  |  |  |
+| Ofimática e Informática | 20% |  |  |  |  |
+| **TOTAL** | 100% |  |  |  |  |
+
+## 📝 REGISTRO DE SIMULACROS
+
+| Fecha | Tipo | Puntuación | Aciertos | Fallos | Mejor bloque | Bloque a mejorar | Observaciones |
+|-------|------|:----------:|:--------:|:------:|:------------:|:----------------:|---------------|
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+
+## 📅 CALENDARIO SEMANAL DE ESTUDIO
+
+| Hora | Lunes | Martes | Miércoles | Jueves | Viernes | Sábado | Domingo |
+|------|-------|--------|-----------|--------|---------|--------|---------|
+| 8:00-10:00 |  |  |  |  |  |  |  |
+| 10:00-12:00 |  |  |  |  |  |  |  |
+| 16:00-18:00 |  |  |  |  |  |  |  |
+| 18:00-20:00 |  |  |  |  |  |  |  |
+
+## 📌 RECOMENDACIONES CLAVE
+
+### Método efectivo de estudio:
+1. **Evaluación inicial**: Realiza un test para determinar tu nivel en cada área
+2. **Planificación estratégica**: Prioriza según peso en el examen
+3. **Práctica constante**: Dedica tiempo diario a los psicotécnicos (mínimo 30 min)
+4. **Simulacros periódicos**: Programa uno completo cada 2-3 semanas
+5. **Repaso espaciado**: Revisa temas estudiados a los 7, 15 y 30 días
+
+### Consejos para optimizar tu preparación:
+- **Alterna contenidos**: Combina teoría con test y ejercicios prácticos
+- **Técnica Pomodoro**: 25 min estudio + 5 min descanso
+- **Visualiza el progreso**: Marca logros y visualiza avances
+- **Estudio colaborativo**: Intercambia recursos y realiza repasos en grupo
+- **Descanso estratégico**: Programa un día completo de descanso semanal
+
+### Recursos utilizados
+| Tipo | Título | Autor/Editorial | Valoración | Observaciones |
+|------|--------|-----------------|:----------:|---------------|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+### Objetivos personales
+- **Corto plazo** (1 mes): 
+- **Medio plazo** (3 meses): 
+- **Largo plazo** (6 meses): 
+
+---
+
+*Recuerda: Esta plantilla es una herramienta de apoyo. El éxito en la oposición dependerá de tu constancia, método de estudio y capacidad para adaptar tu estrategia según los resultados que vayas obteniendo.*
 
 ---
 
