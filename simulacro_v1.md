@@ -204,7 +204,7 @@
    - d) Nivel mínimo 14 y nivel máximo 20.
 
 ---
-## BLOQUE II: PSICOTECNICOS (Preguntas 31 a 60)
+### BLOQUE II: PSICOTECNICOS (Preguntas 31 a 60) 
 
 **31.** **Indique cuál de las siguientes palabras es el sinónimo de AGLOMERADO.**
    - a) Defecto.
@@ -420,33 +420,33 @@
 
 ---
 
-**Preguntas de reserva**
+### 📌 Preguntas de Reserva
 
-**1. Indique la respuesta correcta en referencia al Plan Anual Normativo previsto en el artículo 25 de la Ley 50/1997, de 27 de noviembre, del Gobierno:**  
+**R1. Indique la respuesta correcta en referencia al Plan Anual Normativo previsto en el artículo 25 de la Ley 50/1997, de 27 de noviembre, del Gobierno:**  
    - a) El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 30 de abril.  
    - b) El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 1 de junio.  
    - c) El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 31 de octubre.  
    - d) El Ministro de la Presidencia lo elevará al Consejo de Ministros para su aprobación antes del 31 de diciembre.  
 
-**2. De conformidad con el Reglamento 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril, relativo a la protección de las personas físicas, en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, indique a quién responde la siguiente definición: persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto con otros, determina los fines y medios del tratamiento de datos.**  
+**R2. De conformidad con el Reglamento 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril, relativo a la protección de las personas físicas, en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, indique a quién responde la siguiente definición: persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto con otros, determina los fines y medios del tratamiento de datos.**  
    - a) Responsable del tratamiento.  
    - b) Encargado del tratamiento.  
    - c) Destinatario del tratamiento.  
    - d) Interesado.  
 
-**3. Indique entre las siguientes palabras cuál es el antónimo de la palabra VENTURA.**  
+**R3. Indique entre las siguientes palabras cuál es el antónimo de la palabra VENTURA.**  
    - a) Aireado.  
    - b) Quimerista.  
    - c) Peligroso.  
    - d) Desdicha.  
 
-**4. Ana tiene 12 libros de historia, 16 novelas y 8 ensayos. ¿Cuál es el porcentaje de novelas?**  
+**R4. Ana tiene 12 libros de historia, 16 novelas y 8 ensayos. ¿Cuál es el porcentaje de novelas?**  
    - a) 41,10 %  
    - b) 58,35 %  
    - c) 36,50 %  
    - d) 44,44 %  
 
-**5. Halle el valor de 21(4x – 6) = x**  
+**R5. Halle el valor de 21(4x – 6) = x**  
    - a) - 1,93  
    - b) 1,52  
    - c) 0,70  
@@ -454,9 +454,344 @@
 
 ---
 
+## SEGUNDA PARTE
 
+---
+### BLOQUE I: ACTIVIDAD ADMINISTRATIVA (Preguntas 1 a 11)
 
+**1.** **De conformidad con el artículo 4 del Real Decreto 366/2007, de 16 de marzo, en relación con las Oficinas de Atención al Ciudadano, en el caso de disponer de plazas de aparcamiento, ¿cuántas reservarán destinadas en exclusividad a personas con movilidad reducida?**  
+a) Un número suficiente de plazas.  
+b) Un 2 % del total.  
+c) Un 5 % del total.  
+d) Un 7 % del total.
 
+**2.** **Conforme a la regulación contenida en el Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado, recibida una queja o sugerencia la unidad responsable de su gestión informará al interesado de las actuaciones realizadas en el plazo de:**  
+a) 15 días hábiles.  
+b) 20 días hábiles.  
+c) 30 días hábiles.  
+d) 10 días hábiles.
+
+**3.** **De acuerdo con el artículo 2 del Real Decreto 366/2007, de 16 de marzo, la actuación de la Administración General del Estado asegurará a los ciudadanos con discapacidad la efectividad de sus derechos mediante:**  
+a) La accesibilidad, en determinados supuestos.  
+b) La compensación de ventajas.  
+c) La discriminación por razón de discapacidad.  
+d) La garantía de la igualdad de oportunidades.
+
+**4.** **Según el Real Decreto 203/2021, de 30 de marzo, la creación y supresión de portales de internet en el ámbito estatal requerirá informe favorable de:**  
+a) Persona titular del Departamento.  
+b) Comisión Ministerial de Administración Digital.  
+c) Secretaría General Técnica del Departamento.  
+d) Comisión Superior Digital.
+
+**5.** **Entre las funciones de atención al ciudadano, la relativa a la localización de dependencias y funcionarios se corresponde con la atención:**  
+a) General.  
+b) Colaborativa.  
+c) Descentralizada.  
+d) Personalizada.
+
+**6.** **Según el artículo 9.1 del Real Decreto 208/1996, las oficinas de información y atención al ciudadano tendrán el carácter de:**  
+a) Oficinas auxiliares.  
+b) Oficinas de apoyo y colaboración.  
+c) Oficinas centrales.  
+d) Oficinas sectoriales.
+
+**7.** **De conformidad con el Real Decreto 1708/2011, ¿qué clase de archivo coordina el funcionamiento de los archivos de gestión?**  
+a) Archivo intermedio.  
+b) Archivo de oficina.  
+c) Archivo Histórico Nacional.  
+d) Archivo Central.
+
+**8.** **La definición del Real Decreto 1708/2011 sobre el “Sistema archivístico” corresponde a:**  
+a) Ciclo vital de documentos.  
+b) Expediente electrónico.  
+c) Documento electrónico.  
+d) Sistema archivístico.
+
+**9.** **Según la Orden PCM/1382/2021, tras registrar un documento en el REG-AGE, estos serán cursados a sus destinatarios:**  
+a) Sin dilación.  
+b) En el plazo máximo de 1 día.  
+c) En el plazo máximo de 2 días.  
+d) En el plazo máximo de 3 días.
+
+**10.** **Según la Orden HAP/1949/2014, la dirección electrónica de la sede del Punto de Acceso General es:**  
+a) https://sede.telefono060.es  
+b) https://sede.administracion.gob.es  
+c) https://administracion.com  
+d) https://administracionelectronica.gob.es
+
+**11.** **¿Cuál es el documento digital que contiene los datos identificativos de su suscriptor y le vincula con unos datos de verificación de firma y confirma su identidad?**  
+a) Certificado electrónico FNMT de Ciudadano.  
+b) Certificación HACCP.  
+c) ISO 9001.  
+d) Número de serie CMD
+---
+### BLOQUE I: INFORMÁTICA (Preguntas 12 a 50)
+
+**12.** **Indique cuál de los siguientes dispositivos propuestos se utiliza para la impresión.**  
+a) Plóter.  
+b) UPS.  
+c) Conmutador de red.  
+d) Lápiz óptico.
+
+**13.** **¿Qué es el "Contenido destacado" de Windows 10?**  
+a) Es el contenido anclado en la barra de tareas.  
+b) Es una característica de Windows que muestra diferentes imágenes de fondo y, en ocasiones, ofrece sugerencias en la pantalla de bloqueo.  
+c) Es el contenido anclado al área Acceso rápido del Explorador de Windows.  
+d) Es un tipo de contenido que se puede seleccionar para que se muestre en Microsoft Edge, al abrir una nueva pestaña.
+
+**14.** **Indique cuál de los siguientes tipos de datos se corresponde con el siguiente dato: 6,21**  
+a) Entero.  
+b) Booleano.  
+c) Lista.  
+d) Coma flotante.
+
+**15.** **¿Cuál recoge el calor generado por el procesador y lo transmite al ambiente?**  
+a) Tarjeta de red.  
+b) Procesador (CPU).  
+c) Placa base.  
+d) Disipador.
+
+**16.** **¿Dónde se pueden visualizar el nombre del dispositivo y la edición de Windows 10?**  
+a) Ambos datos están disponibles en la sección "Acerca de", de la Configuración.  
+b) El nombre del dispositivo es información sensible y no está disponible en la Configuración.  
+c) Solo está disponible en el Administrador de dispositivos.  
+d) La edición solo está en Administración de equipos.
+
+**17.** **¿Qué es “Python”?**  
+a) Sistema operativo.  
+b) Aplicación de hoja de cálculo.  
+c) Lenguaje de programación.  
+d) Protocolo de comunicaciones.
+
+**18.** **¿Qué afirmación es correcta sobre vincular teléfonos en Windows 10?**  
+a) Solo es posible si el teléfono usa Windows.  
+b) Se puede descargar la info, pero no vincular.  
+c) Se pueden vincular teléfonos Android o iPhone y ver mensajes y fotos desde el equipo.  
+d) Solo se permite usar el audio del equipo para llamadas.
+
+**19.** **¿Qué herramienta informa sobre el impacto energético de una app en Windows 10?**  
+a) Servicios.  
+b) Administrador de tareas.  
+c) Visor de eventos.  
+d) Explorador de archivos.
+
+**20.** **¿Cuál es correcta sobre el Explorador de archivos de Windows 10?**  
+a) Se pueden elegir diseños, pero no agrupar archivos.  
+b) Se pueden agrupar por columnas, pero no cambiar diseño.  
+c) Agrupar solo es posible en algunos diseños.  
+d) Se pueden hacer ambas cosas: agrupar y cambiar diseño.
+
+**21.** **¿Qué accesorio de Windows 10 permite compartir el equipo en remoto con un técnico de soporte?**  
+a) Visor XPS.  
+b) Windows Media Player.  
+c) Grabación de acciones de usuario.  
+d) Asistencia rápida.
+
+**22.** **¿Qué opciones de visualización existen para la búsqueda en Windows 10?**  
+a) Ocultar búsqueda o mostrar cuadro, no se puede mostrar solo el icono.  
+b) Mostrar icono o cuadro, no se puede ocultar búsqueda.  
+c) Ocultar o mostrar icono, no se puede mostrar cuadro.  
+d) Se puede ocultar, mostrar icono o mostrar cuadro.
+
+**23.** **¿Qué se muestra por defecto en el Acceso rápido de Windows 10?**  
+a) Bibliotecas y OneDrive.  
+b) Carpetas frecuentes y Archivos recientes.  
+c) Configuración y Red.  
+d) Bibliotecas y Configuración.
+
+**24.** **En una celda sin formato de Excel 365 se escribe “20-2”. ¿Qué se mostrará al pulsar Enter?**  
+a) 20-feb  
+b) 18  
+c) 20-2  
+d) 45342,00
+
+**25.** **¿Qué función permite hacer copias de seguridad automáticas de archivos en Windows 10?**  
+a) Historial.  
+b) Acceso rápido.  
+c) Copiar a.  
+d) Seguridad avanzada.
+
+**26.** **¿Cuál es la utilidad principal de indexar archivos en la búsqueda de Windows 10?**  
+a) Copias de seguridad de precaución.  
+b) Sincronizar con OneDrive.  
+c) Excluir contenido de búsquedas.  
+d) Obtener resultados más rápido.
+
+**27.** **¿Qué combinación de teclas en Word 365 reduce el tamaño de la fuente?**  
+a) Ctrl + símbolo “-“  
+b) Alt + símbolo “-“  
+c) Ctrl + símbolo “<”  
+d) Alt + símbolo “<”
+
+**28.** **¿Qué afirmación es correcta sobre el remite al imprimir sobres en Word 365?**  
+a) Es necesario escribirlo cada vez.  
+b) Se puede guardar y reutilizar desde opciones avanzadas.  
+c) No hay función específica de remite.  
+d) Solo se reutiliza si se guarda en Access.
+
+**29.** **¿Qué herramienta de Word 365 permite aplicar formatos preestablecidos y generar tabla de contenido?**  
+a) Tamaño de letra.  
+b) Espaciado.  
+c) Tipo de fuente.  
+d) Estilos.
+
+**30.** **¿Qué función de Word 365 sirve para enumerar términos y páginas donde aparecen?**  
+a) Insertar índice.  
+b) Insertar nota al final.  
+c) Referencia indexada.  
+d) Elementos rápidos.
+
+**31.** **¿Qué hace la función Editor de Word 365?**  
+a) Cambia la vista para ver solo el texto.  
+b) Revisa ortografía, gramática y estilo.  
+c) Dicta contenido por voz.  
+d) Muestra antónimos.
+
+**32.** **¿Qué valor debemos introducir con formato General para que Excel muestre 21,00 % tras aplicar formato Porcentaje?**  
+a) 21  
+b) 0,21  
+c) 21,00  
+d) 0,0021
+
+**33.** **¿Qué opción usar para imprimir solo una tabla seleccionada en una hoja de Excel 365?**  
+a) Imprimir todo el libro.  
+b) Imprimir hojas activas.  
+c) Imprimir selección.  
+d) Imprimir todas las hojas.
+
+**34.** **¿Para qué sirve la función de segmentación de datos en Excel 365?**  
+a) Operaciones de cálculo en columnas.  
+b) Dividir tabla en otras según criterios.  
+c) Cálculos financieros en varias columnas.  
+d) Filtrar datos interactivamente.
+
+**35.** **¿Qué mostrará la celda G20 con esta fórmula: =SI(E20>1000;"Grande";"Pequeño")?**  
+a) Se muestra la fórmula en G20.  
+b) El valor de E20 condiciona lo que aparece en E20.  
+c) El valor de E20 condiciona G20, pero está invertido.  
+d) G20 muestra “Grande” o “Pequeño” según valor en E20.
+
+**36.** **¿Qué tipo de campo en Access 365 permite hasta 60.000 caracteres?**  
+a) Byte.  
+b) Texto largo.  
+c) Texto corto.  
+d) Número grande.
+
+**37.** **¿Qué función de Outlook 365 usar para marcar como importante los correos con “Aviso” en el asunto?**  
+a) Alerta.  
+b) Regla.  
+c) Seguimiento.  
+d) Tarea.
+
+**38.** **¿Tamaño máximo para campo “Datos adjuntos” en Access 365?**  
+a) Depende del disco duro.  
+b) Hasta 2 GB.  
+c) 255 caracteres.  
+d) 64 bytes.
+
+**39.** **¿Cómo obtener el valor de un campo calculado en Access 365?**  
+a) Escribiendo en celda en Vista de Hoja de Datos.  
+b) Usando Descripción en Vista de Diseño.  
+c) Con el Generador de expresiones.  
+d) En el campo Formato de la pestaña General.
+
+**40.** **¿Sobre qué objetos se puede crear un informe en Access 365?**  
+a) Solo Consultas.  
+b) Consultas y Formularios.  
+c) Solo Formularios.  
+d) Tablas y Consultas.
+
+**41.** **¿Qué afirmación es correcta sobre calendarios en Outlook 365?**  
+a) Se necesitan Teams para eventos.  
+b) No se pueden enviar por correo.  
+c) Si hay SharePoint, se ven listas de eventos.  
+d) No se pueden ver varios calendarios juntos.
+
+**42.** **¿Qué tipo de consulta en Access 365 combina datos de varias tablas?**  
+a) Consulta de Unión.  
+b) Consulta de Inserción.  
+c) Consulta de Resumen.  
+d) Consulta de Eliminación.
+
+**43.** **¿Cuál es un sistema de gestión de contenidos (CMS)?**  
+a) Spotify.  
+b) Instagram.  
+c) Gmail.  
+d) WordPress.
+
+**44.** **¿Dónde se realiza una búsqueda si hay dos cuentas en Outlook 365?**  
+a) Todas las carpetas de ambas cuentas.  
+b) Carpeta actual en ambas cuentas.  
+c) Todas las carpetas de la cuenta actual.  
+d) Todo Outlook de la cuenta actual.
+
+**45.** **¿Qué opción administra el tamaño del buzón en Outlook 365?**  
+a) Preferencias de descarga.  
+b) Pasos rápidos.  
+c) Limpieza de buzón.  
+d) Crear grupo.
+
+**46.** **¿Cuál es un protocolo de seguridad en correos electrónicos?**  
+a) TLS  
+b) XML  
+c) ASCII  
+d) CSS
+
+**47.** **¿Cómo se llama el acceso a recursos informáticos por internet bajo demanda?**  
+a) Bitdefender.  
+b) Computación cuántica.  
+c) Computación en la nube.  
+d) Factura electrónica.
+
+**48.** **¿Qué empresa es la actual propietaria del asistente Copilot?**  
+a) Google.  
+b) Amazon.  
+c) Lenovo.  
+d) Microsoft.
+
+**49.** **¿Cuál es un software de servidor web?**  
+a) Apache.  
+b) Kaspersky.  
+c) YouTube.  
+d) Voz IP.
+
+**50.** **¿Qué organismo genera estándares de accesibilidad web?**  
+a) ICANN  
+b) IANA  
+c) W3C  
+d) IETF
+---
+### 📌 Preguntas de Reserva
+
+**R1.** **En la Unión Europea y España se aplican normas para garantizar la accesibilidad web. ¿Desde qué año se aplican estas normas?**  
+a) 2002.  
+b) 1985.  
+c) 1996.  
+d) 2014.
+
+**R2.** **En Excel 365, con la fórmula =DIAS(A2;A3) y fechas 02/02/2024 (A2) y 11/02/2024 (A3), ¿qué resultado se obtiene?**  
+a) -9  
+b) 12/02/2024  
+c) 9  
+d) 01/02/2024
+
+**R3.** **En un portátil con Windows 10, ¿qué herramienta permite configurar energía y perfiles de sincronización?**  
+a) Administrador de dispositivos.  
+b) Administrador de equipos.  
+c) Administrador de tareas.  
+d) Centro de movilidad.
+
+**R4.** **¿Cuál de estas opciones de inmovilización en Excel 365 es falsa?**  
+a) Inmovilizar celdas seleccionadas.  
+b) Inmovilizar fila superior.  
+c) Inmovilizar paneles.  
+d) Inmovilizar primera columna.
+
+**R5.** **Según la Orden HAP/1949/2014, ¿cuáles son los canales de acceso al Punto de Acceso General?**  
+a) Internet, las oficinas 060 y el teléfono 060.  
+b) El teléfono 060, exclusivamente.  
+c) La oficina 060, exclusivamente.  
+d) Atención con apoderamiento.
 
 
 
@@ -508,11 +843,11 @@
 | **PARTE 1 RESERVA** |       |       |       |       | | **PARTE 2 RESERVA** |       |       |       |       |
 |:------------------:|:-----:|:-----:|:-----:|:-----:| |:------------------:|:-----:|:-----:|:-----:|:-----:|
 | **Nº**             | **a** | **b** | **c** | **d** | | **Nº**             | **a** | **b** | **c** | **d** |
-| **91**             | [ a ] | [ b ] | [ c ] | [ d ] | | **96**             | [ a ] | [ b ] | [ c ] | [ d ] |
-| **92**             | [ a ] | [ b ] | [ c ] | [ d ] | | **97**             | [ a ] | [ b ] | [ c ] | [ d ] |
-| **93**             | [ a ] | [ b ] | [ c ] | [ d ] | | **98**             | [ a ] | [ b ] | [ c ] | [ d ] |
-| **94**             | [ a ] | [ b ] | [ c ] | [ d ] | | **99**             | [ a ] | [ b ] | [ c ] | [ d ] |
-| **95**             | [ a ] | [ b ] | [ c ] | [ d ] | | **100**            | [ a ] | [ b ] | [ c ] | [ d ] |
+| **1**             | [ a ] | [ b ] | [ c ] | [ d ] | | **1**             | [ a ] | [ b ] | [ c ] | [ d ] |
+| **2**             | [ a ] | [ b ] | [ c ] | [ d ] | | **2**             | [ a ] | [ b ] | [ c ] | [ d ] |
+| **3**             | [ a ] | [ b ] | [ c ] | [ d ] | | **3**             | [ a ] | [ b ] | [ c ] | [ d ] |
+| **4**             | [ a ] | [ b ] | [ c ] | [ d ] | | **4**             | [ a ] | [ b ] | [ c ] | [ d ] |
+| **5**             | [ a ] | [ b ] | [ c ] | [ d ] | | **5**            | [ a ] | [ b ] | [ c ] | [ d ] |
 ```
 
 ---
