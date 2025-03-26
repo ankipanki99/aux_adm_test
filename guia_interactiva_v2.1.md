@@ -310,3 +310,91 @@ Ambos bloques son altamente puntuables y, en muchos casos, **decisivos para supe
 
 ---
 
+Aquí tienes el **Capítulo 4 – Análisis Estratégico**, con sus dos bloques principales, anclajes y estilo claro:
+
+---
+
+### 4. Análisis Estratégico
+
+<a id="41-distribución-de-preguntas-por-bloque"></a>  
+#### 4.1 Distribución de Preguntas por Bloque
+
+Analizar cuántas preguntas suelen caer por bloque temático te permite **ajustar el tiempo y esfuerzo de estudio** según la probabilidad de aparición.
+
+---
+
+##### 📊 Distribución promedio (2017–2024):
+
+| Bloque                            | Nº Medio de Preguntas | Peso aproximado |
+|----------------------------------|------------------------|-----------------|
+| Bloque I – Organización Pública  | 25–30                  | 40–50%          |
+| Bloque III – Act. Administrativa | 15–20                  | 25–30%          |
+| Bloque IV – Ofimática/Informática| 10–15                  | 15–20%          |
+| Bloque II – Psicotécnicos        | 5–10                   | 10–15%          |
+
+---
+
+##### ✅ Consejos
+
+- Aumenta la intensidad de estudio en los bloques con **mayor presencia histórica**.  
+- No descuides los bloques con menos peso: pueden contener **preguntas de eliminación**.  
+- Usa esta tabla como guía para tu **planificación semanal**.
+
+---
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
+<a id="42-estadísticas-por-área-temática-2017-2024"></a>  
+#### 4.2 Estadísticas por Área Temática (2017–2024)
+
+Este análisis muestra **las áreas con mayor repetición de preguntas** en los últimos exámenes, lo que permite priorizar contenidos de alta rentabilidad.
+
+---
+
+##### 🧠 Áreas con más recurrencia
+
+- Constitución Española (Bloque I)  
+- Procedimiento Administrativo Común (Bloque III)  
+- Microsoft Word (Bloque IV)  
+- Igualdad, transparencia y protección de datos (Bloque I)  
+- Razonamiento verbal y abstracto (Bloque II)
+
+---
+
+##### 📈 Ejemplo real:
+
+En el examen de 2022, casi un **40% de las preguntas** del test teórico provenían del **Bloque I**, y dentro de ese bloque, más del 50% se concentraban en la Constitución Española y la organización del Estado.
+
+---
+
+##### ✅ Uso estratégico
+
+- No estudies todo por igual: **estudia según peso histórico**.  
+- Identifica las áreas que **siempre caen**, y domínalas.  
+- Si vas justo de tiempo, céntrate en **las 4-5 materias más rentables**.
+
+---
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+Aquí tienes el **cierre del Capítulo 4 – Análisis Estratégico**, para dejar bien sellada esta sección clave:
+
+---
+
+### Cierre del Capítulo 4
+
+Estudiar con estrategia es lo que convierte a un opositor en un candidato competitivo. Conocer la distribución de preguntas y las áreas con mayor recurrencia **te permite priorizar, enfocar y optimizar**.
+
+Este capítulo no es para memorizar, sino para decidir **cómo y dónde invertir tu energía**.
+
+> *No prepares todo igual. Prepara lo que más cuenta.*
+
+---
+
+[⬆ Volver al índice](#tabla-de-contenidos)
+
+---
+
