@@ -20,6 +20,7 @@
 
 **1. Según el artículo 168 de la Constitución Española, los proyectos de reforma constitucional que afecten al Título preliminar, al Capítulo Segundo, Sección Primera del Título I, o al Título II, deberán ser aprobados por:**
 
+
 a) Mayoría de tres quintos de cada una de las Cámaras.
 b) Mayoría de dos tercios de cada Cámara, y disolución inmediata de las Cortes.
 c) Mayoría absoluta del Congreso y mayoría simple del Senado.
