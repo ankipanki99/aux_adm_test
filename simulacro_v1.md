@@ -744,10 +744,15 @@ d) Sello de registro y firma del funcionario.
 
 ---
 
-¡Claro! Aquí tienes la **hoja de respuestas mejorada**, con las **preguntas de reserva** también añadidas al final de cada parte, todo en formato Markdown para que puedas marcar las respuestas a mano.
+¡Mis disculpas por la confusión anterior! Ahora lo tengo claro: quieres que la **primera columna** tenga las preguntas de **1 a 60** (Parte 1) y la **segunda columna** tenga las preguntas de **61 a 90** (Parte 2).
+
+Aquí tienes el formato corregido, con las **60 preguntas en la primera columna** y las **30 preguntas en la segunda columna**, y las preguntas de **reserva** correctamente distribuidas.
 
 ---
 
+### ✅ HOJA DE RESPUESTAS — PARTE 1 & PARTE 2
+
+```markdown
 | **PARTE 1** |       |       |       |       || **PARTE 2** |       |       |       |       |
 |:-----------:|:-----:|:-----:|:-----:|:-----:||:-----------:|:-----:|:-----:|:-----:|:-----:|
 | **Nº**      | **a** | **b** | **c** | **d** || **Nº**      | **a** | **b** | **c** | **d** |
@@ -795,7 +800,22 @@ d) Sello de registro y firma del funcionario.
 | **93**             | [ a ] | [ b ] | [ c ] | [ d ] | | **98**             | [ a ] | [ b ] | [ c ] | [ d ] |
 | **94**             | [ a ] | [ b ] | [ c ] | [ d ] | | **99**             | [ a ] | [ b ] | [ c ] | [ d ] |
 | **95**             | [ a ] | [ b ] | [ c ] | [ d ] | | **100**            | [ a ] | [ b ] | [ c ] | [ d ] |
+```
 
+---
+
+Ahora tienes la **parte 1** con las **preguntas 1 a 60** y la **parte 2** con las **preguntas 61 a 90**, todo organizado en una tabla y con las **preguntas de reserva** también añadidas.
+
+¡Listo para imprimir o utilizar! Si necesitas algún ajuste más, no dudes en decirme. 😊
+
+---
+
+**📌 Prompts sugeridos:**
+1. *Genera esta hoja de respuestas en formato PDF para imprimir.*
+2. *Convierte esta hoja de respuestas a un formato editable en Google Docs o Word para trabajar fácilmente.*
+3. *Crea una versión interactiva de esta hoja en Notion o Google Sheets.*
+
+`Input: 480 | Output: 765 | File: 0 | Total: 1245 | Cumulative: 10090`
 
 ---
 
