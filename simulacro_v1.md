@@ -18,63 +18,193 @@
 
 ### BLOQUE I: ORGANIZACIÓN PÚBLICA (Preguntas 1 a 30)
 
-## PARTE 1 (Preguntas 1 a 60)
+# PRIMERA PARTE
 
-**1. Según el artículo 168 de la Constitución Española, los proyectos de reforma constitucional que afecten al Título preliminar, al Capítulo Segundo, Sección Primera del Título I, o al Título II, deberán ser aprobados por:**
+1. Según el artículo 27 de la Constitución Española de 1978, la enseñanza básica es:
+   - a) Obligatoria y gratuita.
+   - b) Voluntaria y gratuita.
+   - c) Obligatoria y de pago.
+   - d) Voluntaria y de pago.
 
-a) Mayoría de tres quintos de cada una de las Cámaras.  
-b) Mayoría de dos tercios de cada Cámara, y disolución inmediata de las Cortes.  
-c) Mayoría absoluta del Congreso y mayoría simple del Senado.  
-d) Mayoría de dos tercios de ambas Cámaras en sesión conjunta.  
+2. Conforme a lo previsto en la Constitución Española de 1978, ¿qué mayoría se exige en el procedimiento de reforma constitucional contemplado en el artículo 167.1?
+   - a) Mayoría de dos tercios de cada una de las Cámaras.
+   - b) Mayoría de tres quintos de cada una de las Cámaras.
+   - c) Mayoría de tres quintos del Congreso de los Diputados.
+   - d) Mayoría de dos tercios del Congreso de los Diputados.
 
-**2. De acuerdo con el artículo 140 de la Constitución Española, el gobierno y administración de los municipios corresponde a:**
+3. Conforme al artículo 75 de la Constitución Española de 1978, las Cámaras funcionan:
+   - a) En Pleno exclusivamente.
+   - b) En Pleno y en Diputación Permanente.
+   - c) En Pleno y en Asamblea.
+   - d) En Pleno y por Comisiones.
 
-a) Sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales.  
-b) Sus respectivas Diputaciones, integradas por los Alcaldes y los Concejales.  
-c) Sus respectivos Consejos de Gobierno, integrados por los Alcaldes y los Tenientes de Alcalde.  
-d) Sus respectivos Cabildos o Consejos.  
+4. Conforme a lo previsto en la Constitución Española de 1978, la soberanía nacional reside:
+   - a) En las Cortes Generales.
+   - b) En el Rey.
+   - c) En el pueblo español.
+   - d) En el poder judicial.
 
-**3. Según el artículo 99.3 de la Constitución, en el caso de que ningún candidato a la Presidencia del Gobierno obtenga la confianza del Congreso, transcurrido el plazo de dos meses desde la primera votación de investidura:**
+5. De acuerdo con el artículo 8 de la Ley 50/1997, de 27 de noviembre, del Gobierno, la Presidencia de la Comisión General de Secretarios de Estado y Subsecretarios corresponde:
+   - a) Al Ministro de la Presidencia o, en su defecto, a un Vicepresidente del Gobierno.
+   - b) Al Subsecretario de la Presidencia.
+   - c) A un Vicepresidente del Gobierno o, en su defecto, al Secretario de Estado de la Presidencia.
+   - d) A un Vicepresidente del Gobierno o, en su defecto, al Ministro de la Presidencia.
 
-a) El Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.  
-b) Se celebrarán automáticamente nuevas elecciones sin necesidad de disolución de las Cámaras.  
-c) El candidato del partido con mayor número de escaños será nombrado automáticamente Presidente.  
-d) El Rey propondrá un candidato de consenso entre los dos partidos más votados.  
+6. ¿Quién nombra, conforme a lo previsto en la Constitución Española de 1978, a los miembros del Tribunal Constitucional?
+   - a) El Congreso de los Diputados.
+   - b) El Senado.
+   - c) El Rey.
+   - d) El Gobierno.
 
-**4. Según el artículo 72 de la Constitución Española, las Cámaras elaboran:**
+7. Según la Ley 50/1997, de 27 de noviembre, del Gobierno, ¿cuál de las siguientes facultades podrá ejercer el Presidente del Gobierno en funciones?
+   - a) Proponer al Rey la convocatoria de un referéndum consultivo.
+   - b) Plantear la cuestión de confianza.
+   - c) Proponer al Rey la disolución de alguna de las Cámaras, o de las Cortes Generales.
+   - d) Aprobar decretos leyes.
 
-a) Sus respectivos presupuestos, que deberán aprobar las Cortes Generales en sesión conjunta.  
-b) Un presupuesto común que deberá ser aprobado por el Gobierno.  
-c) Sus respectivos presupuestos de manera autónoma.  
-d) Sus respectivos presupuestos, que deberán ser aprobados por el Ministerio de Hacienda.  
+8. De acuerdo con el artículo 7 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las Administraciones Públicas, en el ámbito de sus competencias, publicarán la siguiente información de relevancia jurídica:
+   - a) Los documentos que, conforme a la legislación sectorial vigente, deban ser sometidos a un período de información pública durante su tramitación.
+   - b) Las cuentas anuales que deban rendirse.
+   - c) Los proyectos de Decreto Ley.
+   - d) Las retribuciones percibidas por todos los órganos superiores y directivos de la Administración General del Estado.
 
-**5. El principio de inderogabilidad singular de los reglamentos significa que:**
+9. El IV Plan de Gobierno Abierto de España 2020-2024 se articula en 5 ejes y recoge 10 compromisos. ¿Cuál de los siguientes compromisos permite a cualquier persona conocer el proceso de elaboración de las normas desde el inicio hasta su aprobación?
+   - a) Plan de Mejora de la Participación.
+   - b) Observatorio de Gobierno Abierto.
+   - c) Huella normativa.
+   - d) Sistemas preventivos de integridad pública.
 
-a) Una norma reglamentaria no puede derogar una ley.  
-b) Los reglamentos no pueden ser derogados por otras normas del mismo rango.  
-c) La Administración no puede dejar de aplicar un reglamento en un caso concreto.  
-d) Los reglamentos no se pueden recurrir ante la jurisdicción contencioso-administrativa.  
+10. ¿Cuántos miembros del Consejo General del Poder Judicial propone el Senado conforme a la Constitución Española de 1978?
+    - a) Dos.
+    - b) Cuatro.
+    - c) Cinco.
+    - d) Seis.
 
-**6. El artículo 34 de la Ley 39/2015 establece que los actos administrativos que dicten las Administraciones Públicas se producirán:**
+# 11. Conforme a la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo, tendrán la consideración de:
+   - a) Poderes públicos.
+   - b) Órganos superiores.
+   - c) Unidades vinculantes.
+   - d) Órganos administrativos.
 
-a) Por escrito exclusivamente.  
-b) Por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada.  
-c) Verbalmente cuando se trate de resoluciones, siendo preceptiva su posterior constancia por escrito.  
-d) A elección del órgano administrativo competente, sin que exista preferencia legal.  
+# 12. Conforme a la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la estructura de las Delegaciones y Subdelegaciones del Gobierno se fijará por:
+   - a) Real Decreto del Consejo de Ministros.
+   - b) Real Decreto del Presidente del Gobierno.
+   - c) Ley ordinaria.
+   - d) Orden del Ministerio de Política Territorial y Memoria Democrática.
 
-**7. Según el artículo 47 de la Ley 39/2015, son nulos de pleno derecho los actos administrativos:**
+# 13. Señala el artículo 150 de la Constitución que "El Estado podrá transferir o delegar en las Comunidades Autónomas facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación". Esta transferencia o delegación se ha de hacer mediante:
+   - a) Ley orgánica.
+   - b) Ley ordinaria.
+   - c) Ley marco.
+   - d) Ley de armonización cuando lo exija el interés general.
 
-a) Que limiten derechos subjetivos o intereses legítimos.  
-b) Que tengan un contenido imposible.  
-c) Que incurran en cualquier infracción del ordenamiento jurídico.  
-d) Que se dicten prescindiendo de algún trámite del procedimiento, aunque no sea esencial.  
+# 14. ¿De cuántos órganos consta el Tribunal de Justicia de la Unión Europea?
+   - a) Uno, el Tribunal de Justicia.
+   - b) Dos, el Tribunal de Justicia y el Consejo de Abogados.
+   - c) Dos, el Tribunal General y el Consejo de Abogados.
+   - d) Dos, el Tribunal de Justicia y el Tribunal General.
 
-**8. Según la Ley 40/2015, de Régimen Jurídico del Sector Público, la delegación de competencias:**
+# 15. Según lo dispuesto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en la Administración General del Estado en el exterior son órganos directivos:
+   - a) El Consejero de Política Exterior, los embajadores y representantes permanentes ante Organizaciones internacionales.
+   - b) El Consejero Ejecutivo de Política Exterior, los embajadores y representantes permanentes ante Organizaciones internacionales.
+   - c) Los embajadores y representantes permanentes ante Organizaciones internacionales.
+   - d) Los embajadores y representantes permanentes ante Organizaciones internacionales y el jefe de la oficina consular.
 
-a) No podrá revocarse en ningún momento por el órgano que la haya conferido.  
-b) Deberá ser publicada en el Boletín Oficial que corresponda, según la Administración a la que pertenezca el órgano delegante.  
-c) Podrá ser verbal en casos de urgencia.  
-d) Se mantendrá
+# 16. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y salvo las excepciones previstas en esa misma ley, la organización de la Administración General del Estado responde:
+   - a) A los principios de división funcional en Departamentos ministeriales, organismos autónomos y entes públicos y de gestión territorial integrada en Delegaciones del Gobierno en las Comunidades Autónomas y Subdelegaciones del Gobierno en las provincias.
+   - b) A los principios de división funcional en Departamentos ministeriales, en Delegaciones del Gobierno en las Comunidades Autónomas y Subdelegaciones del Gobierno en las provincias.
+   - c) A los principios de división funcional en Departamentos ministeriales y de gestión territorial integrada en Delegaciones del Gobierno en las Comunidades Autónomas.
+   - d) A los principios de división funcional en Organización Central, Organización Territorial y Administración General del Estado en el exterior.
+
+# 17. En relación con el artículo 107 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, previa su declaración de lesividad para el interés público, las Administraciones Públicas podrán impugnar ante el orden jurisdiccional contencioso-administrativo:
+   - a) Los actos favorables para los interesados que sean anulables.
+   - b) Los actos desfavorables para los interesados que sean nulos de pleno derecho.
+   - c) Los actos favorables y desfavorables para los interesados que sean anulables.
+   - d) Los actos favorables para los interesados, ya sean nulos de pleno derecho o anulables.
+
+# 18. De acuerdo con la Resolución de 7 de mayo de 2014, de la Secretaría de Estado de Administraciones Públicas, por la que se establece el procedimiento de aprobación y gestión de listas de candidatos a personal funcionario interino de los Cuerpos de la Administración General del Estado, cuya selección se encomienda a la Comisión Permanente de Selección, el candidato deberá presentarse para tomar posesión de su puesto de trabajo en el plazo máximo de:
+   - a) Tres días naturales desde el nombramiento.
+   - b) Tres días hábiles desde el nombramiento.
+   - c) Cinco días hábiles desde el nombramiento.
+   - d) Cinco días naturales desde el nombramiento.
+
+# 19. En lo que respecta a la notificación en papel y, de conformidad con el artículo 42 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando la notificación se practique en el domicilio del interesado, de no hallarse presente, podrá hacerse cargo de la misma:
+   - a) Cualquier persona mayor de doce años que se encuentre en el domicilio y haga constar su identidad.
+   - b) Cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad.
+   - c) Cualquier persona mayor de dieciséis años que se encuentre en el domicilio sin ser necesario hacer constar su identidad.
+   - d) Cualquier persona mayor de dieciocho años que se encuentre en el domicilio sin ser necesario hacer constar su identidad.
+
+# 20. Según el texto refundido de la Ley del Estatuto Básico del Empleado Público, las infracciones muy graves prescribirán:
+   - a) A los tres años.
+   - b) A los dos años.
+   - c) A los seis meses.
+   - d) A los seis años.
+
+# 21. Corresponde a los órganos superiores de la Administración General del Estado, según lo dispuesto en el artículo 55 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:
+   - a) Establecer los planes de actuación de la organización situada bajo su responsabilidad.
+   - b) Establecer los planes de actuación de la organización situada bajo su responsabilidad, así como su desarrollo y ejecución.
+   - c) El desarrollo y ejecución de los planes de actuación de la organización.
+   - d) La evaluación de la gestión realizada por el órgano directivo competente, sin perjuicio del control establecido por la Ley General Presupuestaria.
+
+# 22. ¿Qué establece el artículo 3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas respecto a la capacidad de obrar de los grupos de afectados?
+   - a) No tendrán capacidad de obrar en el procedimiento administrativo.
+   - b) Tendrán capacidad de obrar cuando una disposición de carácter general así lo declare expresamente.
+   - c) Tendrán capacidad de obrar cuando un reglamento así lo declare expresamente.
+   - d) Tendrán capacidad de obrar cuando la ley así lo declare expresamente.
+
+# 23. Conforme a la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, ¿a quién corresponde financiar el nivel mínimo de protección garantizado para cada uno de los beneficiarios del Sistema para la Autonomía y Atención a la Dependencia, según el grado de su dependencia?
+   - a) Los Ayuntamientos.
+   - b) Los Servicios Públicos de Salud.
+   - c) El Gobierno.
+   - d) Las Comunidades Autónomas.
+
+# 24. Según el artículo 2 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, ¿cuál de las siguientes entidades es un organismo público vinculado o dependiente de la Administración General del Estado?
+   - a) Sociedades mercantiles.
+   - b) Autoridades administrativas independientes.
+   - c) Fondos sin personalidad jurídica.
+   - d) Entidades Públicas Empresariales.
+
+# 25. Conforme al artículo 40 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en relación con la clasificación económica de los estados de gastos, se distinguen como créditos para operaciones de capital:
+   - a) Los gastos de personal.
+   - b) El Fondo de Contingencia.
+   - c) Las transferencias corrientes.
+   - d) Las inversiones reales.
+
+# 26. Según la Ley 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, en cuanto a la tutela judicial efectiva regulada en su artículo 12, ¿quién es la persona legitimada en los litigios sobre acoso sexual y acoso por razón de sexo?
+   - a) Cualquier persona física o jurídica.
+   - b) Cualquier persona física con o sin interés legítimo.
+   - c) Cualquier persona jurídica con o sin interés legítimo.
+   - d) La persona acosada.
+
+# 27. Conforme al artículo 9 de la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI, se constituye el Consejo de Participación de personas LGTBI, órgano dependiente del:
+   - a) Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.
+   - b) Ministerio de Igualdad.
+   - c) Ministerio de Derechos Sociales, Consumo y Agenda 2030.
+   - d) Ministerio de Inclusión, Seguridad Social y Migraciones.
+
+# 28. De acuerdo con el artículo 29 del texto refundido de la Ley del Estatuto Básico del Empleado Público, las cantidades destinadas a financiar aportaciones a planes de pensiones o contratos de seguros tendrán a todos los efectos la consideración de:
+   - a) Indemnizaciones.
+   - b) Retribuciones básicas.
+   - c) Retribuciones diferidas.
+   - d) Retribuciones complementarias.
+
+# 29. Según el artículo 2 de la Orden TDF/379/2024, de 26 de abril, para la regulación de especialidades de los procedimientos de provisión de puestos del personal directivo público profesional y las herramientas para su gestión en el marco de lo dispuesto en el Real Decreto-ley 6/2023, de 19 de diciembre, la provisión de puestos de personal directivo público profesional en la Administración del Estado se realizará mediante el sistema de:
+   - a) Concurso.
+   - b) Adscripción provisional.
+   - c) Reasignación de efectivos.
+   - d) Libre designación.
+
+# 30. El intervalo de niveles en el Subgrupo C2, conforme la Resolución de la Secretaría de Estado de Función Pública, de 7 de mayo de 2024, para la adecuación de los puestos de trabajo a la disposición transitoria sexta del Real Decreto-Ley 6/2023, de 19 de diciembre, es:
+   - a) Nivel mínimo 14 y nivel máximo 18.
+   - b) Nivel mínimo 12 y nivel máximo 18.
+   - c) Nivel mínimo 16 y nivel máximo 22.
+   - d) Nivel mínimo 14 y nivel máximo 20.
+
+
+
+
+
+
 
 
 ---
