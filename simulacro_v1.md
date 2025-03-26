@@ -14,11 +14,13 @@
 - Puntuación máxima: 100 puntos (50 puntos para cada parte).
 - Mínimo para superar cada parte: 25 puntos.
 
-## PARTE 1
-
-### BLOQUE I: ORGANIZACIÓN PÚBLICA (Preguntas 1 a 30)
+---
 
 **PRIMERA PARTE**
+
+---
+### BLOQUE I: ORGANIZACIÓN PÚBLICA (Preguntas 1 a 30)
+
 
 **1.** **Según el artículo 27 de la Constitución Española de 1978, la enseñanza básica es:**
    - a) Obligatoria y gratuita.
@@ -201,6 +203,7 @@
    - c) Nivel mínimo 16 y nivel máximo 22.
    - d) Nivel mínimo 14 y nivel máximo 20.
 
+---
 ## BLOQUE II: PSICOTECNICOS (Preguntas 31 a 60)
 
 **31.** **Indique cuál de las siguientes palabras es el sinónimo de AGLOMERADO.**
@@ -448,6 +451,8 @@
    - b) 1,52  
    - c) 0,70  
    - d) - 10,28  
+
+---
 
 
 
